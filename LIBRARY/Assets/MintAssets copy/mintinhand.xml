@@ -1,0 +1,49 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Assets/MintAssets copy/mintinhand" itemID="5af5d6d8-00000606" lastModified="1510590234">
+  <timeline>
+    <DOMTimeline name="mintinhand">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4F80FF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <RadialGradient>
+                        <matrix>
+                          <Matrix a="0.00848388671875" d="0.00848388671875"/>
+                        </matrix>
+                        <GradientEntry color="#EB01F4" alpha="0.898039215686275" ratio="0"/>
+                        <GradientEntry color="#FFFFFF" ratio="1"/>
+                      </RadialGradient>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="0.1">
+                        <fill>
+                          <SolidColor/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!12 -130S6[40 -128 55 -87!55 -87[72 -48 68 7!68 7[62 60 40 96!40 96[17 131 -12 130!-12 130[-40 128 -56 87!-56 87[-73 49 -68 -4!-68 -4[-64 -60 -40 -96!-40 -96[-18 -133 12 -130"/>
+                    <Edge cubics="!-12 130(;-31,128 -46,115 -56,87q-12 130Q-40 128q-56 87);"/>
+                    <Edge cubics="!40 96(;24,122 7,131 -12,130q40 96Q17 131q-12 130);"/>
+                    <Edge cubics="!68 7(;64,42 55,72 40,96q68 7Q62 60q40 96);"/>
+                    <Edge cubics="!-56 87(;-68,63 -71,30 -68,-4q-56 87Q-73 49q-68 -4);"/>
+                    <Edge cubics="!12 -130(;31,-128 45,-113 55,-87q12 -130Q40 -128q55 -87);"/>
+                    <Edge cubics="!-40 -96(;-27,-119 -8,-132 12,-130q-40 -96Q-18 -133q12 -130);"/>
+                    <Edge cubics="!55 -87(;65,-60 70,-30 68,7q55 -87Q72 -48q68 7);"/>
+                    <Edge cubics="!-68 -4(;-66,-42 -55,-70 -40,-96q-68 -4Q-64 -60q-40 -96);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

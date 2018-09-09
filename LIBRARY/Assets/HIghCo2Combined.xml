@@ -1,0 +1,40 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Assets/HIghCo2Combined" itemID="5a79f5d3-0000031d" lastModified="1517942227" lastUniqueIdentifier="3">
+  <timeline>
+    <DOMTimeline name="HIghCo2Combined">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/NewCO2Bottles/HighCO2Soda" selected="true">
+                  <matrix>
+                    <Matrix ty="0.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.25" y="0.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/CCup Assets/foamincup" selected="true" centerPoint3DX="0.95" centerPoint3DY="-96.8">
+                  <matrix>
+                    <Matrix a="0.5155029296875" tx="0.85" ty="-96.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/Bottle Assets copy/sodabottletint" selected="true">
+                  <matrix>
+                    <Matrix ty="-0.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

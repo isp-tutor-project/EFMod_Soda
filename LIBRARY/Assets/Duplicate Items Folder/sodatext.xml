@@ -1,0 +1,29 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Assets/Duplicate Items Folder/sodatext" itemID="5afef27d-000004c7" lastModified="1528813609">
+  <timeline>
+    <DOMTimeline name="sodatext">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4F80FF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText fontRenderingMode="standard" width="35.1" height="29.8" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="-17.35" ty="-18.75"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Soda</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="29.8" size="26" bitmapSize="520" face="MouseMemoirs-Regular" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

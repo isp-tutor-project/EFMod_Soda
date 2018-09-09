@@ -1,0 +1,66 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Assets/Blackarrow" itemID="5af5de05-000002dc" lastModified="1526063485">
+  <timeline>
+    <DOMTimeline name="Blackarrow">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#333333"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="1.95">
+                        <fill>
+                          <SolidColor color="#333333"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                    <StrokeStyle index="2">
+                      <SolidStroke scaleMode="normal" weight="4.85">
+                        <fill>
+                          <SolidColor color="#333333"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!592.5 -1037.5|60 -1080"/>
+                    <Edge fillStyle0="1" fillStyle1="1" strokeStyle="2" edges="!59.5 -1079|592.5 -1037"/>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!592.5 -1037.5|592.5 -1037!592.5 -1037|142 518!142 518|120 593!120 593|122 593!-361 459|59.5 -1079!59.5 -1079|60 -1080!-807 488|-828 459!-828 459|-827 459"/>
+                    <Edge fillStyle1="1" strokeStyle="2" edges="!560.5 593.5|-247 1273!-247 1273|-807 488"/>
+                    <Edge fillStyle0="1" fillStyle1="1" strokeStyle="2" edges="!-807 488|-827 459"/>
+                    <Edge fillStyle1="1" strokeStyle="2" edges="!-827 459|-361 459!122 593|561 593"/>
+                    <Edge strokeStyle="2" edges="!561 593|142 518"/>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!561 593|560.5 593.5"/>
+                    <Edge cubics="!593 -1037(;420,-1051 244,-1066 60,-1080q593 -1037 60 -1080);"/>
+                    <Edge cubics="!60 -1079(;60,-1079 60,-1080 60,-1080q60 -1079 60 -1080);"/>
+                    <Edge cubics="!60 -1079(;60,-1079 593,-1037 593,-1037q60 -1079 593 -1037);"/>
+                    <Edge cubics="!-361 459(;-361,459 60,-1079 60,-1079q-361 459 60 -1079);"/>
+                    <Edge cubics="!120 593(;120,593 122,593 122,593q120 593 122 593);"/>
+                    <Edge cubics="!142 518(;142,518 120,593 120,593q142 518 120 593);"/>
+                    <Edge cubics="!122 593(;122,593 561,593 561,593q122 593 561 593);"/>
+                    <Edge cubics="!561 593(;561,593 142,518 142,518q561 593 142 518);"/>
+                    <Edge cubics="!593 -1037(;593,-1037 142,518 142,518q593 -1037 142 518);"/>
+                    <Edge cubics="!561 594(;561,594 536,615 536,615q561 594 536 615);"/>
+                    <Edge cubics="!561 593(;561,593 561,594 561,594q561 593 561 594);"/>
+                    <Edge cubics="!-247 1273(;-247,1273 536,615 536,615q-247 1273 536 615);"/>
+                    <Edge cubics="!-828 459(;-828,459 -827,459 -827,459q-828 459 -827 459);"/>
+                    <Edge cubics="!-827 459(;-827,459 -361,459 -361,459q-827 459 -361 459);"/>
+                    <Edge cubics="!-247 1273(;-247,1273 -807,488 -807,488q-247 1273 -807 488);"/>
+                    <Edge cubics="!-807 488(;-807,488 -828,459 -828,459q-807 488 -828 459);"/>
+                    <Edge cubics="!-807 488(;-807,488 -827,459 -827,459q-807 488 -827 459);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

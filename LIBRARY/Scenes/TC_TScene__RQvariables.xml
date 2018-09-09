@@ -1,0 +1,113 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Scenes/TC_TScene__RQvariables" itemID="5b95707a-00000b4d" lastModified="1536520314">
+  <timeline>
+    <DOMTimeline name="TC_TScene__RQvariables">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="S_soda_varintro" fontRenderingMode="standard" left="-834.2" width="1828.45" height="290.8" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="-72" ty="-369.3"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>&#xD;Below are some variables that might affect the reaction between soda and mints. You can test one of these variables in your experiment.</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineSpacing="0" lineHeight="71.2" size="55" bitmapSize="1100" face="PTSans-Bold"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMDynamicText name="S_sweetenertype" fontRenderingMode="standard" left="-249.85" width="615.55" height="58.2" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="-24.05" ty="-25.2"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Type of Sweetener in the Soda</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" lineHeight="58.2" size="45" bitmapSize="900" face="PTSans-Bold"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMDynamicText name="S_caffeineamount" fontRenderingMode="standard" left="-258" width="630.05" height="58.2" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="-16.05" ty="71.55"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Amount of Caffeine in the Soda</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" lineHeight="58.2" size="45" bitmapSize="900" face="PTSans-Bold"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMDynamicText name="S_surfacetexture" fontRenderingMode="standard" left="-215.8" width="552.15" height="58.2" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="-60.1" ty="171.55"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Surface Texture of the Mint</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" lineHeight="58.2" size="45" bitmapSize="900" face="PTSans-Bold"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMDynamicText name="S_amountofco2" fontRenderingMode="standard" left="-334" width="792.2" height="70.5" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="55.95" ty="267.6"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Amount of Carbon Dioxide in the Soda</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" lineHeight="58.2" size="45" bitmapSize="900" face="PTSans-Bold"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMSymbolInstance libraryItemName="Assets/CrystalsExperimentGraphics/Bluearrow" name="var_sweetener">
+                  <matrix>
+                    <Matrix a="-0.1922607421875" b="0.83306884765625" c="0.83306884765625" d="0.1922607421875" tx="-350.85" ty="10.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-3.25" y="1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/CrystalsExperimentGraphics/Bluearrow" name="var_caffeine">
+                  <matrix>
+                    <Matrix a="-0.1922607421875" b="0.83306884765625" c="0.83306884765625" d="0.1922607421875" tx="-347.45" ty="104.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-3.25" y="1.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/CrystalsExperimentGraphics/Bluearrow" name="var_surfacetexture">
+                  <matrix>
+                    <Matrix a="-0.1922607421875" b="0.83306884765625" c="0.83306884765625" d="0.1922607421875" tx="-349.8" ty="199.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-3.2" y="0.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/CrystalsExperimentGraphics/Bluearrow" name="var_carbondioxide">
+                  <matrix>
+                    <Matrix a="-0.1922607421875" b="0.83306884765625" c="0.83306884765625" d="0.1922607421875" tx="-349.8" ty="298.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-3.2" y="0.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

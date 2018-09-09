@@ -1,0 +1,61 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Assets/CLabelALLVariables copy" itemID="5afef29e-000004cb" lastModified="1528813666">
+  <timeline>
+    <DOMTimeline name="CLabelALLVariables copy">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/Duplicate Items Folder/labelcolor" centerPoint3DX="-5.75">
+                  <matrix>
+                    <Matrix a="1.11326599121094" d="1.25242614746094" tx="-5.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/Duplicate Items Folder/sugarfree" centerPoint3DX="-5.35" centerPoint3DY="-15.45">
+                  <matrix>
+                    <Matrix a="1.11326599121094" d="1.25242614746094" tx="-5.35" ty="-15.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/Duplicate Items Folder/caffeinefree" centerPoint3DX="0.05" centerPoint3DY="20.45">
+                  <matrix>
+                    <Matrix a="1.11326599121094" d="1.25242614746094" tx="0.05" ty="20.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.25" y="0.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/Duplicate Items Folder/sodatext" centerPoint3DX="-4.75" centerPoint3DY="5">
+                  <matrix>
+                    <Matrix a="0.848663330078125" d="0.954757690429688" tx="-4.75" ty="5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMStaticText fontRenderingMode="standard" width="46.35" height="11.65" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="-28.05" ty="12.6"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Caffeine-free</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="11.65" size="9" bitmapSize="180" face="PTSans-Italic" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

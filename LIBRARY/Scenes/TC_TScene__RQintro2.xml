@@ -1,0 +1,116 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Scenes/TC_TScene__RQintro2" itemID="5b957059-00000b48" lastModified="1536520281">
+  <timeline>
+    <DOMTimeline name="TC_TScene__RQintro2">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="S_soda_materials" fontRenderingMode="standard" left="-599.3" width="1837.05" height="64.7" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="-319.2" ty="-484.65"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Here are all of the materials that may be necessary for this experiment: </characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="64.7" size="50" bitmapSize="1000" face="PTSans-Bold"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMSymbolInstance libraryItemName="Assets/FullBottles/FullSodaBottle_All" centerPoint3DX="-33.1" centerPoint3DY="14.9">
+                  <matrix>
+                    <Matrix a="4.04997253417969" d="4.04997253417969" tx="-33.1" ty="14.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/NewRuler">
+                  <matrix>
+                    <Matrix a="3.64494323730469" d="3.64494323730469" tx="555" ty="54.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="-0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/MintAssets copy/mintinhand">
+                  <matrix>
+                    <Matrix a="0" b="12.25" c="-12.25" d="0" tx="-602.2" ty="81.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMDynamicText name="S_mint" fontRenderingMode="standard" left="2.65" width="138.7" height="58.2" autoExpand="true" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="-676.8" ty="143.2"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>A mint </characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="58.2" size="45" bitmapSize="900" face="PTSans-Bold"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMDynamicText name="S_sodabottle" fontRenderingMode="standard" left="-80.75" width="305.5" height="58.2" autoExpand="true" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="-136.25" ty="432.55"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>A bottle of soda</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="58.2" size="45" bitmapSize="900" face="PTSans-Bold"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMDynamicText name="S_ruler" selected="true" fontRenderingMode="standard" left="1" width="142" height="58.2" autoExpand="true" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="478.2" ty="360.4"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>A ruler </characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="58.2" size="45" bitmapSize="900" face="PTSans-Bold"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMSymbolInstance libraryItemName="Assets/CrystalsExperimentGraphics/Bluearrow" name="material_mint">
+                  <matrix>
+                    <Matrix a="-0.22491455078125" b="-0.974349975585938" c="0.974349975585938" d="-0.22491455078125" tx="-768.7" ty="81.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-3.55" y="1.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/CrystalsExperimentGraphics/Bluearrow" name="material_bottle">
+                  <matrix>
+                    <Matrix a="-0.22491455078125" b="-0.974349975585938" c="0.974349975585938" d="-0.22491455078125" tx="-272.9" ty="-59.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-3.55" y="1.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/CrystalsExperimentGraphics/Bluearrow" name="material_ruler">
+                  <matrix>
+                    <Matrix a="-0.22491455078125" b="-0.974349975585938" c="0.974349975585938" d="-0.22491455078125" tx="426.1" ty="131.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-3.55" y="1.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

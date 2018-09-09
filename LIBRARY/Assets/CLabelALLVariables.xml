@@ -1,0 +1,48 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Assets/CLabelALLVariables" itemID="5afad7ce-00000549" lastModified="1526656862">
+  <timeline>
+    <DOMTimeline name="CLabelALLVariables">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/CLabelAssets/labelcolor" centerPoint3DX="-5.05">
+                  <matrix>
+                    <Matrix a="0.979644775390625" d="1.10209655761719" tx="-5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/CLabelAssets/sugarfree" selected="true" centerPoint3DX="-4.75" centerPoint3DY="-13.6">
+                  <matrix>
+                    <Matrix a="0.979644775390625" d="1.10209655761719" tx="-4.65" ty="-13.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.1" y="-0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/CLabelAssets/caffeinefree" centerPoint3DX="0.05" centerPoint3DY="18">
+                  <matrix>
+                    <Matrix a="0.979644775390625" d="1.10209655761719" ty="17.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.35" y="0.35"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/CLabelAssets/sodatext" centerPoint3DX="-4.2" centerPoint3DY="4.4">
+                  <matrix>
+                    <Matrix a="0.74676513671875" d="0.84014892578125" tx="-4.1" ty="4.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.15" y="0.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

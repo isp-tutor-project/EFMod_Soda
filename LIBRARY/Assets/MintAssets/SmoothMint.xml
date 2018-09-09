@@ -1,0 +1,49 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Assets/MintAssets/SmoothMint" itemID="5ac37abf-000000a8" lastModified="1522760383">
+  <timeline>
+    <DOMTimeline name="SmoothMint">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <RadialGradient>
+                        <matrix>
+                          <Matrix a="0.0086669921875" b="0.0084991455078125" c="-0.0084991455078125" d="0.0086669921875"/>
+                        </matrix>
+                        <GradientEntry color="#EB01F4" ratio="0"/>
+                        <GradientEntry color="#FFFFFF" ratio="1"/>
+                      </RadialGradient>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="0.1">
+                        <fill>
+                          <SolidColor/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!161 -95S6[183 -58 149 -7!149 -7[115 45 49 87!49 87[-20 124 -79 128!-79 128[-140 131 -162 96!-162 96[-183 60 -150 8!-150 8[-118 -44 -52 -83!-52 -83[16 -123 78 -127!78 -127[140 -131 161 -95"/>
+                    <Edge cubics="!-162 96(;-176,73 -173,42 -150,8q-162 96Q-183 60q-150 8);"/>
+                    <Edge cubics="!-79 128(;-122,131 -147,120 -162,96q-79 128Q-140 131q-162 96);"/>
+                    <Edge cubics="!49 87(;5,112 -40,124 -79,128q49 87Q-20 124q-79 128);"/>
+                    <Edge cubics="!-150 8(;-129,-27 -95,-57 -52,-83q-150 8Q-118 -44q-52 -83);"/>
+                    <Edge cubics="!161 -95(;176,-70 170,-41 149,-7q161 -95Q183 -58q149 -7);"/>
+                    <Edge cubics="!78 -127(;117,-130 147,-120 161,-95q78 -127Q140 -131q161 -95);"/>
+                    <Edge cubics="!149 -7(;124,28 93,58 49,87q149 -7Q115 45q49 87);"/>
+                    <Edge cubics="!-52 -83(;-7,-112 37,-123 78,-127q-52 -83Q16 -123q78 -127);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

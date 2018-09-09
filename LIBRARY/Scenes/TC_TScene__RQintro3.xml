@@ -1,0 +1,53 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Scenes/TC_TScene__RQintro3" itemID="5b95705b-00000b49" lastModified="1536520283">
+  <timeline>
+    <DOMTimeline name="TC_TScene__RQintro3">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="S_wewillputamint" fontRenderingMode="standard" left="-599.3" width="1837.05" height="58.2" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="-319.2" ty="-462.35"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>We will put a single mint into a bottle of soda. </characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="58.2" size="45" bitmapSize="900" face="PTSans-Bold"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMSymbolInstance libraryItemName="Assets/FullBottles/FullSodaBottle_All">
+                  <matrix>
+                    <Matrix a="2.92185974121094" d="3" tx="-0.9" ty="156.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/Textassets/startinglevel" name="S_startinglevel" selected="true">
+                  <matrix>
+                    <Matrix a="3" d="3" tx="142.25" ty="-55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.25" y="-0.25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/CHandwithmint">
+                  <matrix>
+                    <Matrix a="3" d="3" tx="-25.1" ty="-231.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

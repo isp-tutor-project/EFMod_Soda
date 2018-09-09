@@ -1,0 +1,212 @@
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" width="1920" height="1200" currentTimeline="1" xflVersion="2.96" creatorInfo="Adobe Animate CC" platform="Windows" versionInfo="Saved by Animate Windows 18.0 build 115" majorVersion="18" buildNumber="115" viewAngle3D="122.353661987282" vanishingPoint3DX="960" vanishingPoint3DY="600" nextSceneIdentifier="2" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" filetypeGUID="3CE50BB6-55CF-47A6-B591-01286DDDC64C" fileGUID="8927091D547A30DADEC29278A6AEC965">
+     <folders>
+          <DOMFolderItem name="____componentassets____" itemID="5ad28523-00000243"/>
+          <DOMFolderItem name="_HTMLControls" itemID="5b6f4063-000003e9"/>
+          <DOMFolderItem name="_HTMLControls/TC_THtmlInput__Assets" itemID="5b5cd7d8-000002da"/>
+          <DOMFolderItem name="_HTMLControls/TC_THtmlList__Assets" itemID="5b5cea4b-000003ab"/>
+          <DOMFolderItem name="_HTMLControls/TC_THtmlTable__Assets" itemID="5b5f40d8-000002e3"/>
+          <DOMFolderItem name="_HTMLControls/TC_THtmlText__Assets" itemID="5b5cd7c7-000002d7"/>
+          <DOMFolderItem name="_Tutor Global Assets_" itemID="5ad4e635-00000a48"/>
+          <DOMFolderItem name="_Tutor Global Assets_/NavPanel Components" itemID="5b6f403c-000003c9"/>
+          <DOMFolderItem name="Assets" itemID="5b4258e2-0000035e"/>
+          <DOMFolderItem name="Assets/Bottle Assets copy" itemID="5af5d9fb-000006b4"/>
+          <DOMFolderItem name="Assets/CCup Assets" itemID="5a2a9eee-00000028"/>
+          <DOMFolderItem name="Assets/CGesyerAssets" itemID="5a2a9eb9-00000023"/>
+          <DOMFolderItem name="Assets/CLabelAssets" itemID="5a2aa19a-0000008f"/>
+          <DOMFolderItem name="Assets/CrystalsExperimentGraphics" itemID="5af5d5b9-00000574"/>
+          <DOMFolderItem name="Assets/Duplicate Items Folder" itemID="5afef27d-000004ad"/>
+          <DOMFolderItem name="Assets/FullBottles" itemID="5a2aba8f-000004b7"/>
+          <DOMFolderItem name="Assets/MintAssets" itemID="5a2a9f1c-0000002e"/>
+          <DOMFolderItem name="Assets/MintAssets copy" itemID="5af5da24-000006b8"/>
+          <DOMFolderItem name="Assets/NewCO2Bottles" itemID="5a79f35e-00000268"/>
+          <DOMFolderItem name="Assets/Textassets" itemID="5abe4bcb-0000112a"/>
+          <DOMFolderItem name="Components" itemID="5b92f847-000020fc" isExpanded="true"/>
+          <DOMFolderItem name="Exports" itemID="5b60aa1c-0000045f" isExpanded="true"/>
+          <DOMFolderItem name="Imports" itemID="5b92a427-00000246"/>
+          <DOMFolderItem name="Scenes" itemID="5b40f2ba-000002e0" isExpanded="true"/>
+     </folders>
+     <media>
+          <DOMBitmapItem name="____componentassets____/TutorModule" itemID="5ad39ecb-000002ce" sourceLastImported="1512163249" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="____componentassets____/TutorModule.png" bitmapDataHRef="M 3 1523818176.dat" frameLeft="140" frameTop="1720" frameRight="780" frameBottom="2360"/>
+     </media>
+     <symbols>
+          <Include href="_HTMLControls/TC_THtmlInput__Assets/InputContainer.xml" loadImmediate="false" itemID="5b633487-0000051f" lastModified="1533228563"/>
+          <Include href="_HTMLControls/TC_THtmlInput__Input1.xml" loadImmediate="false" itemID="5b633529-0000053e" lastModified="1533228606"/>
+          <Include href="_HTMLControls/TC_THtmlList__Assets/listbox.xml" loadImmediate="false" itemID="5b5cea34-000003a3" lastModified="1533050789"/>
+          <Include href="_HTMLControls/TC_THtmlList__List1.xml" loadImmediate="false" itemID="5b5f91b5-00000346" lastModified="1533225790"/>
+          <Include href="_HTMLControls/TC_THtmlList1__CustomList1.xml" loadImmediate="false" itemID="5b707bd7-000006c8" lastModified="1534618188"/>
+          <Include href="_HTMLControls/TC_THtmlTable__Assets/tablearea.xml" loadImmediate="false" itemID="5b5f40c1-000002dc" lastModified="1533050778"/>
+          <Include href="_HTMLControls/TC_THtmlTable__Table1.xml" loadImmediate="false" itemID="5b5f91bf-00000347" lastModified="1534019420"/>
+          <Include href="_HTMLControls/TC_THtmlText__Assets/TextArea.xml" loadImmediate="false" itemID="5b59ef22-00000313" lastModified="1533575923"/>
+          <Include href="_HTMLControls/TC_THtmlText__Text1.xml" loadImmediate="false" itemID="5b5f91c5-00000348" lastModified="1533575928"/>
+          <Include href="_Tutor Global Assets_/NavPanel Components/contentFrame.xml" loadImmediate="false" itemID="5b8db279-000005f6" lastModified="1536012921"/>
+          <Include href="_Tutor Global Assets_/SceneRegion.xml" loadImmediate="false" itemID="5ad4e5af-00000a3e" lastModified="1536514559"/>
+          <Include href="_Tutor Global Assets_/TC_TVirtual__SceneRgn.xml" loadImmediate="false" itemID="5b7745af-0000037b" lastModified="1536518598"/>
+          <Include href="_Tutor Global Assets_/TutorModule.xml" loadImmediate="false" itemID="5ad39eb8-000002c4" lastModified="1523818168"/>
+          <Include href="Assets/Blackarrow.xml" loadImmediate="false" itemID="5af5de05-000002dc" lastModified="1526063485"/>
+          <Include href="Assets/Bottle Assets copy/co2halffullbottle.xml" loadImmediate="false" itemID="5af5d6d8-00000609" lastModified="1510589886"/>
+          <Include href="Assets/Bottle Assets copy/sodabottle.xml" loadImmediate="false" itemID="5af5d6d8-00000607" lastModified="1509370642"/>
+          <Include href="Assets/Bottle Assets copy/sodabottletint.xml" loadImmediate="false" itemID="5af5d6d8-00000608" lastModified="1512744098"/>
+          <Include href="Assets/CCup Assets/foamincup.xml" loadImmediate="false" itemID="5a09c443-0000001a" lastModified="1510589507"/>
+          <Include href="Assets/CGesyerAssets/AdditionalBubbles.xml" loadImmediate="false" itemID="5afad7cf-00000553" lastModified="1522179146"/>
+          <Include href="Assets/CGesyerAssets/additionalsodabubbles.xml" loadImmediate="false" itemID="5afad7cf-00000555" lastModified="1519938266"/>
+          <Include href="Assets/CGesyerAssets/geyser1.xml" loadImmediate="false" itemID="5afad7cf-00000556" lastModified="1512761844"/>
+          <Include href="Assets/CGesyerAssets/LongerGesyer.xml" loadImmediate="false" itemID="5a2ab752-00000286" lastModified="1512748883"/>
+          <Include href="Assets/Chand.xml" loadImmediate="false" itemID="5a2abaf7-000004c4" lastModified="1512749815"/>
+          <Include href="Assets/CHandwithmint.xml" loadImmediate="false" itemID="5a2ab331-00000279" lastModified="1526657703"/>
+          <Include href="Assets/CLabelALLVariables.xml" loadImmediate="false" itemID="5afad7ce-00000549" lastModified="1526656862"/>
+          <Include href="Assets/CLabelALLVariables copy.xml" loadImmediate="false" itemID="5afef29e-000004cb" lastModified="1528813666"/>
+          <Include href="Assets/CLabelAssets/caffeinefree.xml" loadImmediate="false" itemID="5a09c50c-0000002c" lastModified="1528813527"/>
+          <Include href="Assets/CLabelAssets/CCaffeineFreeSodaLabel.xml" loadImmediate="false" itemID="5a2aa17c-0000008d" lastModified="1528814703"/>
+          <Include href="Assets/CLabelAssets/CSugarFreeSodaLabel.xml" loadImmediate="false" itemID="5a2aa173-0000008a" lastModified="1528813268"/>
+          <Include href="Assets/CLabelAssets/labelcolor.xml" loadImmediate="false" itemID="5a09c55c-00000036" lastModified="1510589788"/>
+          <Include href="Assets/CLabelAssets/sodatext.xml" loadImmediate="false" itemID="59f72a10-00000012" lastModified="1528813435"/>
+          <Include href="Assets/CLabelAssets/sugarfree.xml" loadImmediate="false" itemID="5a09c543-00000031" lastModified="1528813542"/>
+          <Include href="Assets/Cline.xml" loadImmediate="false" itemID="5a2abaf4-000004c2" lastModified="1512749812"/>
+          <Include href="Assets/CrystalsExperimentGraphics/Bluearrow.xml" loadImmediate="false" itemID="5af59db1-000003d2" lastModified="1526046287"/>
+          <Include href="Assets/Duplicate Items Folder/AdditionalBubbles.xml" loadImmediate="false" itemID="5afef27d-000004bd" lastModified="1522179146"/>
+          <Include href="Assets/Duplicate Items Folder/additionalsodabubbles.xml" loadImmediate="false" itemID="5afef27d-000004c0" lastModified="1519938266"/>
+          <Include href="Assets/Duplicate Items Folder/caffeinefree.xml" loadImmediate="false" itemID="5afef27d-000004c6" lastModified="1517436406"/>
+          <Include href="Assets/Duplicate Items Folder/CCentimetersArrow.xml" loadImmediate="false" itemID="5afef27d-000004ae" lastModified="1513355453"/>
+          <Include href="Assets/Duplicate Items Folder/co2halffullbottle.xml" loadImmediate="false" itemID="5afef27d-000004be" lastModified="1510589886"/>
+          <Include href="Assets/Duplicate Items Folder/geyser1.xml" loadImmediate="false" itemID="5afef27d-000004c1" lastModified="1512761844"/>
+          <Include href="Assets/Duplicate Items Folder/labelcolor.xml" loadImmediate="false" itemID="5afef27d-000004c4" lastModified="1510589788"/>
+          <Include href="Assets/Duplicate Items Folder/mintinhand.xml" loadImmediate="false" itemID="5afef27d-000004c9" lastModified="1510590234"/>
+          <Include href="Assets/Duplicate Items Folder/NewRuler.xml" loadImmediate="false" itemID="5afef27d-000004af" lastModified="1528813891"/>
+          <Include href="Assets/Duplicate Items Folder/sodabottle.xml" loadImmediate="false" itemID="5afef27d-000004c2" lastModified="1509370642"/>
+          <Include href="Assets/Duplicate Items Folder/sodabottletint.xml" loadImmediate="false" itemID="5afef27d-000004c3" lastModified="1512744098"/>
+          <Include href="Assets/Duplicate Items Folder/sodatext.xml" loadImmediate="false" itemID="5afef27d-000004c7" lastModified="1528813609"/>
+          <Include href="Assets/Duplicate Items Folder/sugarfree.xml" loadImmediate="false" itemID="5afef27d-000004c5" lastModified="1528813632"/>
+          <Include href="Assets/FullBottles/FullSodaBottle_All.xml" loadImmediate="false" itemID="5a2ab180-000001fb" lastModified="1526656882"/>
+          <Include href="Assets/FullBottles/FullSodaBottle_CaffeineFree.xml" loadImmediate="false" itemID="5a2aadcf-000001d1" lastModified="1512746448"/>
+          <Include href="Assets/FullBottles/FullSodaBottle_SugarFree.xml" loadImmediate="false" itemID="5a2aae49-000001e6" lastModified="1512746569"/>
+          <Include href="Assets/FullBottles/SodaBottle_Plain.xml" loadImmediate="false" itemID="5abe4f0d-000011d1" lastModified="1528814399"/>
+          <Include href="Assets/HIghCo2Combined.xml" loadImmediate="false" itemID="5a79f5d3-0000031d" lastModified="1517942227"/>
+          <Include href="Assets/LargerMint_Scene.xml" loadImmediate="false" itemID="5abe4d41-00001173" lastModified="1526065722"/>
+          <Include href="Assets/LowCO2SodaCombined.xml" loadImmediate="false" itemID="5a79f55f-000002ff" lastModified="1517942111"/>
+          <Include href="Assets/MintAssets copy/mintinhand.xml" loadImmediate="false" itemID="5af5d6d8-00000606" lastModified="1510590234"/>
+          <Include href="Assets/MintAssets/RoughMint.xml" loadImmediate="false" itemID="5ac37aa6-000000a4" lastModified="1522760358"/>
+          <Include href="Assets/MintAssets/SmoothMint.xml" loadImmediate="false" itemID="5ac37abf-000000a8" lastModified="1522760383"/>
+          <Include href="Assets/NewCO2Bottles/Carbonation.xml" loadImmediate="false" itemID="5a79f4fd-000002e7" lastModified="1529083471"/>
+          <Include href="Assets/NewCO2Bottles/HighCO2Soda.xml" loadImmediate="false" itemID="5a79f36a-0000026d" lastModified="1517941464"/>
+          <Include href="Assets/NewCO2Bottles/LowCo2.xml" loadImmediate="false" itemID="5a79f4be-0000028a" lastModified="1529083501"/>
+          <Include href="Assets/NewRuler.xml" loadImmediate="false" itemID="5a33f807-00000045" lastModified="1528463251"/>
+          <Include href="Assets/SmallerMint_Scene.xml" loadImmediate="false" itemID="5abe4d4a-0000117d" lastModified="1526065746"/>
+          <Include href="Assets/Textassets/startinglevel.xml" loadImmediate="false" itemID="5af5d478-000004a2" lastModified="1528471030"/>
+          <Include href="Components/TC_TObject__SodaMovie.xml" loadImmediate="false" itemID="5b92be3c-00000e52" lastModified="1536343612"/>
+          <Include href="Components/TC_TObject__SodaTopic.xml" loadImmediate="false" itemID="5b92d213-00000f96" lastModified="1536348691"/>
+          <Include href="Components/TC_TObject__SodaVars.xml" loadImmediate="false" itemID="5b92d56b-00001009" lastModified="1536349747"/>
+          <Include href="Exports/TL_Soda__RQintro1.xml" loadImmediate="false" itemID="5b958865-00000fcb" lastModified="1536526437"/>
+          <Include href="Exports/TL_Soda__RQintro2.xml" loadImmediate="false" itemID="5b958879-00000fd4" lastModified="1536526457"/>
+          <Include href="Exports/TL_Soda__RQintro3.xml" loadImmediate="false" itemID="5b95887e-00000fda" lastModified="1536526462"/>
+          <Include href="Exports/TL_Soda__RQintro4.xml" loadImmediate="false" itemID="5b958884-00000fe0" lastModified="1536526468"/>
+          <Include href="Exports/TL_Soda__RQintro5.xml" loadImmediate="false" itemID="5b95888a-00000fe6" lastModified="1536526474"/>
+          <Include href="Exports/TL_Soda__RQmaterials.xml" loadImmediate="false" itemID="5b958868-00000fcc" lastModified="1536526440"/>
+          <Include href="Exports/TL_Soda__RQmovie.xml" loadImmediate="false" itemID="5b95886c-00000fcd" lastModified="1536526444"/>
+          <Include href="Exports/TL_Soda__RQvariables.xml" loadImmediate="false" itemID="5b958870-00000fce" lastModified="1536526448"/>
+          <Include href="Exports/TL_Soda__SodaMovie.xml" loadImmediate="false" itemID="5b92ddb4-00001271" lastModified="1536351668"/>
+          <Include href="Exports/TL_Soda__SodaTopic.xml" loadImmediate="false" itemID="5b92ddbe-00001273" lastModified="1536351678"/>
+          <Include href="Exports/TL_Soda__SodaVars.xml" loadImmediate="false" itemID="5b92ddb9-00001272" lastModified="1536351673"/>
+          <Include href="Scenes/TC_TScene__RQintro1.xml" loadImmediate="false" itemID="5b957056-00000b47" lastModified="1536520278"/>
+          <Include href="Scenes/TC_TScene__RQintro2.xml" loadImmediate="false" itemID="5b957059-00000b48" lastModified="1536520281"/>
+          <Include href="Scenes/TC_TScene__RQintro3.xml" loadImmediate="false" itemID="5b95705b-00000b49" lastModified="1536520283"/>
+          <Include href="Scenes/TC_TScene__RQintro4.xml" loadImmediate="false" itemID="5b957060-00000b4a" lastModified="1536520288"/>
+          <Include href="Scenes/TC_TScene__RQintro5.xml" loadImmediate="false" itemID="5b957067-00000b4b" lastModified="1536520295"/>
+          <Include href="Scenes/TC_TScene__RQmovie.xml" loadImmediate="false" itemID="5b958614-00000f00" lastModified="1536525871"/>
+          <Include href="Scenes/TC_TScene__RQvariables.xml" loadImmediate="false" itemID="5b95707a-00000b4d" lastModified="1536520314"/>
+          <Include href="Scenes/TC_TScene__Template.xml" loadImmediate="false" itemID="5b6f468c-000004bf" lastModified="1536516033"/>
+     </symbols>
+     <timelines>
+          <DOMTimeline name="Scene 1">
+               <layers>
+                    <DOMLayer name="Actions" color="#00FFFF" locked="true" autoNamed="false" visible="false">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <Framescript language="JavaScript">
+                                        <script><![CDATA[stop();]]></script>
+                                   </Framescript>
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Scene Bounds" color="#FF00FF" locked="true" outline="true" useOutlineView="true" autoNamed="false" visible="false">
+                         <frames>
+                              <DOMFrame index="0" duration="10" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="_Tutor Global Assets_/SceneRegion">
+                                             <transformationPoint>
+                                                  <Point x="959.95" y="600"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Module Content" color="#9933CC" current="true" isSelected="true" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="1" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="2" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="3" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="4" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="5" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="6" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="7" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="8" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="9" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Module Component" color="#00FFFF" autoNamed="false" visible="false">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMComponentInstance libraryItemName="_Tutor Global Assets_/TutorModule" uniqueID="1">
+                                             <matrix>
+                                                  <Matrix tx="910" ty="550"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="50" y="50"/>
+                                             </transformationPoint>
+                                             <parametersAsXML><![CDATA[   <property id="compositionID">
+      <Inspectable name="compositionID" variable="compositionID" category="" verbose="0" defaultValue="8927091D547A30DADEC29278A6AEC965" type="String"/>
+   </property>
+   <property id="__ComponentType__">
+      <Inspectable name="__ComponentType__" variable="__ComponentType__" category="" verbose="0" defaultValue="1" type="Number"/>
+   </property>
+]]></parametersAsXML>
+                                        </DOMComponentInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timelines>
+     <scripts>
+          <GlobalScripts language="Javascript"/>
+     </scripts>
+     <persistentData>
+          <PD n="CreateJSToolkit_timelinedata" v="version&#xA;0.1&#xA;loop&#xA;true"/>
+     </persistentData>
+     <PrinterSettings/>
+     <publishHistory/>
+</DOMDocument>
