@@ -92,9 +92,10 @@
           <Include href="Assets/NewRuler.xml" loadImmediate="false" itemID="5a33f807-00000045" lastModified="1528463251"/>
           <Include href="Assets/SmallerMint_Scene.xml" loadImmediate="false" itemID="5abe4d4a-0000117d" lastModified="1526065746"/>
           <Include href="Assets/Textassets/startinglevel.xml" loadImmediate="false" itemID="5af5d478-000004a2" lastModified="1528471030"/>
-          <Include href="Components/TC_TObject__SodaMovie.xml" loadImmediate="false" itemID="5b92be3c-00000e52" lastModified="1536343612"/>
-          <Include href="Components/TC_TObject__SodaTopic.xml" loadImmediate="false" itemID="5b92d213-00000f96" lastModified="1536348691"/>
-          <Include href="Components/TC_TObject__SodaVars.xml" loadImmediate="false" itemID="5b92d56b-00001009" lastModified="1536349747"/>
+          <Include href="Components/TC_TObject__Movie.xml" loadImmediate="false" itemID="5b98449b-00000cd1" lastModified="1536705691"/>
+          <Include href="Components/TC_TObject__Topic.xml" loadImmediate="false" itemID="5b9844a3-00000cd2" lastModified="1536705699"/>
+          <Include href="Components/TC_TObject__Vars.xml" loadImmediate="false" itemID="5b9844a8-00000cd3" lastModified="1536705704"/>
+          <Include href="Exports/TL_Soda__Movie.xml" loadImmediate="false" itemID="5b984494-00000cd0" lastModified="1536705684"/>
           <Include href="Exports/TL_Soda__RQintro1.xml" loadImmediate="false" itemID="5b958865-00000fcb" lastModified="1536526437"/>
           <Include href="Exports/TL_Soda__RQintro2.xml" loadImmediate="false" itemID="5b958879-00000fd4" lastModified="1536526457"/>
           <Include href="Exports/TL_Soda__RQintro3.xml" loadImmediate="false" itemID="5b95887e-00000fda" lastModified="1536526462"/>
@@ -103,9 +104,8 @@
           <Include href="Exports/TL_Soda__RQmaterials.xml" loadImmediate="false" itemID="5b958868-00000fcc" lastModified="1536526440"/>
           <Include href="Exports/TL_Soda__RQmovie.xml" loadImmediate="false" itemID="5b95886c-00000fcd" lastModified="1536526444"/>
           <Include href="Exports/TL_Soda__RQvariables.xml" loadImmediate="false" itemID="5b958870-00000fce" lastModified="1536526448"/>
-          <Include href="Exports/TL_Soda__SodaMovie.xml" loadImmediate="false" itemID="5b92ddb4-00001271" lastModified="1536351668"/>
-          <Include href="Exports/TL_Soda__SodaTopic.xml" loadImmediate="false" itemID="5b92ddbe-00001273" lastModified="1536351678"/>
-          <Include href="Exports/TL_Soda__SodaVars.xml" loadImmediate="false" itemID="5b92ddb9-00001272" lastModified="1536351673"/>
+          <Include href="Exports/TL_Soda__Topic.xml" loadImmediate="false" itemID="5b98448a-00000cce" lastModified="1536705674"/>
+          <Include href="Exports/TL_Soda__Vars.xml" loadImmediate="false" itemID="5b984490-00000ccf" lastModified="1536705680"/>
           <Include href="Scenes/TC_TScene__RQintro1.xml" loadImmediate="false" itemID="5b957056-00000b47" lastModified="1536520278"/>
           <Include href="Scenes/TC_TScene__RQintro2.xml" loadImmediate="false" itemID="5b957059-00000b48" lastModified="1536520281"/>
           <Include href="Scenes/TC_TScene__RQintro3.xml" loadImmediate="false" itemID="5b95705b-00000b49" lastModified="1536520283"/>
@@ -116,7 +116,7 @@
           <Include href="Scenes/TC_TScene__Template.xml" loadImmediate="false" itemID="5b6f468c-000004bf" lastModified="1536516033"/>
      </symbols>
      <timelines>
-          <DOMTimeline name="Scene 1">
+          <DOMTimeline name="Scene 1" currentFrame="8">
                <layers>
                     <DOMLayer name="Actions" color="#00FFFF" locked="true" autoNamed="false" visible="false">
                          <frames>
@@ -168,10 +168,28 @@
                                    <elements/>
                               </DOMFrame>
                               <DOMFrame index="8" keyMode="9728">
-                                   <elements/>
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Components/TC_TObject__Topic" cacheAsBitmap="true">
+                                             <matrix>
+                                                  <Matrix tx="86.35" ty="155.35"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="332.4" y="441.75"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
                               </DOMFrame>
                               <DOMFrame index="9" keyMode="9728">
-                                   <elements/>
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Components/TC_TObject__Vars">
+                                             <matrix>
+                                                  <Matrix tx="119.25" ty="436.5"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="107.5" y="318"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
                               </DOMFrame>
                          </frames>
                     </DOMLayer>
@@ -191,7 +209,8 @@
    </property>
    <property id="__ComponentType__">
       <Inspectable name="__ComponentType__" variable="__ComponentType__" category="" verbose="0" defaultValue="1" type="Number"/>
-   </property>]]></parametersAsXML>
+   </property>
+]]></parametersAsXML>
                                         </DOMComponentInstance>
                                    </elements>
                               </DOMFrame>
@@ -204,10 +223,7 @@
           <GlobalScripts language="Javascript"/>
      </scripts>
      <persistentData>
-          <PD n="CreateJSToolkit_timelinedata" v="version
-0.1
-loop
-true"/>
+          <PD n="CreateJSToolkit_timelinedata" v="version&#xA;0.1&#xA;loop&#xA;true"/>
      </persistentData>
      <PrinterSettings/>
      <publishHistory/>

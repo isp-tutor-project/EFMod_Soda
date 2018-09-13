@@ -1,14 +1,14 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Exports/TL_Soda__SodaVars" itemID="5b92ddb9-00001272" lastModified="1536351673">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Exports/TL_Soda__Movie" itemID="5b984494-00000cd0" lastModified="1536705684">
   <timeline>
-    <DOMTimeline name="TL_Soda__SodaVars">
+    <DOMTimeline name="TL_Soda__Movie">
       <layers>
         <DOMLayer name="Layer_2" color="#9933CC" current="true" isSelected="true">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMRectangleObject objectWidth="213.45" objectHeight="636.8" x="0" y="0" lockFlag="true">
+                <DOMRectangleObject objectWidth="130.6" objectHeight="383.6" x="0" y="0" lockFlag="true">
                   <matrix>
-                    <Matrix a="1.00015258789063"/>
+                    <Matrix a="1.00053405761719"/>
                   </matrix>
                   <fill>
                     <SolidColor color="#0000FF"/>

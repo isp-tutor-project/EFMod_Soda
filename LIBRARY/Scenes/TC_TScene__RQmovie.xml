@@ -6,7 +6,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Components/TC_TObject__SodaMovie" name="Smovie" selected="true">
+                <DOMSymbolInstance libraryItemName="Components/TC_TObject__Movie" name="Smovie" selected="true">
                   <matrix>
                     <Matrix a="2.3199462890625" d="2.32012939453125" tx="250.5" ty="140.6"/>
                   </matrix>
