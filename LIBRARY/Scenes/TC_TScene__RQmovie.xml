@@ -1,12 +1,28 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Scenes/TC_TScene__RQmovie" itemID="5b958614-00000f00" lastModified="1536525871">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Scenes/TC_TScene__RQmovie" itemID="5b958614-00000f00" linkageExportForAS="true" linkageClassName="TC_TScene__RQmovie" lastModified="1537124911">
+  <persistentData>
+    <PD n="CreateJSToolkit_timelinedata" v="version&#xA;0.1&#xA;loop&#xA;true"/>
+  </persistentData>
   <timeline>
     <DOMTimeline name="TC_TScene__RQmovie">
       <layers>
-        <DOMLayer name="Layer_2" color="#9933CC" current="true" isSelected="true">
+        <DOMLayer name="Layer_3" color="#FF800A" current="true" isSelected="true">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Components/TC_TObject__Movie" name="Smovie" selected="true">
+                <DOMSymbolInstance libraryItemName="_Tutor Global Assets_/NavPanel Components/TC_TButton__PlayButton" name="Splay" selected="true" symbolType="button">
+                  <matrix>
+                    <Matrix a="2.42424011230469" d="2.42414855957031" tx="960.25" ty="598.6"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_2" color="#9933CC">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Components/TC_TObject__Movie" name="Smovie">
                   <matrix>
                     <Matrix a="2.3199462890625" d="2.32012939453125" tx="250.5" ty="140.6"/>
                   </matrix>
@@ -18,7 +34,7 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="Layer_1" color="#00FFFF" outline="true" useOutlineView="true">
+        <DOMLayer name="Layer_1" color="#00FFFF" locked="true" outline="true" useOutlineView="true">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>

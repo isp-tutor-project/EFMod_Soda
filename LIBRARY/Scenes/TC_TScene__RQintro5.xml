@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Scenes/TC_TScene__RQintro5" itemID="5b957067-00000b4b" lastModified="1536520295" lastUniqueIdentifier="1">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Scenes/TC_TScene__RQintro5" itemID="5b957067-00000b4b" linkageExportForAS="true" linkageClassName="TC_TScene__RQintro5" lastModified="1537036907" lastUniqueIdentifier="1">
   <timeline>
     <DOMTimeline name="TC_TScene__RQintro5">
       <layers>
@@ -58,10 +58,11 @@
                     </StrokeStyle>
                   </strokes>
                   <edges>
-                    <Edge strokeStyle="1" edges="!-2579 -8830|-2379 -8630!-2579 -8830|-2409 -9033!-2579 -8830|-219 -8830"/>
-                    <Edge fillStyle1="3" strokeStyle="2" edges="!-6117 -2743|-6117 -2709"/>
+                    <Edge strokeStyle="1" edges="!-2579 -8830|-2409 -9033!-2579 -8830|-2379 -8630!-2579 -8830|-219 -8830"/>
                     <Edge fillStyle1="3" edges="!-6117 -2709[-6117 -2704 -6117 -2699!-6117 -2699[#FFE815.EE #FFF5CC.79 -6140 -2550.5!-6140 -2550.5|-6140 -2693!-6140 -2693[#FFE804.6D #FFF56E.89 -6140 -2718!-6140 -2718|-6140 -2792!-6140 -2792[#FFE806.B7 #FFF51B.86 -6135 -2785!-6135 -2785
 [-6127 -2770 -6117 -2743"/>
+                    <Edge fillStyle1="3" strokeStyle="2" edges="
+!-6117 -2743|-6117 -2709"/>
                     <Edge fillStyle0="1" edges="
 !-5384 -67[-5386 -40 -5384 -13!-5384 -13|-5353 86!-5353 86|-5353 44!-5353 44[-5358 -30 -5384 -67"/>
                     <Edge fillStyle0="2" edges="
