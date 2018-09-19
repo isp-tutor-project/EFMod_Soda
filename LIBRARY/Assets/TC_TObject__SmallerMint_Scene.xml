@@ -1,6 +1,6 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Assets/LargerMint_Scene" itemID="5abe4d41-00001173" lastModified="1526065722">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Assets/TC_TObject__SmallerMint_Scene" itemID="5ba16a12-0000203b" lastModified="1537305106">
   <timeline>
-    <DOMTimeline name="LargerMint_Scene">
+    <DOMTimeline name="TC_TObject__SmallerMint_Scene">
       <layers>
         <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
           <frames>
@@ -8,23 +8,23 @@
               <elements>
                 <DOMSymbolInstance libraryItemName="Assets/Bottle Assets copy/sodabottle">
                   <matrix>
-                    <Matrix a="1.6385498046875" d="1.6385498046875" tx="43.15" ty="-2.65"/>
+                    <Matrix a="1.6385498046875" d="1.6385498046875" tx="23.5"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="-0.25" y="0.1"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Assets/MintAssets/RoughMint">
+                <DOMSymbolInstance libraryItemName="Assets/MintAssets/SmoothMint">
                   <matrix>
-                    <Matrix a="1.16752624511719" b="-1.46958923339844" c="-1.46958923339844" d="-1.16752624511719" tx="-68.4" ty="199"/>
+                    <Matrix a="1.61039733886719" d="1.61039733886719" tx="-77.7" ty="209.65"/>
                   </matrix>
                   <transformationPoint>
-                    <Point x="0.1" y="-0.05"/>
+                    <Point x="-0.15" y="0.15"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
                 <DOMSymbolInstance libraryItemName="Assets/Cline">
                   <matrix>
-                    <Matrix tx="-0.4" ty="217.25"/>
+                    <Matrix ty="220.55"/>
                   </matrix>
                   <transformationPoint>
                     <Point/>

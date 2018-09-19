@@ -81,12 +81,9 @@
           <Include href="Assets/Duplicate Items Folder/sodatext.xml" loadImmediate="false" itemID="5afef27d-000004c7" lastModified="1528813609"/>
           <Include href="Assets/Duplicate Items Folder/sugarfree.xml" loadImmediate="false" itemID="5afef27d-000004c5" lastModified="1528813632"/>
           <Include href="Assets/FullBottles/FullSodaBottle_All.xml" loadImmediate="false" itemID="5a2ab180-000001fb" lastModified="1526656882"/>
-          <Include href="Assets/FullBottles/FullSodaBottle_CaffeineFree.xml" loadImmediate="false" itemID="5a2aadcf-000001d1" lastModified="1512746448"/>
-          <Include href="Assets/FullBottles/FullSodaBottle_SugarFree.xml" loadImmediate="false" itemID="5a2aae49-000001e6" lastModified="1512746569"/>
-          <Include href="Assets/FullBottles/SodaBottle_Plain.xml" loadImmediate="false" itemID="5abe4f0d-000011d1" lastModified="1528814399"/>
-          <Include href="Assets/HIghCo2Combined.xml" loadImmediate="false" itemID="5a79f5d3-0000031d" lastModified="1517942227"/>
-          <Include href="Assets/LargerMint_Scene.xml" loadImmediate="false" itemID="5abe4d41-00001173" lastModified="1526065722"/>
-          <Include href="Assets/LowCO2SodaCombined.xml" loadImmediate="false" itemID="5a79f55f-000002ff" lastModified="1517942111"/>
+          <Include href="Assets/FullBottles/TC_TObject__FullSodaBottle_CaffeineFree.xml" loadImmediate="false" itemID="5ba16a09-0000203a" lastModified="1537305097"/>
+          <Include href="Assets/FullBottles/TC_TObject__FullSodaBottle_SugarFree.xml" loadImmediate="false" itemID="5ba169f5-00002038" lastModified="1537305077"/>
+          <Include href="Assets/FullBottles/TC_TObject__SodaBottle_Plain.xml" loadImmediate="false" itemID="5ba169fc-00002039" lastModified="1537305084"/>
           <Include href="Assets/MintAssets copy/mintinhand.xml" loadImmediate="false" itemID="5af5d6d8-00000606" lastModified="1510590234"/>
           <Include href="Assets/MintAssets/RoughMint.xml" loadImmediate="false" itemID="5ac37aa6-000000a4" lastModified="1522760358"/>
           <Include href="Assets/MintAssets/SmoothMint.xml" loadImmediate="false" itemID="5ac37abf-000000a8" lastModified="1522760383"/>
@@ -94,11 +91,14 @@
           <Include href="Assets/NewCO2Bottles/HighCO2Soda.xml" loadImmediate="false" itemID="5a79f36a-0000026d" lastModified="1517941464"/>
           <Include href="Assets/NewCO2Bottles/LowCo2.xml" loadImmediate="false" itemID="5a79f4be-0000028a" lastModified="1529083501"/>
           <Include href="Assets/NewRuler.xml" loadImmediate="false" itemID="5a33f807-00000045" lastModified="1528463251"/>
-          <Include href="Assets/SmallerMint_Scene.xml" loadImmediate="false" itemID="5abe4d4a-0000117d" lastModified="1526065746"/>
+          <Include href="Assets/TC_TObject__HIghCo2Combined.xml" loadImmediate="false" itemID="5ba16a28-0000203e" lastModified="1537305128"/>
+          <Include href="Assets/TC_TObject__LargerMint_Scene.xml" loadImmediate="false" itemID="5ba16a19-0000203c" lastModified="1537305113"/>
+          <Include href="Assets/TC_TObject__LowCO2SodaCombined.xml" loadImmediate="false" itemID="5ba16a21-0000203d" lastModified="1537305121"/>
+          <Include href="Assets/TC_TObject__SmallerMint_Scene.xml" loadImmediate="false" itemID="5ba16a12-0000203b" lastModified="1537305106"/>
           <Include href="Assets/Textassets/startinglevel.xml" loadImmediate="false" itemID="5af5d478-000004a2" lastModified="1528471030"/>
           <Include href="Components/TC_TObject__Movie.xml" itemID="5b98449b-00000cd1" lastModified="1537036885"/>
           <Include href="Components/TC_TObject__Topic.xml" itemID="5b9844a3-00000cd2" lastModified="1537036889"/>
-          <Include href="Components/TC_TObject__Vars.xml" itemID="5b9844a8-00000cd3" lastModified="1537036891"/>
+          <Include href="Components/TC_TObject__Vars.xml" itemID="5b9844a8-00000cd3" lastModified="1537305216"/>
           <Include href="Exports/TL_Soda__Movie.xml" loadImmediate="false" itemID="5b984494-00000cd0" lastModified="1536705684"/>
           <Include href="Exports/TL_Soda__RQintro1.xml" loadImmediate="false" itemID="5b958865-00000fcb" lastModified="1536526437"/>
           <Include href="Exports/TL_Soda__RQintro2.xml" loadImmediate="false" itemID="5b958879-00000fd4" lastModified="1536526457"/>
@@ -116,7 +116,7 @@
           <Include href="Scenes/TC_TScene__RQintro3.xml" itemID="5b95705b-00000b49" lastModified="1537036898"/>
           <Include href="Scenes/TC_TScene__RQintro4.xml" itemID="5b957060-00000b4a" lastModified="1537036901"/>
           <Include href="Scenes/TC_TScene__RQintro5.xml" itemID="5b957067-00000b4b" lastModified="1537036907"/>
-          <Include href="Scenes/TC_TScene__RQmovie.xml" itemID="5b958614-00000f00" lastModified="1537124911"/>
+          <Include href="Scenes/TC_TScene__RQmovie.xml" itemID="5b958614-00000f00" lastModified="1537305065"/>
           <Include href="Scenes/TC_TScene__RQvariables.xml" loadImmediate="false" itemID="5b95707a-00000b4d" lastModified="1536520314"/>
           <Include href="Scenes/TC_TScene__Template.xml" loadImmediate="false" itemID="5b6f468c-000004bf" lastModified="1536516033"/>
      </symbols>

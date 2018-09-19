@@ -1,14 +1,14 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Components/TC_TObject__Vars" itemID="5b9844a8-00000cd3" linkageExportForAS="true" linkageClassName="TC_TObject__Vars" lastModified="1537036891">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Components/TC_TObject__Vars" itemID="5b9844a8-00000cd3" linkageExportForAS="true" linkageClassName="TC_TObject__Vars" lastModified="1537305216">
   <timeline>
     <DOMTimeline name="TC_TObject__Vars">
       <layers>
-        <DOMLayer name="Svar1b" color="#FF0000" autoNamed="false">
+        <DOMLayer name="Svar1b" color="#FF0000" current="true" isSelected="true" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Assets/FullBottles/FullSodaBottle_SugarFree" name="Svar1b">
+                <DOMSymbolInstance libraryItemName="Assets/FullBottles/TC_TObject__FullSodaBottle_SugarFree" name="Svar1b">
                   <matrix>
-                    <Matrix a="3.05401611328125" d="3.05401611328125" tx="106.75" ty="315.3"/>
+                    <Matrix a="3.05401611328125" d="3.05401611328125" tx="106.75" ty="313.5"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="-3.6" y="-5.8"/>
@@ -22,9 +22,9 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Assets/FullBottles/SodaBottle_Plain" name="Svar1a">
+                <DOMSymbolInstance libraryItemName="Assets/FullBottles/TC_TObject__SodaBottle_Plain" name="Svar1a">
                   <matrix>
-                    <Matrix a="3.05401611328125" d="3.05401611328125" tx="106.75" ty="315.3"/>
+                    <Matrix a="3.05401611328125" d="3.05401611328125" tx="106.75" ty="313.5"/>
                   </matrix>
                   <transformationPoint>
                     <Point/>
@@ -38,7 +38,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Assets/FullBottles/SodaBottle_Plain" name="Svar2a">
+                <DOMSymbolInstance libraryItemName="Assets/FullBottles/TC_TObject__SodaBottle_Plain" name="Svar2a">
                   <matrix>
                     <Matrix a="3.06292724609375" d="3.06292724609375" tx="106.75" ty="314.4"/>
                   </matrix>
@@ -54,7 +54,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Assets/FullBottles/FullSodaBottle_CaffeineFree" name="Svar2b">
+                <DOMSymbolInstance libraryItemName="Assets/FullBottles/TC_TObject__FullSodaBottle_CaffeineFree" name="Svar2b">
                   <matrix>
                     <Matrix a="3.06292724609375" d="3.06292724609375" tx="106.75" ty="314.4"/>
                   </matrix>
@@ -66,16 +66,16 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="Svar3b" color="#FF4FFF" current="true" isSelected="true" autoNamed="false">
+        <DOMLayer name="Svar3b" color="#FF4FFF" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Assets/SmallerMint_Scene" name="Svar3b">
+                <DOMSymbolInstance libraryItemName="Assets/TC_TObject__SmallerMint_Scene" name="Svar3b">
                   <matrix>
-                    <Matrix a="0.949996948242188" d="0.949996948242188" tx="106.75" ty="419.3"/>
+                    <Matrix a="1.42155456542969" d="1.42158508300781" tx="106.7" ty="313.55"/>
                   </matrix>
                   <transformationPoint>
-                    <Point y="0.2"/>
+                    <Point x="0.05" y="0.25"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
               </elements>
@@ -86,9 +86,9 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Assets/LargerMint_Scene" name="Svar3a">
+                <DOMSymbolInstance libraryItemName="Assets/TC_TObject__LargerMint_Scene" name="Svar3a">
                   <matrix>
-                    <Matrix a="0.949996948242188" d="0.949996948242188" tx="106.75" ty="422.1"/>
+                    <Matrix a="1.395751953125" d="1.39576721191406" tx="106.75" ty="311.55"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="-0.25" y="-0.1"/>
@@ -102,12 +102,12 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Assets/LowCO2SodaCombined" name="Svar4b">
+                <DOMSymbolInstance libraryItemName="Assets/TC_TObject__LowCO2SodaCombined" name="Svar4b">
                   <matrix>
-                    <Matrix a="1.555908203125" d="1.555908203125" tx="106.75" ty="419.35"/>
+                    <Matrix a="2.32862854003906" d="2.32884216308594" tx="106.75" ty="313.45"/>
                   </matrix>
                   <transformationPoint>
-                    <Point x="-0.25" y="0.1"/>
+                    <Point x="-0.3" y="0.1"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
               </elements>
@@ -118,9 +118,9 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Assets/HIghCo2Combined" name="Svar4a">
+                <DOMSymbolInstance libraryItemName="Assets/TC_TObject__HIghCo2Combined" name="Svar4a">
                   <matrix>
-                    <Matrix a="1.555908203125" d="1.555908203125" tx="106.75" ty="419.15"/>
+                    <Matrix a="2.32601928710938" d="2.32661437988281" tx="106.75" ty="313.5"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="-0.2" y="0.25"/>

@@ -1,6 +1,6 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Assets/LowCO2SodaCombined" itemID="5a79f55f-000002ff" lastModified="1517942111">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Assets/TC_TObject__LowCO2SodaCombined" itemID="5ba16a21-0000203d" lastModified="1537305121">
   <timeline>
-    <DOMTimeline name="LowCO2SodaCombined">
+    <DOMTimeline name="TC_TObject__LowCO2SodaCombined">
       <layers>
         <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
           <frames>

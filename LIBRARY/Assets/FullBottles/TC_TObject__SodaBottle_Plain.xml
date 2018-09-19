@@ -1,6 +1,6 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Assets/FullBottles/SodaBottle_Plain" itemID="5abe4f0d-000011d1" lastModified="1528814399">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Assets/FullBottles/TC_TObject__SodaBottle_Plain" itemID="5ba169fc-00002039" lastModified="1537305084">
   <timeline>
-    <DOMTimeline name="SodaBottle_Plain">
+    <DOMTimeline name="TC_TObject__SodaBottle_Plain">
       <layers>
         <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
           <frames>
