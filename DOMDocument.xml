@@ -6,15 +6,15 @@
           <DOMFolderItem name="_HTMLControls/TC_THtmlList__Assets" itemID="5b5cea4b-000003ab"/>
           <DOMFolderItem name="_HTMLControls/TC_THtmlTable__Assets" itemID="5b5f40d8-000002e3"/>
           <DOMFolderItem name="_HTMLControls/TC_THtmlText__Assets" itemID="5b5cd7c7-000002d7"/>
-          <DOMFolderItem name="_Tutor Global Assets_" itemID="5ad4e635-00000a48" isExpanded="true"/>
+          <DOMFolderItem name="_Tutor Global Assets_" itemID="5ad4e635-00000a48"/>
           <DOMFolderItem name="_Tutor Global Assets_/NavPanel Components" itemID="5b6f403c-000003c9"/>
           <DOMFolderItem name="_Tutor Global Assets_/NavPanel Components/TC_TButton__Button Assets" itemID="5b68a267-00000548"/>
-          <DOMFolderItem name="Assets" itemID="5b4258e2-0000035e" isExpanded="true"/>
+          <DOMFolderItem name="Assets" itemID="5b4258e2-0000035e"/>
           <DOMFolderItem name="Assets/Bottle Assets copy" itemID="5af5d9fb-000006b4"/>
           <DOMFolderItem name="Assets/CCup Assets" itemID="5a2a9eee-00000028"/>
           <DOMFolderItem name="Assets/CGesyerAssets" itemID="5a2a9eb9-00000023"/>
           <DOMFolderItem name="Assets/CLabelAssets" itemID="5a2aa19a-0000008f"/>
-          <DOMFolderItem name="Assets/CrystalsExperimentGraphics" itemID="5af5d5b9-00000574" isExpanded="true"/>
+          <DOMFolderItem name="Assets/CrystalsExperimentGraphics" itemID="5af5d5b9-00000574"/>
           <DOMFolderItem name="Assets/Duplicate Items Folder" itemID="5afef27d-000004ad"/>
           <DOMFolderItem name="Assets/FullBottles" itemID="5a2aba8f-000004b7"/>
           <DOMFolderItem name="Assets/MintAssets" itemID="5a2a9f1c-0000002e"/>
@@ -24,7 +24,7 @@
           <DOMFolderItem name="Components" itemID="5b92f847-000020fc"/>
           <DOMFolderItem name="Exports" itemID="5b60aa1c-0000045f"/>
           <DOMFolderItem name="Imports" itemID="5b92a427-00000246"/>
-          <DOMFolderItem name="Scenes" itemID="5b40f2ba-000002e0" isExpanded="true"/>
+          <DOMFolderItem name="Scenes" itemID="5b40f2ba-000002e0"/>
      </folders>
      <media>
           <DOMBitmapItem name="____componentassets____/TutorModule" itemID="5ad39ecb-000002ce" sourceLastImported="1512163249" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="____componentassets____/TutorModule.png" bitmapDataHRef="M 3 1523818176.dat" frameLeft="140" frameTop="1720" frameRight="780" frameBottom="2360"/>
@@ -117,7 +117,7 @@
           <Include href="Scenes/TC_TScene__RQintro2.xml" itemID="5ba51687-0000149a" lastModified="1537545863"/>
           <Include href="Scenes/TC_TScene__RQintro3.xml" itemID="5ba50e43-00000321" lastModified="1537543789"/>
           <Include href="Scenes/TC_TScene__RQintro4.xml" itemID="5ba50e4d-00000322" lastModified="1537543796"/>
-          <Include href="Scenes/TC_TScene__RQmaterials.xml" itemID="5ba51683-00001499" lastModified="1537547001"/>
+          <Include href="Scenes/TC_TScene__RQmaterials.xml" itemID="5ba51683-00001499" lastModified="1537547359"/>
           <Include href="Scenes/TC_TScene__RQmovie.xml" itemID="5b958614-00000f00" lastModified="1537305065"/>
           <Include href="Scenes/TC_TScene__RQvariables.xml" loadImmediate="false" itemID="5b95707a-00000b4d" lastModified="1536520314"/>
           <Include href="Scenes/TC_TScene__Template.xml" loadImmediate="false" itemID="5b6f468c-000004bf" lastModified="1536516033"/>
