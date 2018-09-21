@@ -17,7 +17,7 @@
                     </StrokeStyle>
                   </strokes>
                   <edges>
-                    <Edge strokeStyle="1" edges="!-639 -208S4|-299 -208!-639 -208|-559 -258!-639 -208|-599 -148"/>
+                    <Edge strokeStyle="1" edges="!-639 -208S4|-599 -148!-639 -208|-559 -258!-639 -208|-299 -208"/>
                   </edges>
                 </DOMShape>
                 <DOMStaticText selected="true" fontRenderingMode="standard" width="43.7" height="43.8" autoExpand="true" isSelectable="false">

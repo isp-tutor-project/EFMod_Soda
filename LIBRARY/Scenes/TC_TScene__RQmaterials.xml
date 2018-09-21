@@ -1,4 +1,7 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Scenes/TC_TScene__RQmaterials" itemID="5ba51683-00001499" lastModified="1537546237">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Scenes/TC_TScene__RQmaterials" itemID="5ba51683-00001499" linkageExportForAS="true" linkageClassName="TC_TScene__RQmaterials" lastModified="1537547001">
+  <persistentData>
+    <PD n="CreateJSToolkit_timelinedata" v="version&#xA;0.1&#xA;loop&#xA;true"/>
+  </persistentData>
   <timeline>
     <DOMTimeline name="TC_TScene__RQmaterials">
       <layers>
@@ -82,7 +85,7 @@
                     </DOMTextRun>
                   </textRuns>
                 </DOMDynamicText>
-                <DOMSymbolInstance libraryItemName="Assets/CrystalsExperimentGraphics/TC_TObject__Arrow" name="material_mint">
+                <DOMSymbolInstance libraryItemName="Assets/CrystalsExperimentGraphics/TC_TObject__Arrow" name="Sarrow1">
                   <matrix>
                     <Matrix a="-0.180465698242188" b="-0.724502563476563" c="0.781829833984375" d="-0.167236328125" tx="364" ty="619.2"/>
                   </matrix>
@@ -90,24 +93,30 @@
                     <Point x="-3.55" y="1.1"/>
                   </transformationPoint>
                   <filters>
-                    <GlowFilter blurX="4" blurY="4"/>
+                    <DropShadowFilter blurX="15" blurY="15" color="#999999" distance="15" quality="2"/>
                   </filters>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Assets/CrystalsExperimentGraphics/TC_TObject__Arrow" name="material_bottle">
+                <DOMSymbolInstance libraryItemName="Assets/CrystalsExperimentGraphics/TC_TObject__Arrow" name="Sarrow2">
                   <matrix>
                     <Matrix a="-0.180465698242188" b="-0.724502563476563" c="0.781829833984375" d="-0.167236328125" tx="761.85" ty="514.35"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="-3.55" y="1.1"/>
                   </transformationPoint>
+                  <filters>
+                    <DropShadowFilter blurX="15" blurY="15" color="#999999" distance="15" quality="2"/>
+                  </filters>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Assets/CrystalsExperimentGraphics/TC_TObject__Arrow" name="material_ruler">
+                <DOMSymbolInstance libraryItemName="Assets/CrystalsExperimentGraphics/TC_TObject__Arrow" name="Sarrow3">
                   <matrix>
                     <Matrix a="-0.180465698242188" b="-0.724502563476563" c="0.781829833984375" d="-0.167236328125" tx="1322.75" ty="656.1"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="-3.65" y="1.1"/>
                   </transformationPoint>
+                  <filters>
+                    <DropShadowFilter blurX="15" blurY="15" color="#999999" distance="15" quality="2"/>
+                  </filters>
                 </DOMSymbolInstance>
               </elements>
             </DOMFrame>
@@ -122,7 +131,7 @@
                     <Point x="960" y="600"/>
                   </transformationPoint>
                   <filters>
-                    <GlowFilter blurX="4" blurY="4"/>
+                    <GlowFilter blurX="4" blurY="4" quality="2"/>
                   </filters>
                 </DOMSymbolInstance>
               </elements>
