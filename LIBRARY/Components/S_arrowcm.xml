@@ -1,0 +1,46 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Components/S_arrowcm" itemID="5ba4ef5f-00000465" lastModified="1537535839">
+  <timeline>
+    <DOMTimeline name="S_arrowcm">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="3.4">
+                        <fill>
+                          <SolidColor/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!0 541S4|170 338!0 541|200 741!0 541|2360 541"/>
+                    <Edge cubics="!0 541(;0,541 2360,541 2360,541q0 541 2360 541);"/>
+                    <Edge cubics="!0 541(;0,541 170,338 170,338q0 541 170 338);"/>
+                    <Edge cubics="!0 541(;0,541 200,741 200,741q0 541 200 741);"/>
+                  </edges>
+                </DOMShape>
+                <DOMStaticText selected="true" fontRenderingMode="standard" width="72.25" height="44" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="119" ty="2"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>14 cm</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" lineHeight="44" size="34" bitmapSize="680" face="PTSans-Narrow"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>
