@@ -1,4 +1,4 @@
-<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" width="1920" height="1200" currentTimeline="1" xflVersion="2.96" creatorInfo="Adobe Animate CC" platform="Windows" versionInfo="Saved by Animate Windows 18.0 build 115" majorVersion="18" buildNumber="115" viewAngle3D="122.353661987282" vanishingPoint3DX="960" vanishingPoint3DY="600" nextSceneIdentifier="2" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" filetypeGUID="3CE50BB6-55CF-47A6-B591-01286DDDC64C" fileGUID="FD86026C5C6AC4011463E80D2ACCFDC8">
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" width="1920" height="1200" currentTimeline="1" xflVersion="2.96" creatorInfo="Adobe Animate CC" platform="Windows" versionInfo="Saved by Animate Windows 18.0 build 126" majorVersion="18" buildNumber="126" viewAngle3D="122.353661987282" vanishingPoint3DX="960" vanishingPoint3DY="600" nextSceneIdentifier="2" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" filetypeGUID="3CE50BB6-55CF-47A6-B591-01286DDDC64C" fileGUID="FD86026C5C6AC4011463E80D2ACCFDC8">
      <folders>
           <DOMFolderItem name="____componentassets____" itemID="5ad28523-00000243"/>
           <DOMFolderItem name="_HTMLControls" itemID="5b6f4063-000003e9"/>
@@ -22,9 +22,9 @@
           <DOMFolderItem name="Assets/NewCO2Bottles" itemID="5a79f35e-00000268"/>
           <DOMFolderItem name="Assets/Textassets" itemID="5abe4bcb-0000112a"/>
           <DOMFolderItem name="Components" itemID="5b92f847-000020fc"/>
-          <DOMFolderItem name="Exports" itemID="5b60aa1c-0000045f"/>
+          <DOMFolderItem name="Exports" itemID="5b60aa1c-0000045f" isExpanded="true"/>
           <DOMFolderItem name="Imports" itemID="5b92a427-00000246"/>
-          <DOMFolderItem name="Scenes" itemID="5b40f2ba-000002e0"/>
+          <DOMFolderItem name="Scenes" itemID="5b40f2ba-000002e0" isExpanded="true"/>
      </folders>
      <media>
           <DOMBitmapItem name="____componentassets____/TutorModule" itemID="5ad39ecb-000002ce" sourceLastImported="1512163249" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="____componentassets____/TutorModule.png" bitmapDataHRef="M 3 1523818176.dat" frameLeft="140" frameTop="1720" frameRight="780" frameBottom="2360"/>
@@ -106,7 +106,6 @@
           <Include href="Exports/TL_Soda__RQintro2.xml" loadImmediate="false" itemID="5b958879-00000fd4" lastModified="1536526457"/>
           <Include href="Exports/TL_Soda__RQintro3.xml" loadImmediate="false" itemID="5b95887e-00000fda" lastModified="1536526462"/>
           <Include href="Exports/TL_Soda__RQintro4.xml" loadImmediate="false" itemID="5b958884-00000fe0" lastModified="1536526468"/>
-          <Include href="Exports/TL_Soda__RQintro5.xml" loadImmediate="false" itemID="5b95888a-00000fe6" lastModified="1536526474"/>
           <Include href="Exports/TL_Soda__RQmaterials.xml" loadImmediate="false" itemID="5b958868-00000fcc" lastModified="1536526440"/>
           <Include href="Exports/TL_Soda__RQmovie.xml" loadImmediate="false" itemID="5b95886c-00000fcd" lastModified="1536526444"/>
           <Include href="Exports/TL_Soda__RQvariables.xml" loadImmediate="false" itemID="5b958870-00000fce" lastModified="1536526448"/>
@@ -123,7 +122,7 @@
           <Include href="Scenes/TC_TScene__Template.xml" loadImmediate="false" itemID="5b6f468c-000004bf" lastModified="1536516033"/>
      </symbols>
      <timelines>
-          <DOMTimeline name="Scene 1">
+          <DOMTimeline name="Scene 1" currentFrame="3">
                <layers>
                     <DOMLayer name="Actions" color="#00FFFF" locked="true" autoNamed="false" visible="false">
                          <frames>
@@ -151,40 +150,16 @@
                     <DOMLayer name="Module Content" color="#9933CC" current="true" isSelected="true" autoNamed="false">
                          <frames>
                               <DOMFrame index="0" keyMode="9728">
-                                   <elements>
-                                        <DOMSymbolInstance libraryItemName="Scenes/TC_TScene__RQintro1" selected="true">
-                                             <transformationPoint>
-                                                  <Point x="960" y="600"/>
-                                             </transformationPoint>
-                                        </DOMSymbolInstance>
-                                   </elements>
+                                   <elements/>
                               </DOMFrame>
                               <DOMFrame index="1" keyMode="9728">
-                                   <elements>
-                                        <DOMSymbolInstance libraryItemName="Scenes/TC_TScene__RQintro2">
-                                             <transformationPoint>
-                                                  <Point x="960" y="600"/>
-                                             </transformationPoint>
-                                        </DOMSymbolInstance>
-                                   </elements>
+                                   <elements/>
                               </DOMFrame>
                               <DOMFrame index="2" keyMode="9728">
-                                   <elements>
-                                        <DOMSymbolInstance libraryItemName="Scenes/TC_TScene__RQintro3">
-                                             <transformationPoint>
-                                                  <Point x="960" y="600"/>
-                                             </transformationPoint>
-                                        </DOMSymbolInstance>
-                                   </elements>
+                                   <elements/>
                               </DOMFrame>
                               <DOMFrame index="3" keyMode="9728">
-                                   <elements>
-                                        <DOMSymbolInstance libraryItemName="Scenes/TC_TScene__RQintro4">
-                                             <transformationPoint>
-                                                  <Point x="960" y="600"/>
-                                             </transformationPoint>
-                                        </DOMSymbolInstance>
-                                   </elements>
+                                   <elements/>
                               </DOMFrame>
                               <DOMFrame index="4" keyMode="9728">
                                    <elements/>
