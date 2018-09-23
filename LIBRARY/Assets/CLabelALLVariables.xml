@@ -22,7 +22,7 @@
                     <Point x="-0.1" y="-0.05"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Assets/CLabelAssets/caffeinefree" centerPoint3DX="0.05" centerPoint3DY="18">
+                <DOMSymbolInstance libraryItemName="Assets/CLabelAssets/TC_TObject__caffeinefree" centerPoint3DX="0.05" centerPoint3DY="18">
                   <matrix>
                     <Matrix a="0.979644775390625" d="1.10209655761719" ty="17.95"/>
                   </matrix>

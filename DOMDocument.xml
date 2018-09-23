@@ -1,4 +1,4 @@
-<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" width="1920" height="1200" currentTimeline="1" xflVersion="2.96" creatorInfo="Adobe Animate CC" platform="Windows" versionInfo="Saved by Animate Windows 18.0 build 126" majorVersion="18" buildNumber="126" viewAngle3D="122.353661987282" vanishingPoint3DX="960" vanishingPoint3DY="600" nextSceneIdentifier="2" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" filetypeGUID="3CE50BB6-55CF-47A6-B591-01286DDDC64C" fileGUID="FD86026C5C6AC4011463E80D2ACCFDC8">
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" width="1920" height="1200" currentTimeline="1" xflVersion="2.96" creatorInfo="Adobe Animate CC" platform="Windows" versionInfo="Saved by Animate Windows 18.0 build 115" majorVersion="18" buildNumber="115" viewAngle3D="122.353661987282" vanishingPoint3DX="960" vanishingPoint3DY="600" nextSceneIdentifier="2" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" filetypeGUID="3CE50BB6-55CF-47A6-B591-01286DDDC64C" fileGUID="FD86026C5C6AC4011463E80D2ACCFDC8">
      <folders>
           <DOMFolderItem name="____componentassets____" itemID="5ad28523-00000243"/>
           <DOMFolderItem name="_HTMLControls" itemID="5b6f4063-000003e9"/>
@@ -9,7 +9,8 @@
           <DOMFolderItem name="_Tutor Global Assets_" itemID="5ad4e635-00000a48"/>
           <DOMFolderItem name="_Tutor Global Assets_/NavPanel Components" itemID="5b6f403c-000003c9"/>
           <DOMFolderItem name="_Tutor Global Assets_/NavPanel Components/TC_TButton__Button Assets" itemID="5b68a267-00000548"/>
-          <DOMFolderItem name="Assets" itemID="5b4258e2-0000035e"/>
+          <DOMFolderItem name="Archive" itemID="5ba6cfdd-00001576"/>
+          <DOMFolderItem name="Assets" itemID="5b4258e2-0000035e" isExpanded="true"/>
           <DOMFolderItem name="Assets/Bottle Assets copy" itemID="5af5d9fb-000006b4"/>
           <DOMFolderItem name="Assets/CCup Assets" itemID="5a2a9eee-00000028"/>
           <DOMFolderItem name="Assets/CGesyerAssets" itemID="5a2a9eb9-00000023"/>
@@ -21,7 +22,8 @@
           <DOMFolderItem name="Assets/MintAssets copy" itemID="5af5da24-000006b8"/>
           <DOMFolderItem name="Assets/NewCO2Bottles" itemID="5a79f35e-00000268"/>
           <DOMFolderItem name="Assets/Textassets" itemID="5abe4bcb-0000112a"/>
-          <DOMFolderItem name="Components" itemID="5b92f847-000020fc"/>
+          <DOMFolderItem name="Components" itemID="5b92f847-000020fc" isExpanded="true"/>
+          <DOMFolderItem name="Components/Expt Assets" itemID="5ba82286-00002697"/>
           <DOMFolderItem name="Exports" itemID="5b60aa1c-0000045f" isExpanded="true"/>
           <DOMFolderItem name="Imports" itemID="5b92a427-00000246"/>
           <DOMFolderItem name="Scenes" itemID="5b40f2ba-000002e0" isExpanded="true"/>
@@ -46,25 +48,25 @@
           <Include href="_Tutor Global Assets_/SceneRegion.xml" loadImmediate="false" itemID="5ad4e5af-00000a3e" lastModified="1536514559"/>
           <Include href="_Tutor Global Assets_/TC_TVirtual__SceneRgn.xml" loadImmediate="false" itemID="5b7745af-0000037b" lastModified="1536518598"/>
           <Include href="_Tutor Global Assets_/TutorModule.xml" loadImmediate="false" itemID="5ad39eb8-000002c4" lastModified="1523818168"/>
-          <Include href="Assets/Blackarrow.xml" loadImmediate="false" itemID="5af5de05-000002dc" lastModified="1526063485"/>
+          <Include href="Archive/TC_TScene__RQintro3b.xml" loadImmediate="false" itemID="5ba6ad95-000012c8" lastModified="1537650345"/>
+          <Include href="Archive/TC_TScene__RQintro4b.xml" loadImmediate="false" itemID="5ba6ada4-000012ca" lastModified="1537650350"/>
           <Include href="Assets/Bottle Assets copy/co2halffullbottle.xml" loadImmediate="false" itemID="5af5d6d8-00000609" lastModified="1510589886"/>
           <Include href="Assets/Bottle Assets copy/sodabottle.xml" loadImmediate="false" itemID="5af5d6d8-00000607" lastModified="1509370642"/>
           <Include href="Assets/Bottle Assets copy/sodabottletint.xml" loadImmediate="false" itemID="5af5d6d8-00000608" lastModified="1512744098"/>
           <Include href="Assets/CCup Assets/foamincup.xml" loadImmediate="false" itemID="5a09c443-0000001a" lastModified="1510589507"/>
-          <Include href="Assets/CGesyerAssets/AdditionalBubbles.xml" loadImmediate="false" itemID="5afad7cf-00000553" lastModified="1522179146"/>
-          <Include href="Assets/CGesyerAssets/additionalsodabubbles.xml" loadImmediate="false" itemID="5afad7cf-00000555" lastModified="1519938266"/>
-          <Include href="Assets/CGesyerAssets/geyser1.xml" loadImmediate="false" itemID="5afad7cf-00000556" lastModified="1512761844"/>
           <Include href="Assets/CGesyerAssets/LongerGesyer.xml" loadImmediate="false" itemID="5a2ab752-00000286" lastModified="1512748883"/>
-          <Include href="Assets/Chand.xml" loadImmediate="false" itemID="5a2abaf7-000004c4" lastModified="1512749815"/>
+          <Include href="Assets/CGesyerAssets/TC_TObject__AdditionalBubbles.xml" loadImmediate="false" itemID="5ba6a756-00001247" lastModified="1537648470"/>
+          <Include href="Assets/CGesyerAssets/TC_TObject__additionalsodabubbles.xml" loadImmediate="false" itemID="5ba6a738-00001246" lastModified="1537648440"/>
+          <Include href="Assets/CGesyerAssets/TC_TObject__geyser1.xml" loadImmediate="false" itemID="5ba6a76b-00001248" lastModified="1537648491"/>
           <Include href="Assets/CHandwithmint.xml" loadImmediate="false" itemID="5a2ab331-00000279" lastModified="1526657703"/>
           <Include href="Assets/CLabelALLVariables.xml" loadImmediate="false" itemID="5afad7ce-00000549" lastModified="1526656862"/>
           <Include href="Assets/CLabelALLVariables copy.xml" loadImmediate="false" itemID="5afef29e-000004cb" lastModified="1528813666"/>
-          <Include href="Assets/CLabelAssets/caffeinefree.xml" loadImmediate="false" itemID="5a09c50c-0000002c" lastModified="1528813527"/>
           <Include href="Assets/CLabelAssets/CCaffeineFreeSodaLabel.xml" loadImmediate="false" itemID="5a2aa17c-0000008d" lastModified="1528814703"/>
-          <Include href="Assets/CLabelAssets/CSugarFreeSodaLabel.xml" loadImmediate="false" itemID="5a2aa173-0000008a" lastModified="1528813268"/>
+          <Include href="Assets/CLabelAssets/CSugarFreeSodaLabel.xml" loadImmediate="false" itemID="5a2aa173-0000008a" lastModified="1537745046"/>
           <Include href="Assets/CLabelAssets/labelcolor.xml" loadImmediate="false" itemID="5a09c55c-00000036" lastModified="1510589788"/>
           <Include href="Assets/CLabelAssets/sodatext.xml" loadImmediate="false" itemID="59f72a10-00000012" lastModified="1528813435"/>
           <Include href="Assets/CLabelAssets/sugarfree.xml" loadImmediate="false" itemID="5a09c543-00000031" lastModified="1537533838"/>
+          <Include href="Assets/CLabelAssets/TC_TObject__caffeinefree.xml" loadImmediate="false" itemID="5ba82136-00002603" lastModified="1537745206"/>
           <Include href="Assets/Cline.xml" loadImmediate="false" itemID="5a2abaf4-000004c2" lastModified="1512749812"/>
           <Include href="Assets/CrystalsExperimentGraphics/Bluearrow.xml" loadImmediate="false" itemID="5af59db1-000003d2" lastModified="1526046287"/>
           <Include href="Assets/CrystalsExperimentGraphics/TC_TObject__Arrow.xml" loadImmediate="false" itemID="5b9d752e-000020db" lastModified="1537045806"/>
@@ -81,26 +83,42 @@
           <Include href="Assets/Duplicate Items Folder/sodabottletint.xml" loadImmediate="false" itemID="5afef27d-000004c3" lastModified="1512744098"/>
           <Include href="Assets/Duplicate Items Folder/sodatext.xml" loadImmediate="false" itemID="5afef27d-000004c7" lastModified="1528813609"/>
           <Include href="Assets/Duplicate Items Folder/sugarfree.xml" loadImmediate="false" itemID="5afef27d-000004c5" lastModified="1528813632"/>
-          <Include href="Assets/FullBottles/FullSodaBottle_All.xml" loadImmediate="false" itemID="5a2ab180-000001fb" lastModified="1526656882"/>
+          <Include href="Assets/FullBottles/TC_TObject__FullSodaBottle_All.xml" loadImmediate="false" itemID="5ba6a51b-0000123b" lastModified="1537647899"/>
           <Include href="Assets/FullBottles/TC_TObject__FullSodaBottle_CaffeineFree.xml" loadImmediate="false" itemID="5ba16a09-0000203a" lastModified="1537305097"/>
           <Include href="Assets/FullBottles/TC_TObject__FullSodaBottle_SugarFree.xml" loadImmediate="false" itemID="5ba169f5-00002038" lastModified="1537305077"/>
-          <Include href="Assets/FullBottles/TC_TObject__SodaBottle_Plain.xml" loadImmediate="false" itemID="5ba169fc-00002039" lastModified="1537305084"/>
-          <Include href="Assets/MintAssets copy/mintinhand.xml" loadImmediate="false" itemID="5af5d6d8-00000606" lastModified="1510590234"/>
-          <Include href="Assets/MintAssets/RoughMint.xml" loadImmediate="false" itemID="5ac37aa6-000000a4" lastModified="1522760358"/>
-          <Include href="Assets/MintAssets/SmoothMint.xml" loadImmediate="false" itemID="5ac37abf-000000a8" lastModified="1522760383"/>
+          <Include href="Assets/FullBottles/TC_TObject__SodaBottle_Plain.xml" loadImmediate="false" itemID="5ba169fc-00002039" lastModified="1537745139"/>
+          <Include href="Assets/MintAssets copy/TC_TObject__mintinhand.xml" loadImmediate="false" itemID="5ba6a515-0000123a" lastModified="1537647893"/>
+          <Include href="Assets/MintAssets/TC_TObject__RoughMint.xml" loadImmediate="false" itemID="5ba821c6-00002612" lastModified="1537745350"/>
+          <Include href="Assets/MintAssets/TC_TObject__SmoothMint.xml" loadImmediate="false" itemID="5ba82213-00002694" lastModified="1537745427"/>
           <Include href="Assets/NewCO2Bottles/Carbonation.xml" loadImmediate="false" itemID="5a79f4fd-000002e7" lastModified="1529083471"/>
           <Include href="Assets/NewCO2Bottles/HighCO2Soda.xml" loadImmediate="false" itemID="5a79f36a-0000026d" lastModified="1517941464"/>
           <Include href="Assets/NewCO2Bottles/LowCo2.xml" loadImmediate="false" itemID="5a79f4be-0000028a" lastModified="1529083501"/>
-          <Include href="Assets/NewRuler.xml" loadImmediate="false" itemID="5a33f807-00000045" lastModified="1528463251"/>
+          <Include href="Assets/TC_TObject__Blackarrow.xml" loadImmediate="false" itemID="5ba6aaff-000012b6" lastModified="1537649407"/>
+          <Include href="Assets/TC_TObject__Chand.xml" loadImmediate="false" itemID="5ba6a502-00001239" lastModified="1537647874"/>
           <Include href="Assets/TC_TObject__HIghCo2Combined.xml" loadImmediate="false" itemID="5ba16a28-0000203e" lastModified="1537305128"/>
           <Include href="Assets/TC_TObject__LargerMint_Scene.xml" loadImmediate="false" itemID="5ba16a19-0000203c" lastModified="1537305113"/>
           <Include href="Assets/TC_TObject__LowCO2SodaCombined.xml" loadImmediate="false" itemID="5ba16a21-0000203d" lastModified="1537305121"/>
+          <Include href="Assets/TC_TObject__NewRuler.xml" loadImmediate="false" itemID="5ba6ab0b-000012b7" lastModified="1537649419"/>
+          <Include href="Assets/TC_TObject__S_arrowcm.xml" loadImmediate="false" itemID="5ba6aaed-000012b5" lastModified="1537649389"/>
           <Include href="Assets/TC_TObject__SmallerMint_Scene.xml" loadImmediate="false" itemID="5ba16a12-0000203b" lastModified="1537305106"/>
-          <Include href="Assets/Textassets/startinglevel.xml" loadImmediate="false" itemID="5af5d478-000004a2" lastModified="1528471030"/>
-          <Include href="Components/S_arrowcm.xml" loadImmediate="false" itemID="5ba4ef5f-00000465" lastModified="1537535839"/>
+          <Include href="Assets/Textassets/TC_TObject__startinglevel.xml" loadImmediate="false" itemID="5ba6a522-0000123c" lastModified="1537647906"/>
+          <Include href="Components/Expt Assets/TC_TObject__Callout.xml" loadImmediate="false" itemID="5ba81883-00002275" lastModified="1537742979"/>
+          <Include href="Components/Expt Assets/TC_TObject__CalloutLong.xml" loadImmediate="false" itemID="5ba81901-0000227e" lastModified="1537743138"/>
+          <Include href="Components/Expt Assets/TC_TObject__Expt1a.xml" loadImmediate="false" itemID="5ba82549-000026f0" lastModified="1537746249"/>
+          <Include href="Components/Expt Assets/TC_TObject__Expt1b.xml" loadImmediate="false" itemID="5ba82558-000026f8" lastModified="1537746264"/>
+          <Include href="Components/Expt Assets/TC_TObject__Expt2a.xml" loadImmediate="false" itemID="5ba82697-00002729" lastModified="1537746583"/>
+          <Include href="Components/Expt Assets/TC_TObject__Expt2b.xml" loadImmediate="false" itemID="5ba82567-00002700" lastModified="1537746279"/>
+          <Include href="Components/Expt Assets/TC_TObject__Expt3a.xml" loadImmediate="false" itemID="5ba826b7-00002730" lastModified="1537746615"/>
+          <Include href="Components/Expt Assets/TC_TObject__Expt3b.xml" loadImmediate="false" itemID="5ba826c1-0000273a" lastModified="1537746625"/>
+          <Include href="Components/Expt Assets/TC_TObject__Expt4a.xml" loadImmediate="false" itemID="5ba826da-00002744" lastModified="1537746650"/>
+          <Include href="Components/Expt Assets/TC_TObject__Expt4b.xml" loadImmediate="false" itemID="5ba826e3-00002754" lastModified="1537746659"/>
+          <Include href="Components/Expt Assets/TC_TObject__Label.xml" loadImmediate="false" itemID="5ba820f3-000025f3" lastModified="1537746464"/>
+          <Include href="Components/Expt Assets/TC_TObject__SodaLabel.xml" loadImmediate="false" itemID="5ba82608-0000270a" lastModified="1537746441"/>
+          <Include href="Components/Expt Assets/TC_TObject__SugarFree.xml" loadImmediate="false" itemID="5ba82096-000025e9" lastModified="1537745046"/>
+          <Include href="Components/TC_TObject__Expt.xml" itemID="5ba81f74-000024bb" lastModified="1537746804"/>
           <Include href="Components/TC_TObject__Movie.xml" itemID="5b98449b-00000cd1" lastModified="1537036885"/>
-          <Include href="Components/TC_TObject__Topic.xml" itemID="5b9844a3-00000cd2" lastModified="1537036889"/>
-          <Include href="Components/TC_TObject__Vars.xml" itemID="5b9844a8-00000cd3" lastModified="1537305216"/>
+          <Include href="Components/TC_TObject__Topic.xml" itemID="5b9844a3-00000cd2" lastModified="1537649764"/>
+          <Include href="Components/TC_TObject__Vars.xml" itemID="5b9844a8-00000cd3" lastModified="1537744933"/>
           <Include href="Exports/TL_Soda__Movie.xml" loadImmediate="false" itemID="5b984494-00000cd0" lastModified="1536705684"/>
           <Include href="Exports/TL_Soda__RQintro1.xml" loadImmediate="false" itemID="5b958865-00000fcb" lastModified="1536526437"/>
           <Include href="Exports/TL_Soda__RQintro2.xml" loadImmediate="false" itemID="5b958879-00000fd4" lastModified="1536526457"/>
@@ -112,10 +130,10 @@
           <Include href="Exports/TL_Soda__Topic.xml" loadImmediate="false" itemID="5b98448a-00000cce" lastModified="1536705674"/>
           <Include href="Exports/TL_Soda__Vars.xml" loadImmediate="false" itemID="5b984490-00000ccf" lastModified="1536705680"/>
           <Include href="Scenes/TC_TScene__RQenumVars.xml" itemID="5b9e9681-000008c6" lastModified="1537120246"/>
-          <Include href="Scenes/TC_TScene__RQintro1.xml" itemID="5ba50e3a-0000031f" lastModified="1537543783"/>
-          <Include href="Scenes/TC_TScene__RQintro2.xml" itemID="5ba51687-0000149a" lastModified="1537545863"/>
-          <Include href="Scenes/TC_TScene__RQintro3.xml" itemID="5ba50e43-00000321" lastModified="1537543789"/>
-          <Include href="Scenes/TC_TScene__RQintro4.xml" itemID="5ba50e4d-00000322" lastModified="1537543796"/>
+          <Include href="Scenes/TC_TScene__RQintro1.xml" itemID="5ba50e3a-0000031f" lastModified="1537658870"/>
+          <Include href="Scenes/TC_TScene__RQintro2.xml" itemID="5ba51687-0000149a" lastModified="1537658885"/>
+          <Include href="Scenes/TC_TScene__RQintro3.xml" itemID="5ba6ad9c-000012c9" lastModified="1537658910"/>
+          <Include href="Scenes/TC_TScene__RQintro4.xml" itemID="5ba6b612-00001472" lastModified="1537658924"/>
           <Include href="Scenes/TC_TScene__RQmaterials.xml" itemID="5ba51683-00001499" lastModified="1537547359"/>
           <Include href="Scenes/TC_TScene__RQmovie.xml" itemID="5b958614-00000f00" lastModified="1537305065"/>
           <Include href="Scenes/TC_TScene__RQvariables.xml" loadImmediate="false" itemID="5b95707a-00000b4d" lastModified="1536520314"/>

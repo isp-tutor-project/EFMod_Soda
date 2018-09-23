@@ -1,6 +1,6 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Assets/MintAssets copy/mintinhand" itemID="5af5d6d8-00000606" lastModified="1510590234">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Assets/MintAssets copy/TC_TObject__mintinhand" itemID="5ba6a515-0000123a" lastModified="1537647893">
   <timeline>
-    <DOMTimeline name="mintinhand">
+    <DOMTimeline name="TC_TObject__mintinhand">
       <layers>
         <DOMLayer name="Layer 1" color="#4F80FF" current="true" isSelected="true">
           <frames>

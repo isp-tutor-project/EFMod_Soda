@@ -14,7 +14,7 @@
                     <Point x="-0.25" y="0.1"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Assets/MintAssets/RoughMint">
+                <DOMSymbolInstance libraryItemName="Assets/MintAssets/TC_TObject__RoughMint">
                   <matrix>
                     <Matrix a="1.16752624511719" b="-1.46958923339844" c="-1.46958923339844" d="-1.16752624511719" tx="-68.4" ty="199"/>
                   </matrix>

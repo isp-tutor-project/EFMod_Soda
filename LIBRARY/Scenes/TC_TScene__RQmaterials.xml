@@ -22,7 +22,7 @@
                     </DOMTextRun>
                   </textRuns>
                 </DOMDynamicText>
-                <DOMSymbolInstance libraryItemName="Assets/FullBottles/FullSodaBottle_All" centerPoint3DX="954.3" centerPoint3DY="569.8">
+                <DOMSymbolInstance libraryItemName="Assets/FullBottles/TC_TObject__FullSodaBottle_All" centerPoint3DX="954.3" centerPoint3DY="569.8">
                   <matrix>
                     <Matrix a="3.24980163574219" d="3.01153564453125" tx="954.25" ty="569.65"/>
                   </matrix>
@@ -30,7 +30,7 @@
                     <Point x="0.25"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Assets/NewRuler">
+                <DOMSymbolInstance libraryItemName="Assets/TC_TObject__NewRuler">
                   <matrix>
                     <Matrix a="2.92478942871094" d="2.71035766601563" tx="1426.15" ty="599.1"/>
                   </matrix>
@@ -38,7 +38,7 @@
                     <Point y="-0.05"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Assets/MintAssets copy/mintinhand">
+                <DOMSymbolInstance libraryItemName="Assets/MintAssets copy/TC_TObject__mintinhand">
                   <matrix>
                     <Matrix a="0" b="9.10905456542969" c="-9.82974243164063" d="0" tx="497.6" ty="619.5"/>
                   </matrix>

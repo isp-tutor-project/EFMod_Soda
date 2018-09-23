@@ -1,270 +1,76 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Scenes/TC_TScene__RQintro3" itemID="5ba50e43-00000321" linkageExportForAS="true" linkageClassName="TC_TScene__RQintro3" lastModified="1537543789">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Scenes/TC_TScene__RQintro3" itemID="5ba6ad9c-000012c9" linkageExportForAS="true" linkageClassName="TC_TScene__RQintro3" lastModified="1537658910">
   <timeline>
     <DOMTimeline name="TC_TScene__RQintro3">
       <layers>
-        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+        <DOMLayer name="Shand1" color="#FF4F4F" current="true" isSelected="true" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMShape>
-                  <fills>
-                    <FillStyle index="1">
-                      <RadialGradient>
-                        <matrix>
-                          <Matrix a="0.145111083984375" d="0.151107788085938" tx="950.65" ty="555.1"/>
-                        </matrix>
-                        <GradientEntry color="#00A7FF" ratio="0"/>
-                        <GradientEntry color="#DFF3FF" ratio="0"/>
-                        <GradientEntry color="#D0EEFF" alpha="0.0470588235294118" ratio="0.00784313725490196"/>
-                        <GradientEntry color="#FFFFFF" ratio="1"/>
-                      </RadialGradient>
-                    </FillStyle>
-                    <FillStyle index="2">
-                      <SolidColor color="#424242"/>
-                    </FillStyle>
-                    <FillStyle index="3">
-                      <RadialGradient>
-                        <matrix>
-                          <Matrix a="0.145111083984375" d="0.151107788085938" tx="944.95" ty="555.1"/>
-                        </matrix>
-                        <GradientEntry color="#00A7FF" ratio="0"/>
-                        <GradientEntry color="#DFF3FF" ratio="0"/>
-                        <GradientEntry color="#D0EEFF" alpha="0.0470588235294118" ratio="0.00784313725490196"/>
-                        <GradientEntry color="#FFFFFF" ratio="1"/>
-                      </RadialGradient>
-                    </FillStyle>
-                    <FillStyle index="4">
-                      <SolidColor alpha="0.8"/>
-                    </FillStyle>
-                  </fills>
-                  <strokes>
-                    <StrokeStyle index="1">
-                      <SolidStroke scaleMode="normal">
-                        <fill>
-                          <SolidColor/>
-                        </fill>
-                      </SolidStroke>
-                    </StrokeStyle>
-                    <StrokeStyle index="2">
-                      <SolidStroke scaleMode="normal" weight="0.1">
-                        <fill>
-                          <SolidColor/>
-                        </fill>
-                      </SolidStroke>
-                    </StrokeStyle>
-                  </strokes>
-                  <edges>
-                    <Edge fillStyle0="1" edges="!19245 9068S1[19217 9068 19194 9068!19194 9068|18661 9073!18661 9073[18659 9083 18656 9085!18656 9085[18605 9196 18481 9213!18481 9213[18506 9231 18547 9233!18547 9233[18575 9233 18620 9233!18620 9233[18643 9236 18763 9278!18763 9278
-[18816 9290 18981 9305!18981 9305[19151 9312 19433 9369!19433 9369[19466 9374 19494 9386!19494 9386|19522 9144!19522 9144[19407 9085 19245 9068!18034 9088[18034 9115 18047 9149!18047 9149[18047 9115 18049 9088!18049 9088|18034 9088"/>
-                    <Edge strokeStyle="1" edges="
-!18181 9475S4|18032 9260!18032 9260|18052 9137!18052 9137|18186 9073!18186 9073|19202 9056!19202 9056|19468 9088"/>
-                    <Edge fillStyle1="2" edges="
-!19560 9554S2[19557 9554 19557 9556!19557 9556[19537 9532 19504 9536!19504 9536[19463 9546 19461 9576!19461 9576[19428 9578 19382 9578!19382 9578|18664 9576!18664 9576[18519 9573 18395 9566!18395 9566[18390 9564 18384 9564!18384 9564
-[18382 9564 18379 9564!18379 9564[18288 9556 18207 9541!18207 9541[18197 9539 18186 9536!18186 9536[18174 9517 18174 9499!18174 9499[18174 9482 18181 9475!18181 9475[18189 9465 18197 9465!18197 9465[18199 9462 18225 9462!18225 9462[18283
- 9470 18397 9482!18397 9482[18501 9490 18575 9490!18575 9490|19308 9490!19308 9490[19491 9490 19575 9462"/>
-                    <Edge fillStyle0="3" edges="
-!20164 13006S1|20115 12839!20115 12839[20110 12858 20095 12871!20095 12871[20075 12893 20049 12888!20049 12888[20019 12876 20001 12816!20001 12816[19994 12789 19983 12760!19983 12760[19963 12804 19933 12839!19933 12839[19867 12903 19793
- 12898!19793 12898[19770 12895 19747 12890!19747 12890[19752 12932 19750 12974!19750 12974[19750 13011 19735 13038!19735 13038[19712 13075 19674 13065!19674 13065[19643 13058 19638 13019!19638 13019[19562 13058 19489 13036!19489 13036
-[19334 12999 19265 12804!19265 12804[19230 12683 19230 12461!19230 12461|19230 11416!19230 11416[19202 11347 19186 11236!19186 11236[19164 11011 19166 10831!19166 10831[19166 10814 19169 10792!19169 10792|18461 10767!18461 10767[18407
- 10762 18397 10742!18397 10742[18374 10708 18415 10676!18415 10676[18443 10659 18488 10659!18488 10659[18615 10654 18915 10668!18915 10668[19062 10678 19176 10681!19176 10681[19202 10348 19308 9835!19308 9835[19313 9815 19318 9798!19318
- 9798[19263 9790 19194 9773!19194 9773[19133 9758 19072 9751!19072 9751[18933 9746 18839 9746!18839 9746[18554 9744 18306 9734!18306 9734[18329 9761 18326 9842!18326 9842|18316 9948!18316 9948[18329 9993 18331 10030!18331 10030[18344
- 10121 18344 10313!18344 10313[18349 10407 18367 10589!18367 10589[18387 10873 18308 11213!18308 11213[18258 11433 18131 11823!18131 11823|17879 12570!17879 12570[17867 12604 17859 12636!17859 12636[17915 12636 17961 12629!17961 12629
-|17966 12982!17966 12982|17613 12982!17613 12982[18159 13578 18902 13578!18902 13578[18930 13578 18958 13578!18958 13578[19651 13556 20164 13006"/>
-                    <Edge fillStyle0="1" edges="
-!17775 10661S1[17763 10710 17755 10757!17755 10757[17773 10708 17791 10661!17791 10661|17775 10661"/>
-                    <Edge strokeStyle="1" edges="
-!18207 10437S4|18207 9541"/>
-                    <Edge strokeStyle="2" edges="
-!20280 13006S4[19745 13578 19016 13578!19016 13578[18989 13578 18958 13578"/>
-                    <Edge fillStyle1="4" edges="
-!19575 9462S2[19580 9455 19582 9448!19582 9448[19610 9396 19620 9369!19620 9369[19659 9292 19656 9204!19656 9204[19656 9176 19646 9164!19646 9164[19636 9149 19593 9134!19593 9134|19499 9102!19499 9102[19481 9097 19468 9088!19468 9088
-[19463 9085 19461 9085!19461 9085[19456 9073 19456 9065!19456 9065[19456 9053 19463 9046!19463 9046[19489 9063 19572 9085!19572 9085[19638 9102 19661 9137!19661 9137[19669 9152 19679 9179!19679 9213[19679 9218 19679 9223!19679 9223[19671
- 9361 19631 9433!19631 9433[19598 9485 19593 9509"/>
-                    <Edge fillStyle1="4" strokeStyle="1" edges="
-!19679 9179S6|19679 9213"/>
-                    <Edge fillStyle0="4" fillStyle1="2" edges="
-!19575 9462S3[19580 9460 19582 9460!19582 9460[19593 9480 19593 9504!19593 9504[19593 9507 19593 9509"/>
-                    <Edge fillStyle1="2" edges="
-!19593 9509S2[19593 9514 19590 9519"/>
-                    <Edge fillStyle1="4" edges="
-!19590 9519S2[19587 9534 19587 9569!19587 9569[19587 9586 19585 9598!19585 9598[19575 9576 19562 9564!19562 9564|19562 9561!19562 9561[19560 9556 19560 9554"/>
-                    <Edge fillStyle0="4" fillStyle1="2" edges="
-!19590 9519S3[19585 9534 19575 9544!19575 9544[19567 9546 19560 9554"/>
-                    <Edge fillStyle0="1" edges="
-!20412 11855S1[20410 11882 20412 11909!20412 11909|20443 12008!20443 12008|20443 11966!20443 11966[20438 11892 20412 11855"/>
-                    <Edge cubics="!20280 13006(;19923,13389 19501,13578 19016,13578q20280 13006Q19745 13578q19016 13578);"/>
-                    <Edge cubics="!20443 11966(;20440,11926 20433,11884 20412,11855q20443 11966Q20438 11892q20412 11855);"/>
-                    <Edge cubics="!19245 9068(;19227,9068 19209,9068 19194,9068q19245 9068Q19217 9068q19194 9068);"/>
-                    <Edge cubics="!17775 10661(;17765,10693 17760,10723 17755,10757q17775 10661Q17763 10710q17755 10757);"/>
-                    <Edge cubics="!17755 10757(;17765,10723 17780,10691 17791,10661q17755 10757Q17773 10708q17791 10661);"/>
-                    <Edge cubics="!17791 10661(;17791,10661 17775,10661 17775,10661q17791 10661 17775 10661);"/>
-                    <Edge cubics="!20412 11855(;20410,11872 20410,11892 20412,11909q20412 11855Q20410 11882q20412 11909);"/>
-                    <Edge cubics="!20443 12008(;20443,12008 20443,11966 20443,11966q20443 12008 20443 11966);"/>
-                    <Edge cubics="!20412 11909(;20412,11909 20443,12008 20443,12008q20412 11909 20443 12008);"/>
-                    <Edge cubics="!18656 9085(;18626,9152 18554,9204 18481,9213q18656 9085Q18605 9196q18481 9213);"/>
-                    <Edge cubics="!18481 9213(;18519,9238 18575,9231 18620,9233q18481 9213Q18506 9231q18547 9233Q18575 9233q18620 9233);"/>
-                    <Edge cubics="!18620 9233(;18669,9238 18717,9260 18763,9278q18620 9233Q18643 9236q18763 9278);"/>
-                    <Edge cubics="!18763 9278(;18836,9292 18907,9295 18981,9305q18763 9278Q18816 9290q18981 9305);"/>
-                    <Edge cubics="!18981 9305(;19133,9312 19283,9339 19433,9369q18981 9305Q19151 9312q19433 9369);"/>
-                    <Edge cubics="!17961 12629(;17961,12750 17961,12866 17966,12982q17961 12629 17966 12982);"/>
-                    <Edge cubics="!18902 13578(;18405,13578 17978,13381 17613,12982q18902 13578Q18159 13578q17613 12982);"/>
-                    <Edge cubics="!20164 13006(;20164,13006 20115,12839 20115,12839q20164 13006 20115 12839);"/>
-                    <Edge cubics="!20049 12888(;20019,12876 20009,12844 20001,12816q20049 12888Q20019 12876q20001 12816);"/>
-                    <Edge cubics="!19750 12974(;19750,12999 19745,13021 19735,13038q19750 12974Q19750 13011q19735 13038);"/>
-                    <Edge cubics="!19735 13038(;19719,13061 19699,13070 19674,13065q19735 13038Q19712 13075q19674 13065);"/>
-                    <Edge cubics="!19674 13065(;19656,13061 19641,13038 19638,13019q19674 13065Q19643 13058q19638 13019);"/>
-                    <Edge cubics="!19489 13036(;19382,13009 19303,12913 19265,12804q19489 13036Q19334 12999q19265 12804);"/>
-                    <Edge cubics="!19265 12804(;19232,12696 19230,12577 19230,12461q19265 12804Q19230 12683q19230 12461);"/>
-                    <Edge cubics="!19186 11236(;19171,11100 19164,10967 19166,10831q19186 11236Q19164 11011q19166 10831);"/>
-                    <Edge cubics="!18331 10030(;18344,10121 18336,10217 18344,10313q18331 10030Q18344 10121q18344 10313);"/>
-                    <Edge cubics="!18344 10313(;18349,10407 18362,10496 18367,10589q18344 10313Q18349 10407q18367 10589);"/>
-                    <Edge cubics="!18367 10589(;18395,11011 18260,11423 18131,11823q18367 10589Q18387 10873q18308 11213Q18258 11433q18131 11823);"/>
-                    <Edge cubics="!18131 11823(;18047,12069 17961,12321 17879,12570q18131 11823 17879 12570);"/>
-                    <Edge cubics="!19072 9751(;18981,9746 18902,9746 18839,9746q19072 9751Q18933 9746q18839 9746);"/>
-                    <Edge cubics="!18316 9948(;18326,9978 18329,10005 18331,10030q18316 9948Q18329 9993q18331 10030);"/>
-                    <Edge cubics="!18326 9842(;18326,9842 18316,9948 18316,9948q18326 9842 18316 9948);"/>
-                    <Edge cubics="!18306 9734(;18318,9753 18329,9788 18326,9842q18306 9734Q18329 9761q18326 9842);"/>
-                    <Edge cubics="!18839 9746(;18651,9744 18471,9739 18306,9734q18839 9746Q18554 9744q18306 9734);"/>
-                    <Edge cubics="!19194 9773(;19151,9763 19110,9756 19072,9751q19194 9773Q19133 9758q19072 9751);"/>
-                    <Edge cubics="!19308 9835(;19313,9820 19316,9810 19318,9798q19308 9835Q19313 9815q19318 9798);"/>
-                    <Edge cubics="!19230 11416(;19209,11369 19194,11307 19186,11236q19230 11416Q19202 11347q19186 11236);"/>
-                    <Edge cubics="!19318 9798(;19283,9793 19242,9786 19194,9773q19318 9798Q19263 9790q19194 9773);"/>
-                    <Edge cubics="!19793 12898(;19780,12895 19763,12893 19747,12890q19793 12898Q19770 12895q19747 12890);"/>
-                    <Edge cubics="!19747 12890(;19750,12920 19752,12947 19750,12974q19747 12890Q19752 12932q19750 12974);"/>
-                    <Edge cubics="!19638 13019(;19590,13043 19539,13053 19489,13036q19638 13019Q19562 13058q19489 13036);"/>
-                    <Edge cubics="!20115 12839(;20113,12848 20105,12863 20095,12871q20115 12839Q20110 12858q20095 12871);"/>
-                    <Edge cubics="!20095 12871(;20082,12888 20067,12890 20049,12888q20095 12871Q20075 12893q20049 12888);"/>
-                    <Edge cubics="!20001 12816(;19996,12802 19991,12782 19983,12760q20001 12816Q19994 12789q19983 12760);"/>
-                    <Edge cubics="!19983 12760(;19968,12787 19953,12814 19933,12839q19983 12760Q19963 12804q19933 12839);"/>
-                    <Edge cubics="!19933 12839(;19890,12885 19844,12900 19793,12898q19933 12839Q19867 12903q19793 12898);"/>
-                    <Edge cubics="!17879 12570(;17872,12592 17864,12614 17859,12636q17879 12570Q17867 12604q17859 12636);"/>
-                    <Edge cubics="!17859 12636(;17897,12636 17933,12636 17961,12629q17859 12636Q17915 12636q17961 12629);"/>
-                    <Edge cubics="!19230 12461(;19230,12461 19230,11416 19230,11416q19230 12461 19230 11416);"/>
-                    <Edge cubics="!18661 9073(;18659,9078 18659,9083 18656,9085q18661 9073Q18659 9083q18656 9085);"/>
-                    <Edge cubics="!19194 9068(;19194,9068 18661,9073 18661,9073q19194 9068 18661 9073);"/>
-                    <Edge cubics="!18049 9088(;18049,9088 18034,9088 18034,9088q18049 9088 18034 9088);"/>
-                    <Edge cubics="!18047 9149(;18047,9125 18047,9102 18049,9088q18047 9149Q18047 9115q18049 9088);"/>
-                    <Edge cubics="!18034 9088(;18034,9102 18037,9125 18047,9149q18034 9088Q18034 9115q18047 9149);"/>
-                    <Edge cubics="!19494 9386(;19494,9386 19522,9144 19522,9144q19494 9386 19522 9144);"/>
-                    <Edge cubics="!19433 9369(;19453,9371 19473,9376 19494,9386q19433 9369Q19466 9374q19494 9386);"/>
-                    <Edge cubics="!19522 9144(;19445,9102 19354,9078 19245,9068q19522 9144Q19407 9085q19245 9068);"/>
-                    <Edge cubics="!18958 13578(;18940,13578 18920,13578 18902,13578q18958 13578Q18930 13578q18902 13578);"/>
-                    <Edge cubics="!19016 13578(;18996,13578 18981,13578 18958,13578q19016 13578Q18989 13578q18958 13578);"/>
-                    <Edge cubics="!20164 13006(;19821,13371 19417,13564 18958,13578q20164 13006Q19651 13556q18958 13578);"/>
-                    <Edge cubics="!17966 12982(;17966,12982 17613,12982 17613,12982q17966 12982 17613 12982);"/>
-                    <Edge cubics="!18397 10742(;18382,10720 18395,10691 18415,10676q18397 10742Q18374 10708q18415 10676);"/>
-                    <Edge cubics="!18415 10676(;18438,10661 18463,10659 18488,10659q18415 10676Q18443 10659q18488 10659);"/>
-                    <Edge cubics="!18461 10767(;18438,10765 18407,10762 18397,10742q18461 10767Q18407 10762q18397 10742);"/>
-                    <Edge cubics="!19166 10831(;19166,10819 19166,10804 19169,10792q19166 10831Q19166 10814q19169 10792);"/>
-                    <Edge cubics="!19169 10792(;19169,10792 18461,10767 18461,10767q19169 10792 18461 10767);"/>
-                    <Edge cubics="!19176 10681(;19194,10459 19237,10178 19308,9835q19176 10681Q19202 10348q19308 9835);"/>
-                    <Edge cubics="!18032 9260(;18032,9260 18052,9137 18052,9137q18032 9260 18052 9137);"/>
-                    <Edge cubics="!18052 9137(;18052,9137 18186,9073 18186,9073q18052 9137 18186 9073);"/>
-                    <Edge cubics="!18186 9073(;18186,9073 19202,9056 19202,9056q18186 9073 19202 9056);"/>
-                    <Edge cubics="!19582 9448(;19593,9421 19610,9396 19620,9369q19582 9448Q19610 9396q19620 9369);"/>
-                    <Edge cubics="!19620 9369(;19648,9317 19659,9260 19656,9204q19620 9369Q19659 9292q19656 9204);"/>
-                    <Edge cubics="!19656 9204(;19656,9191 19653,9174 19646,9164q19656 9204Q19656 9176q19646 9164);"/>
-                    <Edge cubics="!19646 9164(;19633,9147 19613,9142 19593,9134q19646 9164Q19636 9149q19593 9134);"/>
-                    <Edge cubics="!19593 9134(;19562,9125 19532,9115 19499,9102q19593 9134 19499 9102);"/>
-                    <Edge cubics="!19461 9085(;19453,9073 19453,9056 19463,9046q19461 9085Q19456 9073q19456 9065Q19456 9053q19463 9046);"/>
-                    <Edge cubics="!19463 9046(;19524,9088 19623,9078 19661,9137q19463 9046Q19489 9063q19572 9085Q19638 9102q19661 9137);"/>
-                    <Edge cubics="!19679 9179(;19679,9191 19679,9201 19679,9213q19679 9179Q19679 9196q19679 9213);"/>
-                    <Edge cubics="!19661 9137(;19666,9147 19671,9164 19679,9179q19661 9137Q19669 9152q19679 9179);"/>
-                    <Edge cubics="!19679 9223(;19679,9315 19659,9389 19631,9433q19679 9223Q19671 9361q19631 9433);"/>
-                    <Edge cubics="!19679 9213(;19679,9218 19679,9221 19679,9223q19679 9213Q19679 9218q19679 9223);"/>
-                    <Edge cubics="!19499 9102(;19486,9100 19473,9093 19468,9088q19499 9102Q19481 9097q19468 9088);"/>
-                    <Edge cubics="!19468 9088(;19463,9085 19463,9085 19461,9085q19468 9088Q19463 9085q19461 9085);"/>
-                    <Edge cubics="!19202 9056(;19202,9056 19468,9088 19468,9088q19202 9056 19468 9088);"/>
-                    <Edge cubics="!18197 9465(;18204,9460 18212,9462 18225,9462q18197 9465Q18199 9462q18225 9462);"/>
-                    <Edge cubics="!18225 9462(;18339,9475 18453,9490 18575,9490q18225 9462Q18283 9470q18397 9482Q18501 9490q18575 9490);"/>
-                    <Edge cubics="!18186 9536(;18179,9527 18174,9512 18174,9499q18186 9536Q18174 9517q18174 9499);"/>
-                    <Edge cubics="!18181 9475(;18186,9470 18192,9465 18197,9465q18181 9475Q18189 9465q18197 9465);"/>
-                    <Edge cubics="!18174 9499(;18174,9487 18176,9480 18181,9475q18174 9499Q18174 9482q18181 9475);"/>
-                    <Edge cubics="!18207 9541(;18199,9539 18192,9539 18186,9536q18207 9541Q18197 9539q18186 9536);"/>
-                    <Edge cubics="!18664 9576(;18570,9576 18486,9571 18395,9566q18664 9576 18395 9566);"/>
-                    <Edge cubics="!18181 9475(;18181,9475 18032,9260 18032,9260q18181 9475 18032 9260);"/>
-                    <Edge cubics="!19593 9504(;19593,9507 19593,9507 19593,9509q19593 9504Q19593 9507q19593 9509);"/>
-                    <Edge cubics="!19631 9433(;19610,9470 19595,9492 19593,9509q19631 9433Q19598 9485q19593 9509);"/>
-                    <Edge cubics="!19575 9462(;19580,9460 19580,9460 19582,9460q19575 9462Q19580 9460q19582 9460);"/>
-                    <Edge cubics="!19575 9462(;19580,9458 19580,9453 19582,9448q19575 9462Q19580 9455q19582 9448);"/>
-                    <Edge cubics="!19590 9519(;19585,9532 19582,9536 19575,9544q19590 9519Q19585 9534q19575 9544);"/>
-                    <Edge cubics="!19590 9519(;19587,9532 19587,9546 19587,9569q19590 9519Q19587 9534q19587 9569);"/>
-                    <Edge cubics="!19575 9544(;19572,9544 19565,9549 19560,9554q19575 9544Q19567 9546q19560 9554);"/>
-                    <Edge cubics="!19582 9460(;19590,9475 19593,9487 19593,9504q19582 9460Q19593 9480q19593 9504);"/>
-                    <Edge cubics="!19593 9509(;19593,9512 19593,9517 19590,9519q19593 9509Q19593 9514q19590 9519);"/>
-                    <Edge cubics="!19308 9490(;19430,9490 19519,9482 19575,9462q19308 9490Q19491 9490q19575 9462);"/>
-                    <Edge cubics="!19382 9578(;19382,9578 18664,9576 18664,9576q19382 9578 18664 9576);"/>
-                    <Edge cubics="!18575 9490(;18575,9490 19308,9490 19308,9490q18575 9490 19308 9490);"/>
-                    <Edge cubics="!18207 10437(;18207,10437 18207,9541 18207,9541q18207 10437 18207 9541);"/>
-                    <Edge cubics="!18384 9564(;18387,9564 18392,9564 18395,9566q18384 9564Q18390 9564q18395 9566);"/>
-                    <Edge cubics="!18379 9564(;18382,9564 18382,9564 18384,9564q18379 9564Q18382 9564q18384 9564);"/>
-                    <Edge cubics="!18379 9564(;18316,9559 18260,9549 18207,9541q18379 9564Q18288 9556q18207 9541);"/>
-                    <Edge cubics="!19461 9576(;19463,9559 19478,9544 19504,9536q19461 9576Q19463 9546q19504 9536);"/>
-                    <Edge cubics="!19562 9564(;19570,9571 19580,9586 19585,9598q19562 9564Q19575 9576q19585 9598);"/>
-                    <Edge cubics="!19560 9554(;19557,9554 19557,9554 19557,9556q19560 9554Q19557 9554q19557 9556);"/>
-                    <Edge cubics="!19562 9561(;19560,9559 19560,9556 19560,9554q19562 9561Q19560 9556q19560 9554);"/>
-                    <Edge cubics="!19562 9561(;19562,9561 19562,9564 19562,9564q19562 9561 19562 9564);"/>
-                    <Edge cubics="!19587 9569(;19587,9578 19587,9591 19585,9598q19587 9569Q19587 9586q19585 9598);"/>
-                    <Edge cubics="!19504 9536(;19524,9534 19544,9539 19557,9556q19504 9536Q19537 9532q19557 9556);"/>
-                    <Edge cubics="!19461 9576(;19438,9578 19410,9578 19382,9578q19461 9576Q19428 9578q19382 9578);"/>
-                    <Edge cubics="!18915 10668(;19013,10675 19100,10679 19176,10681q18915 10668Q19062 10678q19176 10681);"/>
-                    <Edge cubics="!18488 10659(;18573,10656 18715,10659 18915,10668q18488 10659Q18615 10654q18915 10668);"/>
-                  </edges>
-                </DOMShape>
-                <DOMSymbolInstance libraryItemName="_Tutor Global Assets_/TC_TVirtual__SceneRgn" selected="true" centerPoint3DX="960" centerPoint3DY="600">
-                  <transformationPoint>
-                    <Point x="960" y="600"/>
-                  </transformationPoint>
-                </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Assets/CGesyerAssets/additionalsodabubbles" selected="true" centerPoint3DX="946.9" centerPoint3DY="926.05">
+                <DOMSymbolInstance libraryItemName="Assets/TC_TObject__Chand" name="Shand1" selected="true">
                   <matrix>
-                    <Matrix a="2.28428649902344" d="2.505615234375" tx="946.85" ty="926"/>
+                    <Matrix a="2.7318115234375" b="-1.5771484375" c="1.5771484375" d="2.7318115234375" tx="762.35" ty="400.05"/>
                   </matrix>
                   <transformationPoint>
-                    <Point x="-1.65" y="-2.3"/>
+                    <Point/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Assets/Bottle Assets copy/co2halffullbottle" selected="true" centerPoint3DX="945" centerPoint3DY="919.75">
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="SstartLevel" color="#00FFFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/Textassets/TC_TObject__startinglevel" name="SstartLevel">
                   <matrix>
-                    <Matrix a="2.31219482421875" d="2.59494018554688" tx="944.95" ty="919.7"/>
+                    <Matrix a="3" d="3" tx="1102.5" ty="545.15"/>
                   </matrix>
                   <transformationPoint>
-                    <Point x="0.15"/>
+                    <Point x="-0.25" y="-0.25"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Assets/CGesyerAssets/AdditionalBubbles" selected="true" centerPoint3DX="949.45" centerPoint3DY="818.5">
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Sbottle1" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/FullBottles/TC_TObject__FullSodaBottle_All" name="Sbottle1">
                   <matrix>
-                    <Matrix a="2.52276611328125" d="2.47483825683594" tx="910.55" ty="761.65"/>
+                    <Matrix a="2.92185974121094" d="3" tx="959.35" ty="756.55"/>
                   </matrix>
                   <transformationPoint>
-                    <Point x="15.5" y="23.15"/>
+                    <Point x="0.3"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Assets/CGesyerAssets/AdditionalBubbles" selected="true" centerPoint3DX="947.8" centerPoint3DY="604.45">
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Smint1" color="#FF800A" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/MintAssets copy/TC_TObject__mintinhand" name="Smint1">
                   <matrix>
-                    <Matrix a="1.8541259765625" d="2.5009765625" tx="919.2" ty="546.95"/>
+                    <Matrix a="3.1544189453125" d="3.1544189453125" tx="939.75" ty="604.7"/>
                   </matrix>
                   <transformationPoint>
-                    <Point x="15.4" y="23.1"/>
+                    <Point/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Assets/CGesyerAssets/AdditionalBubbles" selected="true" centerPoint3DX="948.05" centerPoint3DY="667.2">
-                  <matrix>
-                    <Matrix a="2.50927734375" d="2.48251342773438" tx="909.3" ty="610.1"/>
-                  </matrix>
-                  <transformationPoint>
-                    <Point x="15.5" y="23.2"/>
-                  </transformationPoint>
-                </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Assets/CGesyerAssets/geyser1" selected="true" centerPoint3DX="943.85" centerPoint3DY="551.9">
-                  <matrix>
-                    <Matrix a="2.2335205078125" d="2.36601257324219" tx="943.8" ty="551.9"/>
-                  </matrix>
-                  <transformationPoint>
-                    <Point x="0.25" y="-2.2"/>
-                  </transformationPoint>
-                </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Assets/CGesyerAssets/AdditionalBubbles" selected="true" centerPoint3DX="947.65" centerPoint3DY="615.9">
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="SaddBubble1" color="#FF4FFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/CGesyerAssets/TC_TObject__AdditionalBubbles" name="SaddBubble1" cacheAsBitmap="true" centerPoint3DX="947.65" centerPoint3DY="615.9">
                   <matrix>
                     <Matrix a="2.47691345214844" d="2.5009765625" tx="909.4" ty="558.45"/>
                   </matrix>
@@ -272,248 +78,113 @@
                     <Point x="15.5" y="23.15"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMDynamicText name="S_bubblesforming" selected="true" fontRenderingMode="standard" left="-599.3" width="1837.05" height="58.2" isSelectable="false" lineType="multiline">
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="SaddBubble2" color="#009999" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/CGesyerAssets/TC_TObject__geyser1" name="SaddBubble2" cacheAsBitmap="true" centerPoint3DX="943.85" centerPoint3DY="551.9">
                   <matrix>
-                    <Matrix tx="641.05" ty="134.3"/>
-                  </matrix>
-                  <textRuns>
-                    <DOMTextRun>
-                      <characters>Bubbles forming a soda "geyser" may come out of the bottle. </characters>
-                      <textAttrs>
-                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="58.2" size="45" bitmapSize="900" face="PTSans-Bold"/>
-                      </textAttrs>
-                    </DOMTextRun>
-                  </textRuns>
-                </DOMDynamicText>
-                <DOMSymbolInstance libraryItemName="Assets/MintAssets copy/mintinhand" selected="true" centerPoint3DX="945" centerPoint3DY="1034.05">
-                  <matrix>
-                    <Matrix a="2.5380859375" d="2.46611022949219" tx="944.95" ty="1034"/>
+                    <Matrix a="2.2335205078125" d="2.36601257324219" tx="943.8" ty="551.9"/>
                   </matrix>
                   <transformationPoint>
-                    <Point/>
+                    <Point x="0.25" y="-2.2"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Assets/Bottle Assets copy/sodabottle" selected="true" centerPoint3DX="946.65" centerPoint3DY="760.2">
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="SaddBubble3" color="#FF0000" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/CGesyerAssets/TC_TObject__AdditionalBubbles" name="SaddBubble3" cacheAsBitmap="true" centerPoint3DX="948.05" centerPoint3DY="667.2">
                   <matrix>
-                    <Matrix a="2.194580078125" d="2.28607177734375" tx="946.5" ty="760.05"/>
+                    <Matrix a="2.50927734375" d="2.48251342773438" tx="909.3" ty="610.1"/>
                   </matrix>
                   <transformationPoint>
-                    <Point x="-0.15" y="0.2"/>
+                    <Point x="15.5" y="23.2"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Assets/Bottle Assets copy/sodabottletint" selected="true" centerPoint3DX="944.75" centerPoint3DY="762.05">
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="SaddBubble4" color="#669900" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/CGesyerAssets/TC_TObject__AdditionalBubbles" name="SaddBubble4" cacheAsBitmap="true" centerPoint3DX="947.8" centerPoint3DY="604.45">
                   <matrix>
-                    <Matrix a="2.194580078125" d="2.28607177734375" tx="944.6" ty="761.9"/>
+                    <Matrix a="1.8541259765625" d="2.5009765625" tx="919.2" ty="546.95"/>
                   </matrix>
                   <transformationPoint>
-                    <Point x="0.1" y="0.05"/>
+                    <Point x="15.4" y="23.1"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Assets/CLabelAssets/labelcolor" selected="true" centerPoint3DX="945.85" centerPoint3DY="728.25">
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="SaddBubble5" color="#FF4F4F" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/CGesyerAssets/TC_TObject__AdditionalBubbles" name="SaddBubble5" cacheAsBitmap="true" centerPoint3DX="949.45" centerPoint3DY="818.5">
                   <matrix>
-                    <Matrix a="2.87884521484375" d="2.99887084960938" tx="945.85" ty="727.95"/>
+                    <Matrix a="2.52276611328125" d="2.47483825683594" tx="910.55" ty="761.65"/>
                   </matrix>
                   <transformationPoint>
-                    <Point y="0.1"/>
+                    <Point x="15.5" y="23.15"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Assets/CLabelAssets/sugarfree" selected="true" centerPoint3DX="945.75" centerPoint3DY="693.35">
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="SaddBubble6" color="#00FFFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/Bottle Assets copy/co2halffullbottle" name="SaddBubble6" centerPoint3DX="945" centerPoint3DY="919.75">
                   <matrix>
-                    <Matrix a="2.87884521484375" d="2.99887084960938" tx="945.6" ty="693.2"/>
+                    <Matrix a="2.31219482421875" d="2.59494018554688" tx="944.95" ty="919.7"/>
                   </matrix>
                   <transformationPoint>
-                    <Point x="0.05" y="0.05"/>
+                    <Point x="0.15"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Assets/CLabelAssets/caffeinefree" selected="true" centerPoint3DX="960.95" centerPoint3DY="780.65">
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="SaddBubble7" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/CGesyerAssets/TC_TObject__additionalsodabubbles" name="SaddBubble7" cacheAsBitmap="true" centerPoint3DX="946.9" centerPoint3DY="926.05">
                   <matrix>
-                    <Matrix a="2.87884521484375" d="2.99887084960938" tx="960.95" ty="780.4"/>
+                    <Matrix a="2.28428649902344" d="2.505615234375" tx="946.85" ty="926"/>
                   </matrix>
                   <transformationPoint>
-                    <Point x="0.3" y="0.35"/>
+                    <Point x="-1.65" y="-2.3"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Assets/CLabelAssets/sodatext" selected="true" centerPoint3DX="948.4" centerPoint3DY="740.1">
-                  <matrix>
-                    <Matrix a="2.194580078125" d="2.28607177734375" tx="948.4" ty="740.05"/>
-                  </matrix>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_2" color="#9933CC" locked="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="_Tutor Global Assets_/TC_TVirtual__SceneRgn" selected="true" centerPoint3DX="960" centerPoint3DY="600">
                   <transformationPoint>
-                    <Point/>
-                  </transformationPoint>
-                </DOMSymbolInstance>
-                <DOMShape selected="true" isDrawingObject="true">
-                  <matrix>
-                    <Matrix a="2.67330932617188" d="2.704345703125" tx="212.2" ty="62.65"/>
-                  </matrix>
-                  <fills>
-                    <FillStyle index="1">
-                      <LinearGradient>
-                        <matrix>
-                          <Matrix a="0.0115966796875" d="0.000823974609375" tx="274.45" ty="175.2"/>
-                        </matrix>
-                        <GradientEntry color="#DFF3FF" ratio="0"/>
-                        <GradientEntry color="#00A7FF" alpha="0.349019607843137" ratio="0"/>
-                        <GradientEntry color="#6D0000" alpha="0.0470588235294118" ratio="0.00784313725490196"/>
-                        <GradientEntry color="#A15C5C" alpha="0.392156862745098" ratio="0.0117647058823529"/>
-                        <GradientEntry color="#C29595" alpha="0.607843137254902" ratio="0.137254901960784"/>
-                        <GradientEntry color="#F9F4F4" alpha="0.976470588235294" ratio="0.67843137254902"/>
-                        <GradientEntry color="#FFFFFF" ratio="1"/>
-                      </LinearGradient>
-                    </FillStyle>
-                  </fills>
-                  <edges>
-                    <Edge fillStyle1="1" edges="
-!5299 3501[5304 3491 5323 3491!5323 3491[5551 3491 5650 3501!5650 3501[5669 3503 5679 3509!5679 3509[5678 3518 5662 3518!5662 3518|5320 3508!5320 3508[5303 3506 5299 3501"/>
-                    <Edge cubics="!5299 3501(;5303,3493 5314,3491 5323,3491q5299 3501Q5304 3491q5323 3491);"/>
-                    <Edge cubics="!5323 3491(;5432,3491 5541,3490 5650,3501q5323 3491Q5551 3491q5650 3501);"/>
-                    <Edge cubics="!5650 3501(;5660,3502 5671,3504 5679,3509q5650 3501Q5669 3503q5679 3509);"/>
-                    <Edge cubics="!5679 3509(;5678,3516 5669,3518 5662,3518q5679 3509Q5678 3518q5662 3518);"/>
-                    <Edge cubics="!5662 3518(;5548,3514 5434,3511 5320,3508q5662 3518 5320 3508);"/>
-                    <Edge cubics="!5320 3508(;5312,3507 5304,3507 5299,3501q5320 3508Q5303 3506q5299 3501);"/>
-                  </edges>
-                </DOMShape>
-                <DOMShape selected="true" isDrawingObject="true">
-                  <matrix>
-                    <Matrix a="2.67330932617188" d="2.704345703125" tx="212.2" ty="62.65"/>
-                  </matrix>
-                  <fills>
-                    <FillStyle index="1">
-                      <LinearGradient>
-                        <matrix>
-                          <Matrix a="0.011810302734375" d="0.000762939453125" tx="273.65" ty="175.35"/>
-                        </matrix>
-                        <GradientEntry color="#DFF3FF" ratio="0"/>
-                        <GradientEntry color="#00A7FF" alpha="0.349019607843137" ratio="0"/>
-                        <GradientEntry color="#6D0000" alpha="0.0470588235294118" ratio="0.00784313725490196"/>
-                        <GradientEntry color="#A15C5C" alpha="0.392156862745098" ratio="0.0117647058823529"/>
-                        <GradientEntry color="#C29595" alpha="0.607843137254902" ratio="0.137254901960784"/>
-                        <GradientEntry color="#F9F4F4" alpha="0.976470588235294" ratio="0.67843137254902"/>
-                        <GradientEntry color="#FFFFFF" ratio="1"/>
-                      </LinearGradient>
-                    </FillStyle>
-                  </fills>
-                  <edges>
-                    <Edge fillStyle1="1" edges="
-!5280 3510[5284 3503 5299 3503!5299 3503|5664 3495!5664 3495[5668 3499 5666 3506!5666 3506[5664 3513 5659 3516!5659 3516[5652 3520 5635 3520!5635 3520|5300 3519!5300 3519[5283 3519 5280 3510"/>
-                    <Edge cubics="!5280 3510(;5283,3504 5292,3503 5299,3503q5280 3510Q5284 3503q5299 3503);"/>
-                    <Edge cubics="!5299 3503(;5421,3501 5542,3498 5664,3495q5299 3503 5664 3495);"/>
-                    <Edge cubics="!5664 3495(;5669,3501 5666,3512 5659,3516q5664 3495Q5668 3499q5666 3506Q5664 3513q5659 3516);"/>
-                    <Edge cubics="!5659 3516(;5652,3520 5643,3520 5635,3520q5659 3516Q5652 3520q5635 3520);"/>
-                    <Edge cubics="!5635 3520(;5523,3520 5412,3519 5300,3519q5635 3520 5300 3519);"/>
-                    <Edge cubics="!5300 3519(;5293,3519 5283,3518 5280,3510q5300 3519Q5283 3519q5280 3510);"/>
-                  </edges>
-                </DOMShape>
-                <DOMShape selected="true" isDrawingObject="true">
-                  <matrix>
-                    <Matrix a="2.67330932617188" d="2.704345703125" tx="212.2" ty="62.65"/>
-                  </matrix>
-                  <fills>
-                    <FillStyle index="1">
-                      <SolidColor color="#DFC9C9" alpha="0.8"/>
-                    </FillStyle>
-                  </fills>
-                  <edges>
-                    <Edge fillStyle1="1" edges="
-!5633 3491[5669 3491 5679 3509!5679 3509[5674 3522 5647 3517!5647 3517[5627 3513 5599 3516!5599 3516[5567 3519 5551 3520!5551 3520[5525 3521 5441 3516!5441 3516[5373 3511 5333 3519!5333 3519[5315 3521 5310 3519!5310 3519[5305 3517 5302
- 3511!5302 3511[5299 3505 5302 3501!5302 3501[5305 3497 5315 3495!5315 3495[5338 3491 5367 3491!5367 3491[5387 3491 5427 3494!5427 3494[5466 3497 5486 3497!5486 3497[5514 3498 5560 3495!5560 3495[5617 3491 5633 3491"/>
-                    <Edge cubics="!5633 3491(;5651,3491 5671,3494 5679,3509q5633 3491Q5669 3491q5679 3509);"/>
-                    <Edge cubics="!5679 3509(;5675,3520 5659,3519 5647,3517q5679 3509Q5674 3522q5647 3517);"/>
-                    <Edge cubics="!5647 3517(;5615,3511 5583,3518 5551,3520q5647 3517Q5627 3513q5599 3516Q5567 3519q5551 3520);"/>
-                    <Edge cubics="!5551 3520(;5478,3524 5404,3505 5333,3519q5551 3520Q5525 3521q5441 3516Q5373 3511q5333 3519);"/>
-                    <Edge cubics="!5333 3519(;5325,3520 5317,3522 5310,3519q5333 3519Q5315 3521q5310 3519);"/>
-                    <Edge cubics="!5310 3519(;5303,3516 5298,3507 5302,3501q5310 3519Q5305 3517q5302 3511Q5299 3505q5302 3501);"/>
-                    <Edge cubics="!5302 3501(;5305,3497 5310,3496 5315,3495q5302 3501Q5305 3497q5315 3495);"/>
-                    <Edge cubics="!5315 3495(;5332,3492 5350,3491 5367,3491q5315 3495Q5338 3491q5367 3491);"/>
-                    <Edge cubics="!5367 3491(;5407,3491 5446,3497 5486,3497q5367 3491Q5387 3491q5427 3494Q5466 3497q5486 3497);"/>
-                    <Edge cubics="!5486 3497(;5535,3499 5584,3492 5633,3491q5486 3497Q5514 3498q5560 3495Q5617 3491q5633 3491);"/>
-                  </edges>
-                </DOMShape>
-                <DOMShape selected="true" isDrawingObject="true">
-                  <matrix>
-                    <Matrix a="2.67330932617188" d="2.704345703125" tx="212.2" ty="62.65"/>
-                  </matrix>
-                  <fills>
-                    <FillStyle index="1">
-                      <SolidColor color="#070707" alpha="0.8"/>
-                    </FillStyle>
-                  </fills>
-                  <edges>
-                    <Edge fillStyle1="1" edges="
-!5289 3135[5310 3167 5311 3201!5311 3201[5312 3211 5311 3232!5311 3232[5312 3249 5319 3260!5319 3260[5311 3291 5309 3344!5309 3344|5302 3441!5302 3441[5302 #D78.D6 5303 3454.5!5303 3454.5[#14B4.C6 #D82.A9 5298 3465!5298 3465[5295 3472
- 5288 3484!5288 3484[5282 3496 5281 3505!5281 3505[#14A0.32 #DBA.AA 5282.5 3524.5!5282.5 3524.5[#14A1.57 #DC5.F 5280 3527.5!5280 3527.5|5280 3513!5280 3513[5280 3491 5290 3466!5290 3466[5297 3450 5297 3445!5297 3445[#14B1.AB #D70.51 5297
- 3436.5!5297 3436.5[#14B6.48 #D51.CF 5301 3372!5301 3372|5301 3242!5301 3242[5301 3169 5289 3135!5289 3135[5267 3118 5256 3099!5256 3099[5250 3089 5251 3083!5251 3083[5252 3078 5256 3076!5256 3076[5259 3073 5263 3074!5263 3074[#1491.34
- #C08.9C 5271.5 3088.5!5271.5 3088.5[#1495.B4 #C16.82 5271 3101!5271 3101[5273 3112 5289 3135"/>
-                    <Edge cubics="!5301 3372(;5301,3329 5301,3285 5301,3242q5301 3372 5301 3242);"/>
-                    <Edge cubics="!5301 3242(;5301,3206 5301,3169 5289,3135q5301 3242Q5301 3169q5289 3135);"/>
-                    <Edge cubics="!5289 3135(;5276,3125 5264,3113 5256,3099q5289 3135Q5267 3118q5256 3099);"/>
-                    <Edge cubics="!5256 3099(;5253,3094 5250,3088 5251,3083q5256 3099Q5250 3089q5251 3083);"/>
-                    <Edge cubics="!5251 3083(;5252,3077 5258,3072 5263,3074q5251 3083Q5252 3078q5256 3076Q5259 3073q5263 3074);"/>
-                    <Edge cubics="!5289 3135(;5278,3120 5272,3108 5271,3101q5289 3135Q5273 3112q5271 3101);"/>
-                    <Edge cubics="!5311 3201(;5310,3178 5303,3156 5289,3135q5311 3201Q5310 3167q5289 3135);"/>
-                    <Edge cubics="!5271 3101(;5270,3097 5271,3093 5272,3089q5271 3101Q5270 3095q5272 3089);"/>
-                    <Edge cubics="!5319 3260(;5314,3253 5312,3243 5311,3232q5319 3260Q5312 3249q5311 3232);"/>
-                    <Edge cubics="!5302 3441(;5302,3441 5309,3344 5309,3344q5302 3441 5309 3344);"/>
-                    <Edge cubics="!5297 3437(;5298,3439 5298,3442 5297,3445q5297 3437Q5298 3440q5297 3445);"/>
-                    <Edge cubics="!5297 3437(;5300,3419 5302,3397 5301,3372q5297 3437Q5302 3410q5301 3372);"/>
-                    <Edge cubics="!5309 3344(;5310,3309 5314,3281 5319,3260q5309 3344Q5311 3291q5319 3260);"/>
-                    <Edge cubics="!5311 3232(;5312,3218 5312,3208 5311,3201q5311 3232Q5312 3211q5311 3201);"/>
-                    <Edge cubics="!5290 3466(;5283,3483 5280,3498 5280,3513q5290 3466Q5280 3491q5280 3513);"/>
-                    <Edge cubics="!5280 3513(;5280,3513 5280,3528 5280,3528q5280 3513 5280 3528);"/>
-                    <Edge cubics="!5263 3074(;5264,3079 5267,3084 5272,3089q5263 3074Q5265 3081q5272 3089);"/>
-                    <Edge cubics="!5297 3445(;5297,3448 5295,3455 5290,3466q5297 3445Q5297 3450q5290 3466);"/>
-                    <Edge cubics="!5303 3455(;5302,3451 5302,3446 5302,3441q5303 3455Q5302 3449q5302 3441);"/>
-                    <Edge cubics="!5288 3484(;5293,3476 5296,3470 5298,3465q5288 3484Q5295 3472q5298 3465);"/>
-                    <Edge cubics="!5281 3505(;5282,3499 5284,3492 5288,3484q5281 3505Q5282 3496q5288 3484);"/>
-                    <Edge cubics="!5283 3525(;5281,3518 5280,3512 5281,3505q5283 3525Q5280 3515q5281 3505);"/>
-                    <Edge cubics="!5283 3525(;5282,3526 5281,3527 5280,3528q5283 3525Q5281 3526q5280 3528);"/>
-                    <Edge cubics="!5298 3465(;5300,3461 5302,3458 5303,3455q5298 3465Q5301 3459q5303 3455);"/>
-                  </edges>
-                </DOMShape>
-                <DOMShape selected="true" isDrawingObject="true">
-                  <matrix>
-                    <Matrix a="2.67330932617188" d="2.704345703125" tx="212.2" ty="62.65"/>
-                  </matrix>
-                  <fills>
-                    <FillStyle index="1">
-                      <SolidColor color="#070707" alpha="0.8"/>
-                    </FillStyle>
-                  </fills>
-                  <edges>
-                    <Edge fillStyle1="1" edges="
-!5671 3100[5672 3092 5677 3086!5677 3086[5683 3079 5688 3084!5688 3084|5686 3134!5686 3134[#1630.8B #C4E.13 5674 3194!5674 3194[5669 3244 5661 3284!5661 3284[5659 3306 5661 3313!5661 3313[#1620.2B 3322.5 5670 3326!5670 3326[5670 #D04.C3
- 5670 3340!5670 3340[5668 3406 5676 3445!5676 3445[5680.5 #D8C.3E 5691 3479.5!5691 3479.5[#163D.A7 #DA0.B3 5697 3500!5697 3500[5703 3524 5702 3541!5702 3541[#1647.B #DD3.98 5705.5 3538.5!5705.5 3538.5[#164B.F9 #DDB.51 5713 3558!5713 3558
-|5716.5 3567.5!5716.5 3567.5[#1651.E4 #DF0.41 5710.5 3568!5710.5 3568[#164E.39 #DEB.AC 5709 3560!5709 3560[5708 3555 5699 3540!5699 3540[5689 3518 5686 3513!5686 3513[#1630.21 #DB0.FF 5673.5 3502!5673.5 3502[#1623.0F #D8F.6A 5663 3443
-!5663 3443[5659 3398 5659 3342!5659 3342[5659 3180 5671 3100"/>
-                    <Edge cubics="!5671 3100(;5672,3090 5681,3077 5688,3084q5671 3100Q5672 3092q5677 3086Q5683 3079q5688 3084);"/>
-                    <Edge cubics="!5663 3443(;5660,3409 5659,3375 5659,3342q5663 3443Q5659 3398q5659 3342);"/>
-                    <Edge cubics="!5659 3342(;5659,3261 5659,3180 5671,3100q5659 3342Q5659 3180q5671 3100);"/>
-                    <Edge cubics="!5674 3502(;5678,3504 5682,3508 5686,3513q5674 3502Q5680 3505q5686 3513);"/>
-                    <Edge cubics="!5702 3541(;5703,3540 5705,3540 5706,3539q5702 3541Q5704 3540q5706 3539);"/>
-                    <Edge cubics="!5717 3568(;5717,3568 5713,3558 5713,3558q5717 3568 5713 3558);"/>
-                    <Edge cubics="!5717 3568(;5715,3568 5713,3568 5711,3568q5717 3568Q5714 3568q5711 3568);"/>
-                    <Edge cubics="!5709 3560(;5710,3563 5710,3565 5711,3568q5709 3560Q5710 3564q5711 3568);"/>
-                    <Edge cubics="!5713 3558(;5710,3551 5707,3544 5706,3539q5713 3558Q5708 3547q5706 3539);"/>
-                    <Edge cubics="!5699 3540(;5705,3550 5708,3557 5709,3560q5699 3540Q5708 3555q5709 3560);"/>
-                    <Edge cubics="!5686 3513(;5688,3516 5692,3525 5699,3540q5686 3513Q5689 3518q5699 3540);"/>
-                    <Edge cubics="!5674 3502(;5669,3481 5666,3462 5663,3443q5674 3502Q5667 3471q5663 3443);"/>
-                    <Edge cubics="!5661 3313(;5660,3308 5660,3299 5661,3284q5661 3313Q5659 3306q5661 3284);"/>
-                    <Edge cubics="!5674 3194(;5679,3165 5683,3145 5686,3134q5674 3194Q5681 3150q5686 3134);"/>
-                    <Edge cubics="!5688 3084(;5688,3084 5686,3134 5686,3134q5688 3084 5686 3134);"/>
-                    <Edge cubics="!5670 3340(;5670,3335 5670,3331 5670,3326q5670 3340Q5670 3333q5670 3326);"/>
-                    <Edge cubics="!5691 3480(;5693,3486 5695,3493 5697,3500q5691 3480Q5694 3489q5697 3500);"/>
-                    <Edge cubics="!5697 3500(;5701,3516 5703,3530 5702,3541q5697 3500Q5703 3524q5702 3541);"/>
-                    <Edge cubics="!5691 3480(;5684,3472 5679,3460 5676,3445q5691 3480Q5681 3468q5676 3445);"/>
-                    <Edge cubics="!5670 3326(;5666,3324 5663,3320 5661,3313q5670 3326Q5664 3323q5661 3313);"/>
-                    <Edge cubics="!5661 3284(;5666,3257 5671,3227 5674,3194q5661 3284Q5669 3244q5674 3194);"/>
-                    <Edge cubics="!5676 3445(;5671,3419 5669,3384 5670,3340q5676 3445Q5668 3406q5670 3340);"/>
-                  </edges>
-                </DOMShape>
-                <DOMSymbolInstance libraryItemName="Assets/Textassets/startinglevel" selected="true">
-                  <matrix>
-                    <Matrix a="3" d="3" tx="1102.45" ty="544.3"/>
-                  </matrix>
-                  <transformationPoint>
-                    <Point x="-0.25" y="-0.25"/>
+                    <Point x="960" y="600"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
               </elements>

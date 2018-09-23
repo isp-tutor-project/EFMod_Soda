@@ -1,6 +1,6 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Assets/MintAssets/SmoothMint" itemID="5ac37abf-000000a8" lastModified="1522760383">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Assets/MintAssets/TC_TObject__SmoothMint" itemID="5ba82213-00002694" lastModified="1537745427">
   <timeline>
-    <DOMTimeline name="SmoothMint">
+    <DOMTimeline name="TC_TObject__SmoothMint">
       <layers>
         <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
           <frames>

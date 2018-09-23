@@ -32,14 +32,14 @@
     <Property name="copy">true</Property>
     <Property name="default">true</Property>
     <Property name="embed">false</Property>
-    <Property name="filename">EFMod_TEMPLATE.svg</Property>
+    <Property name="filename">EFMod_Soda.svg</Property>
     <Property name="imagesPath">images</Property>
     <Property name="includeHiddenLayers">true</Property>
     <Property name="version">0.1</Property>
   </PublishProperties>
   <PublishProperties id="C6B9CB0C-C6DC-4FBC-9805-93E9EB37A444" name="JavaScript/HTML" otf="true" enabled="true">
     <Property name="SiteUrl"> </Property>
-    <Property name="bitDepth">8</Property>
+    <Property name="bitDepth">24</Property>
     <Property name="centerOption">2</Property>
     <Property name="centerStage">true</Property>
     <Property name="compactPaths">true</Property>
@@ -55,7 +55,7 @@
     <Property name="exportLibsToFolder">true</Property>
     <Property name="exportSounds">true</Property>
     <Property name="exportSoundsToFolder">true</Property>
-    <Property name="filename">EFMod_TEMPLATE.js</Property>
+    <Property name="filename">EFMod_Soda.js</Property>
     <Property name="frameBounds">false</Property>
     <Property name="hostedLibs">true</Property>
     <Property name="imageFormat">0</Property>
@@ -71,7 +71,7 @@
     <Property name="loop">true</Property>
     <Property name="makeResponsive">true</Property>
     <Property name="optimizeExport">true</Property>
-    <Property name="pngBackground">#00000000</Property>
+    <Property name="pngBackground">#000000FF</Property>
     <Property name="pngMaxSheetHeight">8192</Property>
     <Property name="pngMaxSheetWidth">8192</Property>
     <Property name="preloaderName">Default</Property>

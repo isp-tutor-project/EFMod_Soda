@@ -1,24 +1,8 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Components/TC_TObject__Vars" itemID="5b9844a8-00000cd3" linkageExportForAS="true" linkageClassName="TC_TObject__Vars" lastModified="1537305216">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Components/TC_TObject__Vars" itemID="5b9844a8-00000cd3" linkageExportForAS="true" linkageClassName="TC_TObject__Vars" lastModified="1537744933">
   <timeline>
     <DOMTimeline name="TC_TObject__Vars">
       <layers>
-        <DOMLayer name="Svar1b" color="#FF0000" current="true" isSelected="true" autoNamed="false">
-          <frames>
-            <DOMFrame index="0" keyMode="9728">
-              <elements>
-                <DOMSymbolInstance libraryItemName="Assets/FullBottles/TC_TObject__FullSodaBottle_SugarFree" name="Svar1b">
-                  <matrix>
-                    <Matrix a="3.05401611328125" d="3.05401611328125" tx="106.75" ty="313.5"/>
-                  </matrix>
-                  <transformationPoint>
-                    <Point x="-3.6" y="-5.8"/>
-                  </transformationPoint>
-                </DOMSymbolInstance>
-              </elements>
-            </DOMFrame>
-          </frames>
-        </DOMLayer>
-        <DOMLayer name="Svar1a" color="#669900" autoNamed="false">
+        <DOMLayer name="Svar1a" color="#669900" current="true" isSelected="true" autoNamed="false" visible="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
@@ -34,7 +18,23 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="Svar2a" color="#FF4F4F" autoNamed="false">
+        <DOMLayer name="Svar1b" color="#FF0000" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/FullBottles/TC_TObject__FullSodaBottle_SugarFree" name="Svar1b">
+                  <matrix>
+                    <Matrix a="3.05401611328125" d="3.05401611328125" tx="106.75" ty="313.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-3.6" y="-5.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Svar2a" color="#FF4F4F" autoNamed="false" visible="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
@@ -50,7 +50,7 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="Svar2b" color="#00FFFF" autoNamed="false">
+        <DOMLayer name="Svar2b" color="#00FFFF" autoNamed="false" visible="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
@@ -66,7 +66,7 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="Svar3b" color="#FF4FFF" autoNamed="false">
+        <DOMLayer name="Svar3b" color="#FF4FFF" autoNamed="false" visible="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
@@ -82,7 +82,7 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="Svar3a" color="#009999" autoNamed="false">
+        <DOMLayer name="Svar3a" color="#009999" autoNamed="false" visible="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
@@ -98,7 +98,7 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="Svar4b" color="#9933CC" autoNamed="false">
+        <DOMLayer name="Svar4b" color="#9933CC" autoNamed="false" visible="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
@@ -114,7 +114,7 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="Svar4a" color="#FF800A" autoNamed="false">
+        <DOMLayer name="Svar4a" color="#FF800A" autoNamed="false" visible="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>

@@ -1,0 +1,263 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Archive/TC_TScene__RQintro4b" itemID="5ba6ada4-000012ca" lastModified="1537650350">
+  <timeline>
+    <DOMTimeline name="TC_TScene__RQintro4b">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="TC_TObject__S_arrowcm" color="#FF800A" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/TC_TObject__S_arrowcm">
+                  <matrix>
+                    <Matrix tx="1160.65" ty="131.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="95.75" y="24"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="TC_TObject__Topic" color="#FF4FFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Components/TC_TObject__Topic">
+                  <matrix>
+                    <Matrix tx="825.85" ty="168.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="332.4" y="441.75"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="S_wecanmeasure" color="#009999" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="S_wecanmeasure" fontRenderingMode="standard" left="-169.5" width="428.25" height="95.2" autoExpand="true" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="1457.9" ty="307.1"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>We can measure the height &#xD;of the soda geyser.</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" lineHeight="46.6" size="36" bitmapSize="720" face="PTSans-Bold"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="TC_TObject__Blackarrow" color="#FF0000" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/TC_TObject__Blackarrow">
+                  <matrix>
+                    <Matrix a="0.079071044921875" b="0.4993896484375" c="-0.82952880859375" d="0.13134765625" tx="1245.15" ty="353.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.35" y="-0.2"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="TC_TObject__NewRuler" color="#669900" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/TC_TObject__NewRuler">
+                  <matrix>
+                    <Matrix a="2.18695068359375" d="2.45062255859375" tx="1129.45" ty="332.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="-0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="TC_TObject__startinglevel" color="#FF4F4F" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/Textassets/TC_TObject__startinglevel" centerPoint3DX="1102.25" centerPoint3DY="548.35">
+                  <matrix>
+                    <Matrix a="3" d="3" tx="1102.25" ty="548.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.25" y="-0.25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_9" color="#00FFFF">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="0.1">
+                        <fill>
+                          <SolidColor/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!20276 13087[19991 13391 19652 13534"/>
+                    <Edge cubics="!20276 13087(;20086,13290 19879,13438 19652,13534q20276 13087Q19991 13391q19652 13534);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_10" color="#9933CC">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <RadialGradient>
+                        <matrix>
+                          <Matrix a="0.145111083984375" d="0.151107788085938" tx="944.75" ty="559.15"/>
+                        </matrix>
+                        <GradientEntry color="#00A7FF" ratio="0"/>
+                        <GradientEntry color="#DFF3FF" ratio="0"/>
+                        <GradientEntry color="#D0EEFF" alpha="0.0470588235294118" ratio="0.00784313725490196"/>
+                        <GradientEntry color="#FFFFFF" ratio="1"/>
+                      </RadialGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!20160 13087|20111 12920!20111 12920[20106 12939 20091 12952!20091 12952[20071 12974 20045 12969!20045 12969[20015 12957 19997 12897!19997 12897[19990 12870 19979 12841!19979 12841[19959 12885 19929 12920!19929 12920[19863 12984 19789
+ 12979!19789 12979[19766 12976 19743 12971!19743 12971[19748 13013 19746 13055!19746 13055[19746 13092 19731 13119!19731 13119[19708 13156 19670 13146!19670 13146[19660 13144 19652 13138!19652 13138|19652 13480!19652 13480[19925 13339
+ 20160 13087"/>
+                    <Edge cubics="!20160 13087(;20160,13087 20111,12920 20111,12920q20160 13087 20111 12920);"/>
+                    <Edge cubics="!20045 12969(;20015,12957 20005,12925 19997,12897q20045 12969Q20015 12957q19997 12897);"/>
+                    <Edge cubics="!19746 13055(;19746,13080 19741,13102 19731,13119q19746 13055Q19746 13092q19731 13119);"/>
+                    <Edge cubics="!19731 13119(;19715,13142 19695,13151 19670,13146q19731 13119Q19708 13156q19670 13146);"/>
+                    <Edge cubics="!19789 12979(;19776,12976 19759,12974 19743,12971q19789 12979Q19766 12976q19743 12971);"/>
+                    <Edge cubics="!19743 12971(;19746,13001 19748,13028 19746,13055q19743 12971Q19748 13013q19746 13055);"/>
+                    <Edge cubics="!20111 12920(;20109,12929 20101,12944 20091,12952q20111 12920Q20106 12939q20091 12952);"/>
+                    <Edge cubics="!20091 12952(;20078,12969 20063,12971 20045,12969q20091 12952Q20071 12974q20045 12969);"/>
+                    <Edge cubics="!19997 12897(;19992,12883 19987,12863 19979,12841q19997 12897Q19990 12870q19979 12841);"/>
+                    <Edge cubics="!19979 12841(;19964,12868 19949,12895 19929,12920q19979 12841Q19959 12885q19929 12920);"/>
+                    <Edge cubics="!19929 12920(;19886,12966 19840,12981 19789,12979q19929 12920Q19863 12984q19789 12979);"/>
+                    <Edge cubics="!20160 13087(;20004,13254 19835,13384 19652,13480q20160 13087Q19925 13339q19652 13480);"/>
+                    <Edge cubics="!19670 13146(;19663,13145 19657,13142 19652,13138q19670 13146Q19660 13144q19652 13138);"/>
+                    <Edge cubics="!19652 13138(;19652,13138 19652,13480 19652,13480q19652 13138 19652 13480);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_11" color="#FF800A">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <RadialGradient>
+                        <matrix>
+                          <Matrix a="0.145111083984375" d="0.151107788085938" tx="950.45" ty="559.15"/>
+                        </matrix>
+                        <GradientEntry color="#00A7FF" ratio="0"/>
+                        <GradientEntry color="#DFF3FF" ratio="0"/>
+                        <GradientEntry color="#D0EEFF" alpha="0.0470588235294118" ratio="0.00784313725490196"/>
+                        <GradientEntry color="#FFFFFF" ratio="1"/>
+                      </RadialGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="
+!20408 11936[20406 11963 20408 11990!20408 11990|20439 12089!20439 12089|20439 12047!20439 12047[20434 11973 20408 11936"/>
+                    <Edge cubics="!20439 12047(;20436,12007 20429,11965 20408,11936q20439 12047Q20434 11973q20408 11936);"/>
+                    <Edge cubics="!20408 11936(;20406,11953 20406,11973 20408,11990q20408 11936Q20406 11963q20408 11990);"/>
+                    <Edge cubics="!20439 12089(;20439,12089 20439,12047 20439,12047q20439 12089 20439 12047);"/>
+                    <Edge cubics="!20408 11990(;20408,11990 20439,12089 20439,12089q20408 11990 20439 12089);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_12" color="#FF4FFF">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor alpha="0.8"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="
+!19675 9260|19675 9294"/>
+                    <Edge fillStyle1="1" edges="
+!19675 9294[19675 9299 19675 9304!19675 9304[19670 9391 19652 9453!19652 9453|19652 9310!19652 9310[19652 9298 19652 9285!19652 9285|19652 9211!19652 9211[19655 9215 19657 9218!19657 9218[19665 9233 19675 9260"/>
+                    <Edge cubics="!19675 9260(;19675,9272 19675,9282 19675,9294q19675 9260Q19675 9277q19675 9294);"/>
+                    <Edge cubics="!19657 9218(;19662,9228 19667,9245 19675,9260q19657 9218Q19665 9233q19675 9260);"/>
+                    <Edge cubics="!19675 9304(;19675,9361 19668,9412 19652,9453q19675 9304Q19670 9391q19652 9453);"/>
+                    <Edge cubics="!19675 9294(;19675,9299 19675,9302 19675,9304q19675 9294Q19675 9299q19675 9304);"/>
+                    <Edge cubics="!19652 9453(;19652,9453 19652,9310 19652,9310q19652 9453 19652 9310);"/>
+                    <Edge cubics="!19652 9310(;19652,9302 19652,9294 19652,9285q19652 9310Q19652 9298q19652 9285);"/>
+                    <Edge cubics="!19652 9285(;19652,9285 19652,9211 19652,9211q19652 9285 19652 9211);"/>
+                    <Edge cubics="!19652 9211(;19654,9214 19656,9216 19657,9218q19652 9211Q19655 9215q19657 9218);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_2" color="#9933CC" locked="true" visible="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="_Tutor Global Assets_/TC_TVirtual__SceneRgn" centerPoint3DX="960" centerPoint3DY="600">
+                  <transformationPoint>
+                    <Point x="960" y="600"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>
