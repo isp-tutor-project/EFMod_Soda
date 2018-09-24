@@ -1,4 +1,4 @@
-<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" width="1920" height="1200" currentTimeline="1" xflVersion="2.96" creatorInfo="Adobe Animate CC" platform="Windows" versionInfo="Saved by Animate Windows 18.0 build 115" majorVersion="18" buildNumber="115" viewAngle3D="122.353661987282" vanishingPoint3DX="960" vanishingPoint3DY="600" nextSceneIdentifier="2" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" filetypeGUID="3CE50BB6-55CF-47A6-B591-01286DDDC64C" fileGUID="FD86026C5C6AC4011463E80D2ACCFDC8">
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" width="1920" height="1200" currentTimeline="1" xflVersion="2.96" creatorInfo="Adobe Animate CC" platform="Windows" versionInfo="Saved by Animate Windows 18.0 build 115" majorVersion="18" buildNumber="115" rulerVisible="true" viewAngle3D="122.353661987282" vanishingPoint3DX="960" vanishingPoint3DY="600" nextSceneIdentifier="2" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" filetypeGUID="3CE50BB6-55CF-47A6-B591-01286DDDC64C" fileGUID="FD86026C5C6AC4011463E80D2ACCFDC8">
      <folders>
           <DOMFolderItem name="____componentassets____" itemID="5ad28523-00000243"/>
           <DOMFolderItem name="_HTMLControls" itemID="5b6f4063-000003e9"/>
@@ -13,18 +13,23 @@
           <DOMFolderItem name="Assets" itemID="5b4258e2-0000035e"/>
           <DOMFolderItem name="Assets/Bottle Assets copy" itemID="5af5d9fb-000006b4"/>
           <DOMFolderItem name="Assets/CCup Assets" itemID="5a2a9eee-00000028"/>
+          <DOMFolderItem name="Assets/CDOJarAssets" itemID="5a25a583-00000047"/>
           <DOMFolderItem name="Assets/CGesyerAssets" itemID="5a2a9eb9-00000023"/>
           <DOMFolderItem name="Assets/CLabelAssets" itemID="5a2aa19a-0000008f"/>
+          <DOMFolderItem name="Assets/Crystals" itemID="5abd4372-00000e2b"/>
+          <DOMFolderItem name="Assets/Crystals/CCrystal Assets" itemID="5a28146b-0000006a"/>
+          <DOMFolderItem name="Assets/Crystals/JarsVariablesCombined" itemID="5abd48a9-000002d9"/>
           <DOMFolderItem name="Assets/CrystalsExperimentGraphics" itemID="5af5d5b9-00000574"/>
           <DOMFolderItem name="Assets/Duplicate Items Folder" itemID="5afef27d-000004ad"/>
           <DOMFolderItem name="Assets/FullBottles" itemID="5a2aba8f-000004b7"/>
           <DOMFolderItem name="Assets/MintAssets" itemID="5a2a9f1c-0000002e"/>
           <DOMFolderItem name="Assets/MintAssets copy" itemID="5af5da24-000006b8"/>
           <DOMFolderItem name="Assets/NewCO2Bottles" itemID="5a79f35e-00000268"/>
+          <DOMFolderItem name="Assets/PencilStringAssets" itemID="5abd4869-000002d4"/>
           <DOMFolderItem name="Assets/Textassets" itemID="5abe4bcb-0000112a"/>
-          <DOMFolderItem name="Components" itemID="5b92f847-000020fc" isExpanded="true"/>
-          <DOMFolderItem name="Components/Expt Assets" itemID="5ba82286-00002697" isExpanded="true"/>
-          <DOMFolderItem name="Exports" itemID="5b60aa1c-0000045f" isExpanded="true"/>
+          <DOMFolderItem name="Components" itemID="5b92f847-000020fc"/>
+          <DOMFolderItem name="Components/Expt Assets" itemID="5ba82286-00002697"/>
+          <DOMFolderItem name="Exports" itemID="5b60aa1c-0000045f"/>
           <DOMFolderItem name="Imports" itemID="5b92a427-00000246"/>
           <DOMFolderItem name="Scenes" itemID="5b40f2ba-000002e0" isExpanded="true"/>
      </folders>
@@ -112,6 +117,8 @@
           <Include href="Components/Expt Assets/TC_TObject__Calllout4b.xml" loadImmediate="false" itemID="5ba92cee-00000dce" lastModified="1537813742"/>
           <Include href="Components/Expt Assets/TC_TObject__Callout.xml" loadImmediate="false" itemID="5ba81883-00002275" lastModified="1537742979"/>
           <Include href="Components/Expt Assets/TC_TObject__CalloutLong.xml" loadImmediate="false" itemID="5ba81901-0000227e" lastModified="1537743138"/>
+          <Include href="Components/Expt Assets/TC_TObject__CondTitle1.xml" loadImmediate="false" itemID="5ba92efb-00000eb7" lastModified="1537814267"/>
+          <Include href="Components/Expt Assets/TC_TObject__CondTitle2.xml" loadImmediate="false" itemID="5ba92f01-00000ebb" lastModified="1537814273"/>
           <Include href="Components/Expt Assets/TC_TObject__Expt1a.xml" loadImmediate="false" itemID="5ba82549-000026f0" lastModified="1537813771"/>
           <Include href="Components/Expt Assets/TC_TObject__Expt1b.xml" loadImmediate="false" itemID="5ba82558-000026f8" lastModified="1537813643"/>
           <Include href="Components/Expt Assets/TC_TObject__Expt2a.xml" loadImmediate="false" itemID="5ba82697-00002729" lastModified="1537813659"/>
@@ -146,6 +153,8 @@
           <Include href="Scenes/TC_TScene__RQmaterials.xml" itemID="5ba51683-00001499" lastModified="1537547359"/>
           <Include href="Scenes/TC_TScene__RQmovie.xml" itemID="5b958614-00000f00" lastModified="1537305065"/>
           <Include href="Scenes/TC_TScene__RQvariables.xml" loadImmediate="false" itemID="5b95707a-00000b4d" lastModified="1536520314"/>
+          <Include href="Scenes/TC_TScene__TEDExpt.xml" itemID="5ba9282a-00000bb3" lastModified="1537814401"/>
+          <Include href="Scenes/TC_TScene__TEDQuest.xml" itemID="5ba93efc-00001003" lastModified="1537818387"/>
           <Include href="Scenes/TC_TScene__Template.xml" loadImmediate="false" itemID="5b6f468c-000004bf" lastModified="1536516033"/>
      </symbols>
      <timelines>
@@ -158,19 +167,6 @@
                                         <script><![CDATA[stop();]]></script>
                                    </Framescript>
                                    <elements/>
-                              </DOMFrame>
-                         </frames>
-                    </DOMLayer>
-                    <DOMLayer name="Scene Bounds" color="#FF00FF" locked="true" outline="true" useOutlineView="true" autoNamed="false" visible="false">
-                         <frames>
-                              <DOMFrame index="0" duration="10" keyMode="9728">
-                                   <elements>
-                                        <DOMSymbolInstance libraryItemName="_Tutor Global Assets_/SceneRegion">
-                                             <transformationPoint>
-                                                  <Point x="959.95" y="600"/>
-                                             </transformationPoint>
-                                        </DOMSymbolInstance>
-                                   </elements>
                               </DOMFrame>
                          </frames>
                     </DOMLayer>

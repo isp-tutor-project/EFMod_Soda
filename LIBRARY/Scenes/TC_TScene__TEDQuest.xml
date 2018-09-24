@@ -1,0 +1,79 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Scenes/TC_TScene__TEDQuest" itemID="5ba93efc-00001003" linkageExportForAS="true" linkageClassName="TC_TScene__TEDQuest" lastModified="1537818387">
+  <persistentData>
+    <PD n="CreateJSToolkit_timelinedata" v="version&#xA;0.1&#xA;loop&#xA;true"/>
+  </persistentData>
+  <timeline>
+    <DOMTimeline name="TC_TScene__TEDQuest" guides='&lt;guidelines&gt;&lt;guideline direction="v"&gt;524&lt;/guideline&gt;&lt;guideline direction="v"&gt;1387&lt;/guideline&gt;&lt;/guidelines&gt;'>
+      <layers>
+        <DOMLayer name="Layer_2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="_HTMLControls/TC_THtmlText__Text1" name="Stitle">
+                  <matrix>
+                    <Matrix a="14.9179840087891" d="1.89361572265625" tx="214.1" ty="140.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="50.85" y="50.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Components/TC_TObject__Expt" name="Sicon1">
+                  <matrix>
+                    <Matrix a="0.7587890625" d="0.75885009765625" tx="268.1" ty="605.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="276.3" y="215.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Components/TC_TObject__Expt" name="Sicon2">
+                  <matrix>
+                    <Matrix a="0.7587890625" d="0.75885009765625" tx="1133.8" ty="605.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="276.25" y="215.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="_HTMLControls/TC_THtmlList1__CustomList1" name="Sanswer">
+                  <matrix>
+                    <Matrix a="9.90000915527344" d="0.67999267578125" tx="444.1" ty="484.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="49.25" y="50"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="_HTMLControls/TC_THtmlText__Text1" name="Squestion">
+                  <matrix>
+                    <Matrix a="12.8325347900391" d="0.6199951171875" tx="313.6" ty="396.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="49.5" y="50.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_3" color="#FF800A">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_1" color="#00FFFF" locked="true" outline="true" useOutlineView="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="_Tutor Global Assets_/TC_TVirtual__SceneRgn" selected="true">
+                  <transformationPoint>
+                    <Point x="960" y="600"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>
