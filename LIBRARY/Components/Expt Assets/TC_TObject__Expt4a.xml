@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Components/Expt Assets/TC_TObject__Expt4a" itemID="5ba826da-00002744" lastModified="1537809851">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Components/Expt Assets/TC_TObject__Expt4a" itemID="5ba826da-00002744" lastModified="1537813733" lastUniqueIdentifier="1">
   <timeline>
     <DOMTimeline name="TC_TObject__Expt4a">
       <layers>
@@ -22,27 +22,14 @@
                     <Point x="-0.2" y="0.25"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Components/Expt Assets/TC_TObject__Callout">
+                <DOMSymbolInstance libraryItemName="Components/Expt Assets/TC_TObject__Calllout4a" name="ScallOut" selected="true">
                   <matrix>
-                    <Matrix a="-1" tx="180.45" ty="481.4"/>
+                    <Matrix tx="115.15" ty="481.4"/>
                   </matrix>
                   <transformationPoint>
-                    <Point x="32.65" y="15.65"/>
+                    <Point x="85.9" y="16"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMDynamicText fontRenderingMode="standard" left="156.1" width="99.55" height="24.6" isSelectable="false" lineType="multiline">
-                  <matrix>
-                    <Matrix tx="30.8" ty="488.35"/>
-                  </matrix>
-                  <textRuns>
-                    <DOMTextRun>
-                      <characters>High: CO2</characters>
-                      <textAttrs>
-                        <DOMTextAttrs aliasText="false" autoKern="false" lineHeight="24.6" size="19" bitmapSize="380" face="PTSans-Bold"/>
-                      </textAttrs>
-                    </DOMTextRun>
-                  </textRuns>
-                </DOMDynamicText>
               </elements>
             </DOMFrame>
           </frames>
