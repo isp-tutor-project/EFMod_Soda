@@ -14,7 +14,7 @@
                     <Point x="63.6" y="25"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Components/Expt Assets/TC_TObject__Calllout2a" name="ScallOut" selected="true">
+                <DOMSymbolInstance libraryItemName="Components/Expt Assets/TC_TObject__Calllout2a" name="ScallOut">
                   <transformationPoint>
                     <Point x="92.95" y="15.8"/>
                   </transformationPoint>

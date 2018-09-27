@@ -1,12 +1,15 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Components/TC_TObject__Expt" itemID="5ba81f74-000024bb" linkageExportForAS="true" linkageClassName="TC_TObject__Expt" lastModified="1537809856" lastUniqueIdentifier="8">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Components/TC_TTEDExpt__Expt" itemID="5babb311-00000491" linkageExportForAS="true" linkageClassName="TC_TTEDExpt__Expt" lastModified="1537997963" lastUniqueIdentifier="8">
+  <persistentData>
+    <PD n="CreateJSToolkit_timelinedata" v="version&#xA;0.1&#xA;loop&#xA;true"/>
+  </persistentData>
   <timeline>
-    <DOMTimeline name="TC_TObject__Expt">
+    <DOMTimeline name="TC_TTEDExpt__Expt">
       <layers>
-        <DOMLayer name="Svar1a   Sweetener" color="#669900" locked="true" autoNamed="false">
+        <DOMLayer name="Svar1a   Sweetener" color="#669900" autoNamed="false" visible="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Components/Expt Assets/TC_TObject__Expt1a" name="Svar1a">
+                <DOMSymbolInstance libraryItemName="Components/Expt Assets/TC_TObject__Expt1a" name="Svar1a" selected="true">
                   <matrix>
                     <Matrix tx="97" ty="214.45"/>
                   </matrix>
@@ -18,7 +21,7 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="Svar1b" color="#FF0000" locked="true" autoNamed="false">
+        <DOMLayer name="Svar1b" color="#FF0000" autoNamed="false" visible="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
@@ -34,11 +37,11 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="Svar2b   Caffeine" color="#00FFFF" locked="true" autoNamed="false">
+        <DOMLayer name="Svar2b   Caffeine" color="#00FFFF" current="true" isSelected="true" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Components/Expt Assets/TC_TObject__Expt2b" name="Svar2b">
+                <DOMSymbolInstance libraryItemName="Components/Expt Assets/TC_TObject__Expt2b" name="Svar2b" selected="true">
                   <matrix>
                     <Matrix tx="245.8" ty="306.55"/>
                   </matrix>
@@ -50,11 +53,11 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="Svar2a   " color="#FF4F4F" locked="true" autoNamed="false">
+        <DOMLayer name="Svar2a   " color="#FF4F4F" autoNamed="false" visible="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Components/Expt Assets/TC_TObject__Expt2a" name="Svar2a">
+                <DOMSymbolInstance libraryItemName="Components/Expt Assets/TC_TObject__Expt2a" name="Svar2a" selected="true">
                   <matrix>
                     <Matrix tx="412.55" ty="332.45"/>
                   </matrix>
@@ -66,27 +69,11 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="Svar3a   Mint" color="#009999" locked="true" autoNamed="false">
+        <DOMLayer name="Svar3a" color="#FF4FFF" autoNamed="false" visible="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Components/Expt Assets/TC_TObject__Expt3a" name="Svar3a">
-                  <matrix>
-                    <Matrix ty="577.9"/>
-                  </matrix>
-                  <transformationPoint>
-                    <Point x="129.9" y="34.95"/>
-                  </transformationPoint>
-                </DOMSymbolInstance>
-              </elements>
-            </DOMFrame>
-          </frames>
-        </DOMLayer>
-        <DOMLayer name="Svar3b" color="#FF4FFF" locked="true" autoNamed="false">
-          <frames>
-            <DOMFrame index="0" keyMode="9728">
-              <elements>
-                <DOMSymbolInstance libraryItemName="Components/Expt Assets/TC_TObject__Expt3b" name="Svar3b">
+                <DOMSymbolInstance libraryItemName="Components/Expt Assets/TC_TObject__Expt3a" name="Svar3a" selected="true">
                   <matrix>
                     <Matrix tx="14" ty="559.9"/>
                   </matrix>
@@ -98,7 +85,23 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="Label Only" color="#9933CC" locked="true" autoNamed="false">
+        <DOMLayer name="Svar3b" color="#009999" autoNamed="false" visible="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Components/Expt Assets/TC_TObject__Expt3b" name="Svar3b">
+                  <matrix>
+                    <Matrix ty="577.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="129.9" y="34.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Label Only" color="#9933CC" autoNamed="false" visible="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
@@ -114,7 +117,7 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="Svar4a   CO2" color="#FF800A" locked="true" autoNamed="false">
+        <DOMLayer name="Svar4a   CO2" color="#FF800A" autoNamed="false" visible="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
@@ -130,11 +133,11 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="Svar4b" color="#9933CC" current="true" isSelected="true" autoNamed="false">
+        <DOMLayer name="Svar4b" color="#9933CC" autoNamed="false" visible="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Components/Expt Assets/TC_TObject__Expt4b" name="Svar4b" selected="true">
+                <DOMSymbolInstance libraryItemName="Components/Expt Assets/TC_TObject__Expt4b" name="Svar4b">
                   <matrix>
                     <Matrix tx="248.4"/>
                   </matrix>

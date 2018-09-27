@@ -1,4 +1,7 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Components/Expt Assets/TC_TObject__Expt1a" itemID="5ba82549-000026f0" lastModified="1537813771" lastUniqueIdentifier="1">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Components/Expt Assets/TC_TObject__Expt1a" itemID="5ba82549-000026f0" lastModified="1537995329" lastUniqueIdentifier="1">
+  <persistentData>
+    <PD n="CreateJSToolkit_timelinedata" v="version&#xA;0.1&#xA;loop&#xA;true"/>
+  </persistentData>
   <timeline>
     <DOMTimeline name="TC_TObject__Expt1a">
       <layers>
@@ -12,14 +15,6 @@
                   </matrix>
                   <transformationPoint>
                     <Point x="63.55" y="25"/>
-                  </transformationPoint>
-                </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Components/Expt Assets/TC_TObject__SugarFree">
-                  <matrix>
-                    <Matrix a="3.0577392578125" d="3.0577392578125" tx="156.05"/>
-                  </matrix>
-                  <transformationPoint>
-                    <Point x="27.75" y="7.65"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
                 <DOMSymbolInstance libraryItemName="Components/Expt Assets/TC_TObject__Calllout1a" name="ScallOut">

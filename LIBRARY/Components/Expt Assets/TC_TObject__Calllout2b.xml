@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Components/Expt Assets/TC_TObject__Calllout2b" itemID="5ba92ca3-00000db2" lastModified="1537813667">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Components/Expt Assets/TC_TObject__Calllout2b" itemID="5ba92ca3-00000db2" lastModified="1537997895">
   <timeline>
     <DOMTimeline name="TC_TObject__Calllout2b">
       <layers>
@@ -6,7 +6,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Components/Expt Assets/TC_TObject__Callout" selected="true">
+                <DOMSymbolInstance libraryItemName="Components/Expt Assets/TC_TObject__Callout">
                   <matrix>
                     <Matrix a="-1" tx="65.3"/>
                   </matrix>
@@ -14,13 +14,13 @@
                     <Point x="32.65" y="15.65"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMDynamicText selected="true" fontRenderingMode="standard" left="156.1" width="112.75" height="22" isSelectable="false" lineType="multiline">
+                <DOMDynamicText fontRenderingMode="standard" left="156.1" width="112.75" height="22" isSelectable="false" lineType="multiline">
                   <matrix>
                     <Matrix tx="-82.45" ty="6.55"/>
                   </matrix>
                   <textRuns>
                     <DOMTextRun>
-                      <characters>Caffeine</characters>
+                      <characters>No Caffeine</characters>
                       <textAttrs>
                         <DOMTextAttrs aliasText="false" autoKern="false" lineHeight="22" size="17" bitmapSize="340" face="PTSans-Bold"/>
                       </textAttrs>

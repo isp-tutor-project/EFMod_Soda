@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Components/Expt Assets/TC_TObject__Calllout2a" itemID="5ba92c92-00000dab" lastModified="1537813651">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Components/Expt Assets/TC_TObject__Calllout2a" itemID="5ba92c92-00000dab" lastModified="1537997933">
   <timeline>
     <DOMTimeline name="TC_TObject__Calllout2a">
       <layers>
@@ -6,7 +6,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Components/Expt Assets/TC_TObject__Callout" selected="true">
+                <DOMSymbolInstance libraryItemName="Components/Expt Assets/TC_TObject__Callout">
                   <matrix>
                     <Matrix a="-1" tx="65.3"/>
                   </matrix>
@@ -20,7 +20,7 @@
                   </matrix>
                   <textRuns>
                     <DOMTextRun>
-                      <characters>No Caffeine</characters>
+                      <characters>Caffeine</characters>
                       <textAttrs>
                         <DOMTextAttrs aliasText="false" autoKern="false" lineHeight="24.6" size="19" bitmapSize="380" face="PTSans-Bold"/>
                       </textAttrs>
