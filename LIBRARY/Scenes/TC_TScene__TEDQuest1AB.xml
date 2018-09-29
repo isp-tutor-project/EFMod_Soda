@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Scenes/TC_TScene__TEDQuest1AB" itemID="5baead2d-000008f0" linkageExportForAS="true" linkageClassName="TC_TScene__TEDQuest1AB" lastModified="1538176056">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Scenes/TC_TScene__TEDQuest1AB" itemID="5baead2d-000008f0" linkageExportForAS="true" linkageClassName="TC_TScene__TEDQuest1AB" lastModified="1538246955">
   <persistentData>
     <PD n="CreateJSToolkit_timelinedata" v="version&#xA;0.1&#xA;loop&#xA;true"/>
   </persistentData>
@@ -52,7 +52,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="_HTMLControls/TC_THtmlList1__CustomList1" name="Sanswer" selected="true">
+                <DOMSymbolInstance libraryItemName="_HTMLControls/TC_THtmlList1__CustomList1" name="Sanswer">
                   <matrix>
                     <Matrix a="15.7171630859375" d="0.999237060546875" tx="178.85" ty="313.1"/>
                   </matrix>

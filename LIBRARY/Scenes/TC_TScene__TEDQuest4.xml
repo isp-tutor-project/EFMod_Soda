@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Scenes/TC_TScene__TEDQuest4" itemID="5baeabae-000008c4" linkageExportForAS="true" linkageClassName="TC_TScene__TEDQuest4" lastModified="1538174266">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Scenes/TC_TScene__TEDQuest4" itemID="5baeabae-000008c4" linkageExportForAS="true" linkageClassName="TC_TScene__TEDQuest4" lastModified="1538247546">
   <persistentData>
     <PD n="CreateJSToolkit_timelinedata" v="version&#xA;0.1&#xA;loop&#xA;true"/>
   </persistentData>
@@ -12,7 +12,7 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="Layer_2" color="#9933CC">
+        <DOMLayer name="Layer_2" color="#9933CC" current="true" isSelected="true">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
@@ -24,7 +24,7 @@
                     <Point x="50.85" y="50.2"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Components/TC_TTEDExpt__Expt" name="Sexpt1">
+                <DOMSymbolInstance libraryItemName="Components/TC_TTEDExpt__Expt" name="Sexpt1" selected="true">
                   <matrix>
                     <Matrix a="0.928375244140625" d="0.928375244140625" tx="213.05" ty="359.65"/>
                   </matrix>
@@ -32,7 +32,7 @@
                     <Point x="276.15" y="215.05"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Components/TC_TTEDExpt__Expt" name="Sexpt2">
+                <DOMSymbolInstance libraryItemName="Components/TC_TTEDExpt__Expt" name="Sexpt2" selected="true">
                   <matrix>
                     <Matrix a="0.928375244140625" d="0.928375244140625" tx="1075.15" ty="359.65"/>
                   </matrix>
@@ -44,11 +44,11 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="Layer_3" color="#FF800A" current="true" isSelected="true">
+        <DOMLayer name="Layer_3" color="#FF800A">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Components/Expt Assets/TC_TObject__CondTitle1" selected="true">
+                <DOMSymbolInstance libraryItemName="Components/Expt Assets/TC_TObject__CondTitle1">
                   <matrix>
                     <Matrix tx="406" ty="983.65"/>
                   </matrix>
@@ -56,7 +56,7 @@
                     <Point x="129.5" y="30.65"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Components/Expt Assets/TC_TObject__CondTitle2" selected="true">
+                <DOMSymbolInstance libraryItemName="Components/Expt Assets/TC_TObject__CondTitle2">
                   <matrix>
                     <Matrix tx="1295.95" ty="983.65"/>
                   </matrix>

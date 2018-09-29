@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Scenes/TC_TScene__TEDQuest4AB" itemID="5baead40-000008f1" linkageExportForAS="true" linkageClassName="TC_TScene__TEDQuest4AB" lastModified="1538175146">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Scenes/TC_TScene__TEDQuest4AB" itemID="5baead40-000008f1" linkageExportForAS="true" linkageClassName="TC_TScene__TEDQuest4AB" lastModified="1538247559">
   <persistentData>
     <PD n="CreateJSToolkit_timelinedata" v="version&#xA;0.1&#xA;loop&#xA;true"/>
   </persistentData>
@@ -11,12 +11,12 @@
               <elements>
                 <DOMGroup>
                   <matrix>
-                    <Matrix a="1.56910705566406" d="2.19850158691406" tx="-546.3" ty="-341.85"/>
+                    <Matrix a="1.56910705566406" d="2.19850158691406" tx="-546.3" ty="-481.35"/>
                   </matrix>
                   <members>
                     <DOMSymbolInstance libraryItemName="TC_TObject__QuestionBorder" selected="true">
                       <matrix>
-                        <Matrix a="1.03604125976563" d="2.19850158691406" tx="284.55" ty="252.25"/>
+                        <Matrix a="1.03604125976563" d="2.19850158691406" tx="284.55" ty="112.75"/>
                       </matrix>
                       <transformationPoint>
                         <Point x="652.1" y="40.05"/>
@@ -24,14 +24,6 @@
                     </DOMSymbolInstance>
                   </members>
                 </DOMGroup>
-                <DOMSymbolInstance libraryItemName="_HTMLControls/TC_THtmlText__Text1" name="Stitle">
-                  <matrix>
-                    <Matrix a="13.1209106445313" d="1.31446838378906" tx="306.5" ty="97.3"/>
-                  </matrix>
-                  <transformationPoint>
-                    <Point x="50.85" y="50.2"/>
-                  </transformationPoint>
-                </DOMSymbolInstance>
               </elements>
             </DOMFrame>
           </frames>
@@ -40,25 +32,9 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Components/TC_TTEDExpt__Expt" name="Sexpt1">
-                  <matrix>
-                    <Matrix a="0.754547119140625" d="0.754592895507813" tx="268.9" ty="559.35"/>
-                  </matrix>
-                  <transformationPoint>
-                    <Point x="276.4" y="215.15"/>
-                  </transformationPoint>
-                </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Components/TC_TTEDExpt__Expt" name="Sexpt2">
-                  <matrix>
-                    <Matrix a="0.754547119140625" d="0.754592895507813" tx="1126.85" ty="559.35"/>
-                  </matrix>
-                  <transformationPoint>
-                    <Point x="276.3" y="215.15"/>
-                  </transformationPoint>
-                </DOMSymbolInstance>
                 <DOMSymbolInstance libraryItemName="_HTMLControls/TC_THtmlList1__CustomList1" name="Sanswer">
                   <matrix>
-                    <Matrix a="9.90000915527344" d="0.67999267578125" tx="465" ty="446.95"/>
+                    <Matrix a="9.90000915527344" d="0.67999267578125" tx="465" ty="307.45"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="49.25" y="50"/>
@@ -66,10 +42,26 @@
                 </DOMSymbolInstance>
                 <DOMSymbolInstance libraryItemName="_HTMLControls/TC_THtmlText__Text1" name="Squestion">
                   <matrix>
-                    <Matrix a="13.0469512939453" d="1.36305236816406" tx="308.65" ty="271.4"/>
+                    <Matrix a="13.0469512939453" d="1.36305236816406" tx="308.65" ty="131.9"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="49.55" y="50.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Components/TC_TTEDExpt__Expt" name="Sexpt1">
+                  <matrix>
+                    <Matrix a="0.928375244140625" d="0.928375244140625" tx="213.05" ty="437.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="276.15" y="215.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Components/TC_TTEDExpt__Expt" name="Sexpt2">
+                  <matrix>
+                    <Matrix a="0.928375244140625" d="0.928375244140625" tx="1075.15" ty="437.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="276.2" y="215.05"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
               </elements>
