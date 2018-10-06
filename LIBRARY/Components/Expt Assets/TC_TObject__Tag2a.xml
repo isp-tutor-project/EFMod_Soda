@@ -1,0 +1,29 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Components/Expt Assets/TC_TObject__Tag2a" itemID="5bb7edf8-00001492" lastModified="1538781378" lastUniqueIdentifier="1">
+  <timeline>
+    <DOMTimeline name="TC_TObject__Tag2a">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Components/Expt Assets/TC_TObject__Highlight" name="Shighlight">
+                  <matrix>
+                    <Matrix a="1.29545593261719" d="1.19992065429688" tx="72.75" ty="-7.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="63.85" y="24.7"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Components/Expt Assets/TC_TObject__Calllout2a" name="ScallOut">
+                  <transformationPoint>
+                    <Point x="92.95" y="15.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

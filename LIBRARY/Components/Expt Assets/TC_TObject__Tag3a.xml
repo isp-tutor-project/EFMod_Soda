@@ -1,0 +1,47 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Components/Expt Assets/TC_TObject__Tag3a" itemID="5bb7ee0b-000014b2" lastModified="1538781426" lastUniqueIdentifier="1">
+  <timeline>
+    <DOMTimeline name="TC_TObject__Tag3a">
+      <layers>
+        <DOMLayer name="TC_TObject__RoughMint" color="#FF800A" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="ScallOut" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Components/Expt Assets/TC_TObject__Calllout3b" name="ScallOut">
+                  <matrix>
+                    <Matrix ty="54.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="92.1" y="15.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Shighlight" color="#FF4FFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Components/Expt Assets/TC_TObject__Highlight" name="Shighlight">
+                  <matrix>
+                    <Matrix a="1.69393920898438" d="1.19999694824219" tx="-104.1" ty="44.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="63.6" y="25.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

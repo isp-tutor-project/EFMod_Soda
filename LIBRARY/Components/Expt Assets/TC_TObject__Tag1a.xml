@@ -1,0 +1,79 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Components/Expt Assets/TC_TObject__Tag1a" itemID="5bb7ede3-0000147b" lastModified="1538845954" lastUniqueIdentifier="1">
+  <persistentData>
+    <PD n="CreateJSToolkit_timelinedata" v="version&#xA;0.1&#xA;loop&#xA;true"/>
+  </persistentData>
+  <timeline>
+    <DOMTimeline name="TC_TObject__Tag1a">
+      <layers>
+        <DOMLayer name="Stag" color="#FF4FFF" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Components/TC_TObject__ETag" symbolType="button">
+                  <matrix>
+                    <Matrix tx="564.9" ty="152"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="105" y="50"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Shighlight" color="#009999" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="ScallOut" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Components/Expt Assets/TC_TObject__Calllout1a" name="ScallOut">
+                  <matrix>
+                    <Matrix tx="103.55" ty="31.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="88.55" y="15.65"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMDynamicText name="Stag" fontRenderingMode="standard" top="49" left="80.3" width="206" height="47" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="-78.3" ty="-20.5"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Sugar</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="36.45" size="30" bitmapSize="600" face="Verdana-Bold"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Shighlight" color="#FF800A" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Components/Expt Assets/TC_TObject__Highlight" name="Shighlight">
+                  <matrix>
+                    <Matrix a="1.00004577636719" ty="2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="63.35" y="25.25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

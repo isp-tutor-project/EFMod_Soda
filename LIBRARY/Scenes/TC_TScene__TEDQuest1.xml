@@ -29,11 +29,8 @@
             <DOMFrame index="0" keyMode="9728">
               <elements>
                 <DOMGroup selected="true">
-                  <matrix>
-                    <Matrix ty="-56.95"/>
-                  </matrix>
                   <members>
-                    <DOMSymbolInstance libraryItemName="TC_TObject__QuestionBorder" selected="true">
+                    <DOMSymbolInstance libraryItemName="Components/TC_TObject__QuestionBorder" selected="true">
                       <matrix>
                         <Matrix a="0.6602783203125" tx="529.55" ty="213.3"/>
                       </matrix>
@@ -60,9 +57,6 @@
                   </transformationPoint>
                 </DOMSymbolInstance>
                 <DOMGroup selected="true">
-                  <matrix>
-                    <Matrix ty="-56.95"/>
-                  </matrix>
                   <members>
                     <DOMSymbolInstance libraryItemName="_HTMLControls/TC_THtmlText__Text1" name="Squestion" selected="true">
                       <matrix>
@@ -122,7 +116,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="_Tutor Global Assets_/TC_TVirtual__SceneRgn" selected="true">
+                <DOMSymbolInstance libraryItemName="_Tutor Global Assets_/TC_TVirtual__SceneRgn">
                   <transformationPoint>
                     <Point x="960" y="600"/>
                   </transformationPoint>

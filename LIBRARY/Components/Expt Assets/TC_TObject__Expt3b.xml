@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Components/Expt Assets/TC_TObject__Expt3b" itemID="5babfb9c-00000701" lastModified="1537997724" lastUniqueIdentifier="1">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Components/Expt Assets/TC_TObject__Expt3b" itemID="5babfb9c-00000701" lastModified="1538780997" lastUniqueIdentifier="1">
   <timeline>
     <DOMTimeline name="TC_TObject__Expt3b">
       <layers>
@@ -6,28 +6,12 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Components/Expt Assets/TC_TObject__Highlight" name="Shighlight">
-                  <matrix>
-                    <Matrix a="1.28034973144531" tx="-17.3" ty="31"/>
-                  </matrix>
-                  <transformationPoint>
-                    <Point x="63.6" y="25"/>
-                  </transformationPoint>
-                </DOMSymbolInstance>
                 <DOMSymbolInstance libraryItemName="Assets/MintAssets/TC_TObject__SmoothMint">
                   <matrix>
                     <Matrix a="1.64166259765625" b="-2.06640625" c="-2.06640625" d="-1.64166259765625" tx="232.55" ty="28.05"/>
                   </matrix>
                   <transformationPoint>
                     <Point y="-0.15"/>
-                  </transformationPoint>
-                </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Components/Expt Assets/TC_TObject__Calllout3a" name="ScallOut" selected="true">
-                  <matrix>
-                    <Matrix ty="36.95"/>
-                  </matrix>
-                  <transformationPoint>
-                    <Point x="99.1" y="15.85"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
               </elements>

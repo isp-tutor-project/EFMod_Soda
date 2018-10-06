@@ -1,7 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Components/Expt Assets/TC_TObject__Expt1a" itemID="5ba82549-000026f0" lastModified="1537995329" lastUniqueIdentifier="1">
-  <persistentData>
-    <PD n="CreateJSToolkit_timelinedata" v="version&#xA;0.1&#xA;loop&#xA;true"/>
-  </persistentData>
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Components/Expt Assets/TC_TObject__Expt1a" itemID="5bb7eecb-000015a9" lastModified="1538846673" lastUniqueIdentifier="1">
   <timeline>
     <DOMTimeline name="TC_TObject__Expt1a">
       <layers>
@@ -9,21 +6,16 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Components/Expt Assets/TC_TObject__Highlight" name="Shighlight">
+                <DOMSymbolInstance libraryItemName="Components/Expt Assets/TC_TObject__SugarFree">
                   <matrix>
-                    <Matrix a="0.792526245117188" tx="28.2" ty="17.65"/>
+                    <Matrix a="3.0577392578125" d="3.0577392578125" tx="158.05"/>
                   </matrix>
                   <transformationPoint>
-                    <Point x="63.55" y="25"/>
+                    <Point x="27.75" y="7.65"/>
                   </transformationPoint>
-                </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Components/Expt Assets/TC_TObject__Calllout1a" name="ScallOut">
-                  <matrix>
-                    <Matrix ty="24.1"/>
-                  </matrix>
-                  <transformationPoint>
-                    <Point x="88.55" y="15.65"/>
-                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
                 </DOMSymbolInstance>
               </elements>
             </DOMFrame>

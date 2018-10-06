@@ -1,20 +1,17 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Scenes/TC_TScene__TEDQuest4AB" itemID="5baead40-000008f1" linkageExportForAS="true" linkageClassName="TC_TScene__TEDQuest4AB" lastModified="1538247559">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Scenes/TC_TScene__TEDQuest4B" itemID="5bb66a2c-00000613" linkageExportForAS="true" linkageClassName="TC_TScene__TEDQuest4B" lastModified="1538681532">
   <persistentData>
     <PD n="CreateJSToolkit_timelinedata" v="version&#xA;0.1&#xA;loop&#xA;true"/>
   </persistentData>
   <timeline>
-    <DOMTimeline name="TC_TScene__TEDQuest4AB" guides='&lt;guidelines&gt;&lt;guideline direction="v"&gt;524&lt;/guideline&gt;&lt;guideline direction="v"&gt;1387&lt;/guideline&gt;&lt;/guidelines&gt;'>
+    <DOMTimeline name="TC_TScene__TEDQuest4B" guides='&lt;guidelines&gt;&lt;guideline direction="v"&gt;524&lt;/guideline&gt;&lt;guideline direction="v"&gt;1387&lt;/guideline&gt;&lt;/guidelines&gt;'>
       <layers>
         <DOMLayer name="Layer_3" color="#FF800A">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix a="1.56910705566406" d="2.19850158691406" tx="-546.3" ty="-481.35"/>
-                  </matrix>
                   <members>
-                    <DOMSymbolInstance libraryItemName="TC_TObject__QuestionBorder" selected="true">
+                    <DOMSymbolInstance libraryItemName="Components/TC_TObject__QuestionBorder" selected="true">
                       <matrix>
                         <Matrix a="1.03604125976563" d="2.19850158691406" tx="284.55" ty="112.75"/>
                       </matrix>
@@ -32,14 +29,6 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="_HTMLControls/TC_THtmlList1__CustomList1" name="Sanswer">
-                  <matrix>
-                    <Matrix a="9.90000915527344" d="0.67999267578125" tx="465" ty="307.45"/>
-                  </matrix>
-                  <transformationPoint>
-                    <Point x="49.25" y="50"/>
-                  </transformationPoint>
-                </DOMSymbolInstance>
                 <DOMSymbolInstance libraryItemName="_HTMLControls/TC_THtmlText__Text1" name="Squestion">
                   <matrix>
                     <Matrix a="13.0469512939453" d="1.36305236816406" tx="308.65" ty="131.9"/>
@@ -62,6 +51,14 @@
                   </matrix>
                   <transformationPoint>
                     <Point x="276.2" y="215.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="_HTMLControls/TC_THtmlList1__CustomList1" name="Sanswer">
+                  <matrix>
+                    <Matrix a="15.7171630859375" d="0.794357299804688" tx="178.85" ty="323.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="49.35" y="50.25"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
               </elements>

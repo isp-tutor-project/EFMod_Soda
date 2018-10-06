@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Components/Expt Assets/TC_TObject__Calllout3a" itemID="5ba92cb5-00000db9" lastModified="1537813685">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Components/Expt Assets/TC_TObject__Calllout3a" itemID="5ba92cb5-00000db9" lastModified="1538773517">
   <timeline>
     <DOMTimeline name="TC_TObject__Calllout3a">
       <layers>
@@ -6,7 +6,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Components/Expt Assets/TC_TObject__Callout" selected="true">
+                <DOMSymbolInstance libraryItemName="Components/Expt Assets/TC_TObject__Callout">
                   <matrix>
                     <Matrix tx="131.45"/>
                   </matrix>
@@ -14,15 +14,15 @@
                     <Point x="32.65" y="15.65"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMDynamicText selected="true" fontRenderingMode="standard" left="112.7" width="120.75" height="24.6" isSelectable="false" lineType="multiline">
+                <DOMDynamicText fontRenderingMode="standard" left="37" width="196.45" height="38.85" isSelectable="false" lineType="multiline">
                   <matrix>
-                    <Matrix tx="-110.7" ty="6.6"/>
+                    <Matrix tx="-117.1" ty="1"/>
                   </matrix>
                   <textRuns>
                     <DOMTextRun>
                       <characters>Mint:  Smooth</characters>
                       <textAttrs>
-                        <DOMTextAttrs alignment="right" aliasText="false" autoKern="false" lineHeight="24.6" size="19" bitmapSize="380" face="PTSans-Bold"/>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="38.85" size="30" bitmapSize="600" face="PTSans-Bold"/>
                       </textAttrs>
                     </DOMTextRun>
                   </textRuns>

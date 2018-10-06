@@ -1,33 +1,24 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Components/Expt Assets/TC_TObject__Expt4a" itemID="5ba826da-00002744" lastModified="1537813733" lastUniqueIdentifier="1">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Components/Expt Assets/TC_TObject__Expt4a" itemID="5ba826da-00002744" lastModified="1538851982" lastUniqueIdentifier="1">
   <timeline>
     <DOMTimeline name="TC_TObject__Expt4a">
       <layers>
-        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+        <DOMLayer name="Shighlight" color="#9933CC" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Svar4a" color="#FF4FFF" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Components/Expt Assets/TC_TObject__Highlight" name="Shighlight">
-                  <matrix>
-                    <Matrix a="1.06013488769531" tx="168.65" ty="475.95"/>
-                  </matrix>
-                  <transformationPoint>
-                    <Point x="63.65" y="25"/>
-                  </transformationPoint>
-                </DOMSymbolInstance>
                 <DOMSymbolInstance libraryItemName="Assets/TC_TObject__HIghCo2Combined" name="Svar4a">
                   <matrix>
                     <Matrix a="2.32601928710938" d="2.32661437988281" tx="89.2" ty="313.5"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="-0.2" y="0.25"/>
-                  </transformationPoint>
-                </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Components/Expt Assets/TC_TObject__Calllout4a" name="ScallOut" selected="true">
-                  <matrix>
-                    <Matrix tx="115.15" ty="481.4"/>
-                  </matrix>
-                  <transformationPoint>
-                    <Point x="85.9" y="16"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
               </elements>

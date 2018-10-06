@@ -1,0 +1,47 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Components/Expt Assets/TC_TObject__Tag4a" itemID="5bb7ee1f-000014da" lastModified="1538781420" lastUniqueIdentifier="1">
+  <timeline>
+    <DOMTimeline name="TC_TObject__Tag4a">
+      <layers>
+        <DOMLayer name="ScallOut" color="#FF800A" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Components/Expt Assets/TC_TObject__Calllout4a" name="ScallOut" selected="true">
+                  <matrix>
+                    <Matrix ty="10.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="85.9" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Shighlight" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Components/Expt Assets/TC_TObject__Highlight" name="Shighlight" selected="true">
+                  <matrix>
+                    <Matrix a="1.59060668945313" d="1.19999694824219" tx="69.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="63.7" y="25.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Svar4a" color="#FF4FFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

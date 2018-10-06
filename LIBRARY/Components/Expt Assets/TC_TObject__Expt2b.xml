@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Components/Expt Assets/TC_TObject__Expt2b" itemID="5ba82567-00002700" lastModified="1538002207" lastUniqueIdentifier="1">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Components/Expt Assets/TC_TObject__Expt2b" itemID="5ba82567-00002700" lastModified="1538780987" lastUniqueIdentifier="1">
   <persistentData>
     <PD n="CreateJSToolkit_timelinedata" v="version&#xA;0.1&#xA;loop&#xA;true"/>
   </persistentData>
@@ -9,28 +9,12 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Components/Expt Assets/TC_TObject__Highlight" name="Shighlight">
-                  <matrix>
-                    <Matrix a="1.20147705078125" tx="215" ty="18"/>
-                  </matrix>
-                  <transformationPoint>
-                    <Point x="63.65" y="25"/>
-                  </transformationPoint>
-                </DOMSymbolInstance>
                 <DOMSymbolInstance libraryItemName="Assets/CLabelAssets/TC_TObject__caffeinefree">
                   <matrix>
                     <Matrix a="3.08843994140625" d="3.081298828125" tx="107.5" ty="28.65"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="0.35" y="0.35"/>
-                  </transformationPoint>
-                </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Components/Expt Assets/TC_TObject__Calllout2b" name="ScallOut">
-                  <matrix>
-                    <Matrix tx="166.75" ty="25.9"/>
-                  </matrix>
-                  <transformationPoint>
-                    <Point x="93.45" y="15.65"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
               </elements>

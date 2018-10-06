@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Components/Expt Assets/TC_TObject__Expt4b" itemID="5ba826e3-00002754" lastModified="1537813748" lastUniqueIdentifier="1">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Components/Expt Assets/TC_TObject__Expt4b" itemID="5ba826e3-00002754" lastModified="1538781346" lastUniqueIdentifier="1">
   <timeline>
     <DOMTimeline name="TC_TObject__Expt4b">
       <layers>
@@ -6,28 +6,12 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Components/Expt Assets/TC_TObject__Highlight" name="Shighlight">
-                  <matrix>
-                    <Matrix a="0.894851684570313" tx="170.75" ty="476.95"/>
-                  </matrix>
-                  <transformationPoint>
-                    <Point x="63.65" y="25"/>
-                  </transformationPoint>
-                </DOMSymbolInstance>
                 <DOMSymbolInstance libraryItemName="Assets/TC_TObject__LowCO2SodaCombined" name="Svar4b">
                   <matrix>
                     <Matrix a="2.32862854003906" d="2.32884216308594" tx="89.3" ty="313.45"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="-0.3" y="0.1"/>
-                  </transformationPoint>
-                </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Components/Expt Assets/TC_TObject__Calllout4b" name="ScallOut">
-                  <matrix>
-                    <Matrix tx="115.25" ty="481.4"/>
-                  </matrix>
-                  <transformationPoint>
-                    <Point x="89.4" y="16.05"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
               </elements>

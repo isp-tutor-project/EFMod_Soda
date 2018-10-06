@@ -1,19 +1,11 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Components/Expt Assets/TC_TObject__Expt3a" itemID="5babfb98-00000700" lastModified="1537997720" lastUniqueIdentifier="1">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Components/Expt Assets/TC_TObject__Expt3a" itemID="5babfb98-00000700" lastModified="1538780992" lastUniqueIdentifier="1">
   <timeline>
     <DOMTimeline name="TC_TObject__Expt3a">
       <layers>
-        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+        <DOMLayer name="TC_TObject__RoughMint" color="#FF800A" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Components/Expt Assets/TC_TObject__Highlight" name="Shighlight">
-                  <matrix>
-                    <Matrix a="1.28034973144531" tx="-24.3" ty="49"/>
-                  </matrix>
-                  <transformationPoint>
-                    <Point x="63.6" y="25"/>
-                  </transformationPoint>
-                </DOMSymbolInstance>
                 <DOMSymbolInstance libraryItemName="Assets/MintAssets/TC_TObject__RoughMint">
                   <matrix>
                     <Matrix a="1.64166259765625" b="-2.06640625" c="-2.06640625" d="-1.64166259765625" tx="223.55" ty="38.05"/>
@@ -22,15 +14,21 @@
                     <Point y="-0.15"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Components/Expt Assets/TC_TObject__Calllout3b" name="ScallOut" selected="true">
-                  <matrix>
-                    <Matrix ty="54.95"/>
-                  </matrix>
-                  <transformationPoint>
-                    <Point x="92.1" y="15.85"/>
-                  </transformationPoint>
-                </DOMSymbolInstance>
               </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="ScallOut" color="#9933CC" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Shighlight" color="#FF4FFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
             </DOMFrame>
           </frames>
         </DOMLayer>
