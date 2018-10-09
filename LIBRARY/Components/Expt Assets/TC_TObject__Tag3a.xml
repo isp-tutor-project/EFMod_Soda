@@ -29,7 +29,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Components/Expt Assets/TC_TObject__Highlight" name="Shighlight">
+                <DOMSymbolInstance libraryItemName="Components/Expt Assets/TC_TObject__CallOutHighlight" name="Shighlight">
                   <matrix>
                     <Matrix a="1.69393920898438" d="1.19999694824219" tx="-104.1" ty="44.15"/>
                   </matrix>

@@ -1,7 +1,7 @@
 <DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" width="1920" height="1200" currentTimeline="1" xflVersion="2.96" creatorInfo="Adobe Animate CC" platform="Windows" versionInfo="Saved by Animate Windows 18.0 build 115" majorVersion="18" buildNumber="115" rulerVisible="true" viewAngle3D="122.353661987282" vanishingPoint3DX="960" vanishingPoint3DY="600" nextSceneIdentifier="2" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" filetypeGUID="3CE50BB6-55CF-47A6-B591-01286DDDC64C" fileGUID="FD86026C5C6AC4011463E80D2ACCFDC8">
      <folders>
           <DOMFolderItem name="____componentassets____" itemID="5ad28523-00000243"/>
-          <DOMFolderItem name="_HTMLControls" itemID="5b6f4063-000003e9" isExpanded="true"/>
+          <DOMFolderItem name="_HTMLControls" itemID="5b6f4063-000003e9"/>
           <DOMFolderItem name="_HTMLControls/TC_THtmlInput__Assets" itemID="5b5cd7d8-000002da"/>
           <DOMFolderItem name="_HTMLControls/TC_THtmlList__Assets" itemID="5b5cea4b-000003ab"/>
           <DOMFolderItem name="_HTMLControls/TC_THtmlTable__Assets" itemID="5b5f40d8-000002e3"/>
@@ -10,7 +10,7 @@
           <DOMFolderItem name="_Tutor Global Assets_/NavPanel Components" itemID="5b6f403c-000003c9"/>
           <DOMFolderItem name="_Tutor Global Assets_/NavPanel Components/TC_TButton__Button Assets" itemID="5b68a267-00000548"/>
           <DOMFolderItem name="Archive" itemID="5ba6cfdd-00001576"/>
-          <DOMFolderItem name="Assets" itemID="5b4258e2-0000035e" isExpanded="true"/>
+          <DOMFolderItem name="Assets" itemID="5b4258e2-0000035e"/>
           <DOMFolderItem name="Assets/Bottle Assets copy" itemID="5af5d9fb-000006b4"/>
           <DOMFolderItem name="Assets/CCup Assets" itemID="5a2a9eee-00000028"/>
           <DOMFolderItem name="Assets/CDOJarAssets" itemID="5a25a583-00000047"/>
@@ -28,9 +28,9 @@
           <DOMFolderItem name="Assets/PencilStringAssets" itemID="5abd4869-000002d4"/>
           <DOMFolderItem name="Assets/Textassets" itemID="5abe4bcb-0000112a"/>
           <DOMFolderItem name="Components" itemID="5b92f847-000020fc" isExpanded="true"/>
-          <DOMFolderItem name="Components/Bead Assets" itemID="5ba7f020-00001f6a" isExpanded="true"/>
+          <DOMFolderItem name="Components/Bead Assets" itemID="5ba7f020-00001f6a"/>
           <DOMFolderItem name="Components/Bead Assets/TC_TObject__Shape Assets" itemID="5bb8f39f-0000175b" isExpanded="true"/>
-          <DOMFolderItem name="Components/Expt Assets" itemID="5ba82286-00002697" isExpanded="true"/>
+          <DOMFolderItem name="Components/Expt Assets" itemID="5ba82286-00002697"/>
           <DOMFolderItem name="Exports" itemID="5b60aa1c-0000045f"/>
           <DOMFolderItem name="Imports" itemID="5b92a427-00000246"/>
           <DOMFolderItem name="Scenes" itemID="5b40f2ba-000002e0" isExpanded="true"/>
@@ -120,6 +120,7 @@
           <Include href="Components/Expt Assets/TC_TObject__Calllout4a.xml" loadImmediate="false" itemID="5ba92cda-00000dc7" lastModified="1538846947"/>
           <Include href="Components/Expt Assets/TC_TObject__Calllout4b.xml" loadImmediate="false" itemID="5ba92cee-00000dce" lastModified="1538773169"/>
           <Include href="Components/Expt Assets/TC_TObject__Callout.xml" loadImmediate="false" itemID="5ba81883-00002275" lastModified="1537742979"/>
+          <Include href="Components/Expt Assets/TC_TObject__CallOutHighlight.xml" loadImmediate="false" itemID="5bba22b3-00001c05" lastModified="1538925235"/>
           <Include href="Components/Expt Assets/TC_TObject__CalloutLong.xml" loadImmediate="false" itemID="5ba81901-0000227e" lastModified="1537743138"/>
           <Include href="Components/Expt Assets/TC_TObject__CondTitle1.xml" loadImmediate="false" itemID="5ba92efb-00000eb7" lastModified="1537814267"/>
           <Include href="Components/Expt Assets/TC_TObject__CondTitle2.xml" loadImmediate="false" itemID="5ba92f01-00000ebb" lastModified="1537814273"/>
@@ -131,7 +132,6 @@
           <Include href="Components/Expt Assets/TC_TObject__Expt3b.xml" loadImmediate="false" itemID="5babfb9c-00000701" lastModified="1538780997"/>
           <Include href="Components/Expt Assets/TC_TObject__Expt4a.xml" loadImmediate="false" itemID="5ba826da-00002744" lastModified="1538851982"/>
           <Include href="Components/Expt Assets/TC_TObject__Expt4b.xml" loadImmediate="false" itemID="5ba826e3-00002754" lastModified="1538781346"/>
-          <Include href="Components/Expt Assets/TC_TObject__Highlight.xml" loadImmediate="false" itemID="5ba91b96-00000878" lastModified="1538845039"/>
           <Include href="Components/Expt Assets/TC_TObject__Label.xml" loadImmediate="false" itemID="5ba820f3-000025f3" lastModified="1537746464"/>
           <Include href="Components/Expt Assets/TC_TObject__SodaLabel.xml" loadImmediate="false" itemID="5ba82608-0000270a" lastModified="1537746441"/>
           <Include href="Components/Expt Assets/TC_TObject__SugarFree.xml" loadImmediate="false" itemID="5ba82096-000025e9" lastModified="1537745046"/>
@@ -148,7 +148,7 @@
           <Include href="Components/TC_TObject__QuestionBorder.xml" loadImmediate="false" itemID="5bac1487-0000096f" lastModified="1538004103"/>
           <Include href="Components/TC_TObject__Topic.xml" itemID="5b9844a3-00000cd2" lastModified="1537649764"/>
           <Include href="Components/TC_TObject__Vars.xml" itemID="5b9844a8-00000cd3" lastModified="1537744933"/>
-          <Include href="Components/TC_TTEDExpt__Expt.xml" itemID="5babb311-00000491" lastModified="1538856295"/>
+          <Include href="Components/TC_TTEDExpt__TEDExpt.xml" itemID="5bbb9137-00002ec2" lastModified="1539019431"/>
           <Include href="Exports/TL_Soda__Movie.xml" loadImmediate="false" itemID="5b984494-00000cd0" lastModified="1536705684"/>
           <Include href="Exports/TL_Soda__RQintro1.xml" loadImmediate="false" itemID="5b958865-00000fcb" lastModified="1536526437"/>
           <Include href="Exports/TL_Soda__RQintro2.xml" loadImmediate="false" itemID="5b958879-00000fd4" lastModified="1536526457"/>
@@ -159,7 +159,7 @@
           <Include href="Exports/TL_Soda__RQvariables.xml" loadImmediate="false" itemID="5b958870-00000fce" lastModified="1536526448"/>
           <Include href="Exports/TL_Soda__Topic.xml" loadImmediate="false" itemID="5b98448a-00000cce" lastModified="1536705674"/>
           <Include href="Exports/TL_Soda__Vars.xml" loadImmediate="false" itemID="5b984490-00000ccf" lastModified="1536705680"/>
-          <Include href="Scenes/TC_TScene__RQenumVars.xml" itemID="5b9e9681-000008c6" lastModified="1537120246"/>
+          <Include href="Scenes/TC_TScene__RQenumVars.xml" itemID="5b9e9681-000008c6" lastModified="1539014047"/>
           <Include href="Scenes/TC_TScene__RQintro1.xml" itemID="5ba50e3a-0000031f" lastModified="1537658870"/>
           <Include href="Scenes/TC_TScene__RQintro2.xml" itemID="5ba51687-0000149a" lastModified="1537658885"/>
           <Include href="Scenes/TC_TScene__RQintro3.xml" itemID="5ba6ad9c-000012c9" lastModified="1537658910"/>
@@ -167,7 +167,7 @@
           <Include href="Scenes/TC_TScene__RQmaterials.xml" itemID="5ba51683-00001499" lastModified="1537547359"/>
           <Include href="Scenes/TC_TScene__RQmovie.xml" itemID="5b958614-00000f00" lastModified="1537305065"/>
           <Include href="Scenes/TC_TScene__RQvariables.xml" loadImmediate="false" itemID="5b95707a-00000b4d" lastModified="1536520314"/>
-          <Include href="Scenes/TC_TScene__TEDExpt.xml" itemID="5ba9282a-00000bb3" lastModified="1538856311"/>
+          <Include href="Scenes/TC_TScene__TEDExpt.xml" loadImmediate="false" itemID="5ba9282a-00000bb3" lastModified="1539023496"/>
           <Include href="Scenes/TC_TScene__TEDQuest1.xml" itemID="5baeab6b-00000879" lastModified="1538176032"/>
           <Include href="Scenes/TC_TScene__TEDQuest1AB.xml" itemID="5baead2d-000008f0" lastModified="1538681507"/>
           <Include href="Scenes/TC_TScene__TEDQuest4.xml" itemID="5baeabae-000008c4" lastModified="1538247546"/>
@@ -175,6 +175,7 @@
           <Include href="Scenes/TC_TScene__TEDQuest4B.xml" itemID="5bb66a2c-00000613" lastModified="1538681532"/>
           <Include href="Scenes/TC_TScene__Template.xml" loadImmediate="false" itemID="5b6f468c-000004bf" lastModified="1536516033"/>
           <Include href="TC_TObject__ArrowHead.xml" loadImmediate="false" itemID="5bb9152b-00001b54" lastModified="1538856261"/>
+          <Include href="TC_TVirtual__ExptRgn.xml" loadImmediate="false" itemID="5bba4384-00002307" lastModified="1538933636"/>
      </symbols>
      <timelines>
           <DOMTimeline name="Scene 1" currentFrame="3">

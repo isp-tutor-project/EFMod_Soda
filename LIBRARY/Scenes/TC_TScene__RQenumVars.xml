@@ -1,11 +1,11 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Scenes/TC_TScene__RQenumVars" itemID="5b9e9681-000008c6" linkageExportForAS="true" linkageClassName="TC_TScene__RQenumVars" lastModified="1537120246">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Scenes/TC_TScene__RQenumVars" itemID="5b9e9681-000008c6" linkageExportForAS="true" linkageClassName="TC_TScene__RQenumVars" lastModified="1539014047">
   <persistentData>
     <PD n="CreateJSToolkit_timelinedata" v="version&#xA;0.1&#xA;loop&#xA;true"/>
   </persistentData>
   <timeline>
     <DOMTimeline name="TC_TScene__RQenumVars">
       <layers>
-        <DOMLayer name="Layer_2" color="#9933CC" current="true" isSelected="true">
+        <DOMLayer name="Stitle" color="#669900" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
@@ -17,14 +17,14 @@
                     <Point x="50.85" y="50.05"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="_HTMLControls/TC_THtmlText__Text1" name="SsubTitle1">
-                  <matrix>
-                    <Matrix a="5.49400329589844" d="1.27799987792969" tx="275.55" ty="908.5"/>
-                  </matrix>
-                  <transformationPoint>
-                    <Point x="50.3" y="50"/>
-                  </transformationPoint>
-                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="SsubTitle2" color="#009999" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
                 <DOMSymbolInstance libraryItemName="_HTMLControls/TC_THtmlText__Text1" name="SsubTitle2">
                   <matrix>
                     <Matrix a="5.49400329589844" d="1.27799987792969" tx="1095.05" ty="908.5"/>
@@ -33,17 +33,49 @@
                     <Point x="50.3" y="50"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Components/TC_TObject__Vars" name="Sicon1" selected="true">
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="SsubTitle1" color="#FF0000" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="_HTMLControls/TC_THtmlText__Text1" name="SsubTitle1">
                   <matrix>
-                    <Matrix a="0.688674926757813" d="0.688674926757813" tx="476.75" ty="437.55"/>
+                    <Matrix a="5.49400329589844" d="1.27799987792969" tx="275.55" ty="908.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="50.3" y="50"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Sicon2" color="#FF4FFF" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Components/TC_TObject__Vars" name="Sicon2">
+                  <matrix>
+                    <Matrix a="0.688674926757813" d="0.688674926757813" tx="1296.25" ty="437.55"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="107.55" y="318"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Components/TC_TObject__Vars" name="Sicon2">
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Sicon1" color="#FF800A" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Components/TC_TObject__Vars" name="Sicon1">
                   <matrix>
-                    <Matrix a="0.688674926757813" d="0.688674926757813" tx="1296.25" ty="437.55"/>
+                    <Matrix a="0.688674926757813" d="0.688674926757813" tx="476.75" ty="437.55"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="107.55" y="318"/>

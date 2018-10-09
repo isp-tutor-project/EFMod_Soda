@@ -24,7 +24,7 @@
                     <Point x="50.85" y="50.2"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Components/TC_TTEDExpt__Expt" name="Sexpt1" selected="true">
+                <DOMSymbolInstance libraryItemName="Components/TC_TTEDExpt__TEDExpt" name="Sexpt1" selected="true">
                   <matrix>
                     <Matrix a="0.928375244140625" d="0.928375244140625" tx="213.05" ty="359.65"/>
                   </matrix>
@@ -32,7 +32,7 @@
                     <Point x="276.15" y="215.05"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Components/TC_TTEDExpt__Expt" name="Sexpt2" selected="true">
+                <DOMSymbolInstance libraryItemName="Components/TC_TTEDExpt__TEDExpt" name="Sexpt2" selected="true">
                   <matrix>
                     <Matrix a="0.928375244140625" d="0.928375244140625" tx="1075.15" ty="359.65"/>
                   </matrix>

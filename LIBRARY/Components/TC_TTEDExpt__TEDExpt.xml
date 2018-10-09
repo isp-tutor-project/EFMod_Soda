@@ -1,17 +1,17 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Components/TC_TTEDExpt__Expt" itemID="5babb311-00000491" linkageExportForAS="true" linkageClassName="TC_TTEDExpt__Expt" lastModified="1538856295" lastUniqueIdentifier="8">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Components/TC_TTEDExpt__TEDExpt" itemID="5bbb9137-00002ec2" linkageExportForAS="true" linkageClassName="TC_TTEDExpt__TEDExpt" lastModified="1539019431" lastUniqueIdentifier="8">
   <persistentData>
     <PD n="CreateJSToolkit_timelinedata" v="version&#xA;0.1&#xA;loop&#xA;true"/>
   </persistentData>
   <timeline>
-    <DOMTimeline name="TC_TTEDExpt__Expt">
+    <DOMTimeline name="TC_TTEDExpt__TEDExpt">
       <layers>
-        <DOMLayer name="Svar1a   Sweetener" color="#669900" autoNamed="false">
+        <DOMLayer name="Svar1a   Sweetener" color="#669900" current="true" isSelected="true" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
                 <DOMSymbolInstance libraryItemName="Components/Expt Assets/TC_TObject__Expt1b" name="Svar1a">
                   <matrix>
-                    <Matrix tx="146.8" ty="214.45"/>
+                    <Matrix tx="226.8" ty="231.45"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="163.7" y="28.65"/>
@@ -30,7 +30,7 @@
               <elements>
                 <DOMSymbolInstance libraryItemName="Components/Expt Assets/TC_TObject__Expt1b" name="Svar1b">
                   <matrix>
-                    <Matrix tx="146.8" ty="214.45"/>
+                    <Matrix tx="226.8" ty="231.45"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="163.7" y="28.65"/>
@@ -53,7 +53,7 @@
               <elements>
                 <DOMSymbolInstance libraryItemName="Components/Expt Assets/TC_TObject__Expt2b" name="Svar2b">
                   <matrix>
-                    <Matrix tx="297.6" ty="306.55"/>
+                    <Matrix tx="377.6" ty="323.55"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="177.55" y="29.35"/>
@@ -69,7 +69,7 @@
               <elements>
                 <DOMSymbolInstance libraryItemName="Components/Expt Assets/TC_TObject__Expt2b" name="Svar2a">
                   <matrix>
-                    <Matrix tx="297.6" ty="306.55"/>
+                    <Matrix tx="377.6" ty="323.55"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="177.55" y="29.35"/>
@@ -95,7 +95,7 @@
               <elements>
                 <DOMSymbolInstance libraryItemName="Components/Expt Assets/TC_TObject__Expt3a" name="Svar3a">
                   <matrix>
-                    <Matrix tx="65.8" ty="559.9"/>
+                    <Matrix tx="145.8" ty="576.9"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="129.3" y="44.05"/>
@@ -111,7 +111,7 @@
               <elements>
                 <DOMSymbolInstance libraryItemName="Components/Expt Assets/TC_TObject__Expt3b" name="Svar3b">
                   <matrix>
-                    <Matrix tx="51.8" ty="577.9"/>
+                    <Matrix tx="131.8" ty="594.9"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="129.9" y="34.95"/>
@@ -127,7 +127,7 @@
               <elements>
                 <DOMSymbolInstance libraryItemName="Components/Expt Assets/TC_TObject__Label" name="Svar4">
                   <matrix>
-                    <Matrix a="3.06796264648438" d="3.06796264648438" tx="298.7" ty="195.85"/>
+                    <Matrix a="3.06796264648438" d="3.06796264648438" tx="378.7" ty="212.85"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="29.6" y="28.25"/>
@@ -150,7 +150,7 @@
               <elements>
                 <DOMSymbolInstance libraryItemName="Components/Expt Assets/TC_TObject__Expt4a" name="Svar4a">
                   <matrix>
-                    <Matrix tx="300.3"/>
+                    <Matrix tx="380.3" ty="17"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="143.65" y="314.05"/>
@@ -166,7 +166,7 @@
               <elements>
                 <DOMSymbolInstance libraryItemName="Components/Expt Assets/TC_TObject__Expt4b" name="Svar4b">
                   <matrix>
-                    <Matrix tx="300.2"/>
+                    <Matrix tx="380.2" ty="17"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="147.2" y="313.7"/>
@@ -190,20 +190,17 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="Shighlight1" color="#FF4FFF" current="true" isSelected="true" autoNamed="false">
+        <DOMLayer name="Shighlight1" color="#FF4FFF" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
                 <DOMGroup>
                   <members>
                     <DOMGroup>
-                      <matrix>
-                        <Matrix tx="-576.15" ty="-454.75"/>
-                      </matrix>
                       <members>
-                        <DOMSymbolInstance libraryItemName="Components/Expt Assets/TC_TObject__Highlight" name="Shighlight1" selected="true">
+                        <DOMSymbolInstance libraryItemName="Components/Expt Assets/TC_TObject__CallOutHighlight" name="Shighlight1" selected="true">
                           <matrix>
-                            <Matrix tx="16.9" ty="64.45"/>
+                            <Matrix tx="10" ty="80"/>
                           </matrix>
                           <transformationPoint>
                             <Point x="63.7" y="25.1"/>
@@ -213,7 +210,7 @@
                     </DOMGroup>
                     <DOMSymbolInstance libraryItemName="_HTMLControls/TC_THtmlText__CallOutText" name="Stag1">
                       <matrix>
-                        <Matrix a="2.10000610351563" tx="16.9" ty="64.45"/>
+                        <Matrix a="2.10000610351563" tx="10" ty="80"/>
                       </matrix>
                       <transformationPoint>
                         <Point x="50" y="50"/>
@@ -244,18 +241,12 @@
             <DOMFrame index="0" keyMode="9728">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix tx="32.8" ty="-48.9"/>
-                  </matrix>
                   <members>
                     <DOMGroup selected="true">
-                      <matrix>
-                        <Matrix tx="-462.15" ty="64.1"/>
-                      </matrix>
                       <members>
-                        <DOMSymbolInstance libraryItemName="Components/Expt Assets/TC_TObject__Highlight" name="Shighlight2" selected="true">
+                        <DOMSymbolInstance libraryItemName="Components/Expt Assets/TC_TObject__CallOutHighlight" name="Shighlight2" selected="true">
                           <matrix>
-                            <Matrix tx="16.9" ty="196.25"/>
+                            <Matrix tx="10" ty="211.8"/>
                           </matrix>
                           <transformationPoint>
                             <Point x="63.7" y="25.1"/>
@@ -265,7 +256,7 @@
                     </DOMGroup>
                     <DOMSymbolInstance libraryItemName="_HTMLControls/TC_THtmlText__CallOutText" name="Stag2" selected="true">
                       <matrix>
-                        <Matrix a="2.10000610351563" tx="16.9" ty="196.25"/>
+                        <Matrix a="2.10000610351563" tx="10" ty="211.8"/>
                       </matrix>
                       <transformationPoint>
                         <Point x="50" y="50"/>
@@ -296,18 +287,12 @@
             <DOMFrame index="0" keyMode="9728">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix tx="32.8" ty="-48.1"/>
-                  </matrix>
                   <members>
                     <DOMGroup selected="true">
-                      <matrix>
-                        <Matrix tx="175.8" ty="273.85"/>
-                      </matrix>
                       <members>
-                        <DOMSymbolInstance libraryItemName="Components/Expt Assets/TC_TObject__Highlight" name="Shighlight3" selected="true">
+                        <DOMSymbolInstance libraryItemName="Components/Expt Assets/TC_TObject__CallOutHighlight" name="Shighlight3" selected="true">
                           <matrix>
-                            <Matrix tx="16.9" ty="328.05"/>
+                            <Matrix tx="10" ty="343.6"/>
                           </matrix>
                           <transformationPoint>
                             <Point x="63.7" y="25.1"/>
@@ -317,7 +302,7 @@
                     </DOMGroup>
                     <DOMSymbolInstance libraryItemName="_HTMLControls/TC_THtmlText__CallOutText" name="Stag3" selected="true">
                       <matrix>
-                        <Matrix a="2.10000610351563" tx="16.9" ty="328.05"/>
+                        <Matrix a="2.10000610351563" tx="10" ty="343.6"/>
                       </matrix>
                       <transformationPoint>
                         <Point x="50" y="50"/>
@@ -347,36 +332,38 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMGroup>
+                <DOMSymbolInstance libraryItemName="Components/Expt Assets/TC_TObject__CallOutHighlight" name="Shighlight4">
                   <matrix>
-                    <Matrix tx="32.8" ty="-50"/>
+                    <Matrix tx="10" ty="475.45"/>
                   </matrix>
-                  <members>
-                    <DOMGroup selected="true">
-                      <matrix>
-                        <Matrix tx="228.8" ty="209.75"/>
-                      </matrix>
-                      <members>
-                        <DOMSymbolInstance libraryItemName="Components/Expt Assets/TC_TObject__Highlight" name="Shighlight4" selected="true">
-                          <matrix>
-                            <Matrix tx="16.9" ty="459.9"/>
-                          </matrix>
-                          <transformationPoint>
-                            <Point x="63.7" y="25.1"/>
-                          </transformationPoint>
-                        </DOMSymbolInstance>
-                      </members>
-                    </DOMGroup>
-                    <DOMSymbolInstance libraryItemName="_HTMLControls/TC_THtmlText__CallOutText" name="Stag4" selected="true">
-                      <matrix>
-                        <Matrix a="2.10000610351563" tx="16.9" ty="459.9"/>
-                      </matrix>
-                      <transformationPoint>
-                        <Point x="50" y="50"/>
-                      </transformationPoint>
-                    </DOMSymbolInstance>
-                  </members>
-                </DOMGroup>
+                  <transformationPoint>
+                    <Point x="63.7" y="25.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="_HTMLControls/TC_THtmlText__CallOutText" name="Stag4">
+                  <matrix>
+                    <Matrix a="2.10000610351563" tx="10" ty="475.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="50" y="50"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Region" color="#FF800A" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="TC_TVirtual__ExptRgn">
+                  <matrix>
+                    <Matrix tx="-1" ty="-0.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="474.95" y="329.45"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
               </elements>
             </DOMFrame>
           </frames>
