@@ -27,13 +27,13 @@
           <DOMFolderItem name="Assets/NewCO2Bottles" itemID="5a79f35e-00000268"/>
           <DOMFolderItem name="Assets/PencilStringAssets" itemID="5abd4869-000002d4"/>
           <DOMFolderItem name="Assets/Textassets" itemID="5abe4bcb-0000112a"/>
-          <DOMFolderItem name="Components" itemID="5b92f847-000020fc"/>
+          <DOMFolderItem name="Components" itemID="5b92f847-000020fc" isExpanded="true"/>
           <DOMFolderItem name="Components/Bead Assets" itemID="5ba7f020-00001f6a"/>
           <DOMFolderItem name="Components/Bead Assets/TC_TObject__Shape Assets" itemID="5bb8f39f-0000175b" isExpanded="true"/>
           <DOMFolderItem name="Components/Expt Assets" itemID="5ba82286-00002697"/>
           <DOMFolderItem name="Exports" itemID="5b60aa1c-0000045f"/>
           <DOMFolderItem name="Imports" itemID="5b92a427-00000246"/>
-          <DOMFolderItem name="Scenes" itemID="5b40f2ba-000002e0"/>
+          <DOMFolderItem name="Scenes" itemID="5b40f2ba-000002e0" isExpanded="true"/>
      </folders>
      <media>
           <DOMBitmapItem name="____componentassets____/TutorModule" itemID="5ad39ecb-000002ce" sourceLastImported="1512163249" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="____componentassets____/TutorModule.png" bitmapDataHRef="M 3 1523818176.dat" frameLeft="140" frameTop="1720" frameRight="780" frameBottom="2360"/>
@@ -146,8 +146,8 @@
           <Include href="Components/TC_TObject__ETag.xml" loadImmediate="false" itemID="5bb8ed02-000015db" lastModified="1538852204"/>
           <Include href="Components/TC_TObject__Movie.xml" itemID="5b98449b-00000cd1" lastModified="1537036885"/>
           <Include href="Components/TC_TObject__QuestionBorder.xml" loadImmediate="false" itemID="5bac1487-0000096f" lastModified="1538004103"/>
-          <Include href="Components/TC_TObject__Topic.xml" itemID="5b9844a3-00000cd2" lastModified="1537649764"/>
-          <Include href="Components/TC_TObject__Vars.xml" itemID="5b9844a8-00000cd3" lastModified="1537744933"/>
+          <Include href="Components/TC_TObject__Topic.xml" itemID="5b9844a3-00000cd2" lastModified="1539624445"/>
+          <Include href="Components/TC_TObject__Vars.xml" itemID="5b9844a8-00000cd3" lastModified="1539621761"/>
           <Include href="Components/TC_TTEDExpt__TEDExpt.xml" itemID="5bbb9137-00002ec2" lastModified="1539019431"/>
           <Include href="Exports/TL_Soda__Movie.xml" loadImmediate="false" itemID="5b984494-00000cd0" lastModified="1536705684"/>
           <Include href="Exports/TL_Soda__RQintro1.xml" loadImmediate="false" itemID="5b958865-00000fcb" lastModified="1536526437"/>

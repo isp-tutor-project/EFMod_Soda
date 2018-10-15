@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Components/TC_TObject__Topic" itemID="5b9844a3-00000cd2" linkageExportForAS="true" linkageClassName="TC_TObject__Topic" lastModified="1537649764">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Components/TC_TObject__Topic" itemID="5b9844a3-00000cd2" linkageExportForAS="true" linkageClassName="TC_TObject__Topic" lastModified="1539624445">
   <timeline>
     <DOMTimeline name="TC_TObject__Topic">
       <layers>
@@ -13,7 +13,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Assets/CLabelAssets/TC_TObject__caffeinefree" selected="true" centerPoint3DX="134.9" centerPoint3DY="615.75">
+                <DOMSymbolInstance libraryItemName="Assets/CLabelAssets/TC_TObject__caffeinefree" centerPoint3DX="134.9" centerPoint3DY="615.75">
                   <matrix>
                     <Matrix a="2.87884521484375" d="2.99887084960938" tx="134.9" ty="615.5"/>
                   </matrix>
@@ -29,7 +29,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Assets/CLabelAssets/sodatext" selected="true" centerPoint3DX="122.35" centerPoint3DY="577.2">
+                <DOMSymbolInstance libraryItemName="Assets/CLabelAssets/sodatext" centerPoint3DX="122.35" centerPoint3DY="577.2">
                   <matrix>
                     <Matrix a="2.194580078125" d="2.28607177734375" tx="122.35" ty="577.15"/>
                   </matrix>
@@ -45,7 +45,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Assets/CLabelAssets/sugarfree" selected="true" centerPoint3DX="119.7" centerPoint3DY="528.45">
+                <DOMSymbolInstance libraryItemName="Assets/CLabelAssets/sugarfree" centerPoint3DX="119.7" centerPoint3DY="528.45">
                   <matrix>
                     <Matrix a="2.87884521484375" d="2.99887084960938" tx="119.55" ty="528.3"/>
                   </matrix>
@@ -61,7 +61,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Assets/CLabelAssets/labelcolor" selected="true" centerPoint3DX="119.8" centerPoint3DY="563.35">
+                <DOMSymbolInstance libraryItemName="Assets/CLabelAssets/labelcolor" centerPoint3DX="119.8" centerPoint3DY="563.35">
                   <matrix>
                     <Matrix a="2.87884521484375" d="2.99887084960938" tx="119.8" ty="563.05"/>
                   </matrix>
@@ -77,7 +77,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMShape selected="true" isDrawingObject="true">
+                <DOMShape isDrawingObject="true">
                   <matrix>
                     <Matrix a="2.67330932617188" d="2.704345703125" tx="-613.85" ty="-102.25"/>
                   </matrix>
@@ -123,7 +123,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMShape selected="true" isDrawingObject="true">
+                <DOMShape isDrawingObject="true">
                   <matrix>
                     <Matrix a="2.67330932617188" d="2.704345703125" tx="-613.85" ty="-102.25"/>
                   </matrix>
@@ -134,10 +134,10 @@
                   </fills>
                   <edges>
                     <Edge fillStyle1="1" edges="
-!5289 3135[5267 3118 5256 3099!5256 3099[5250 3089 5251 3083!5251 3083[5252 3078 5256 3076!5256 3076[5259 3073 5263 3074!5263 3074[#1491.34 #C08.9C 5271.5 3088.5!5271.5 3088.5[#1495.B4 #C16.82 5271 3101!5271 3101[5273 3112 5289 3135!5289
- 3135[5310 3167 5311 3201!5311 3201[5312 3211 5311 3232!5311 3232[5312 3249 5319 3260!5319 3260[5311 3291 5309 3344!5309 3344|5302 3441!5302 3441[5302 #D78.D6 5303 3454.5!5303 3454.5[#14B4.C6 #D82.A9 5298 3465!5298 3465[5295 3472 5288
- 3484!5288 3484[5282 3496 5281 3505!5281 3505[#14A0.32 #DBA.AA 5282.5 3524.5!5282.5 3524.5[#14A1.57 #DC5.F 5280 3527.5!5280 3527.5|5280 3513!5280 3513[5280 3491 5290 3466!5290 3466[5297 3450 5297 3445!5297 3445[#14B1.AB #D70.51 5297 3436.5
-!5297 3436.5[#14B6.48 #D51.CF 5301 3372!5301 3372|5301 3242!5301 3242[5301 3169 5289 3135"/>
+!5289 3135[5310 3167 5311 3201!5311 3201[5312 3211 5311 3232!5311 3232[5312 3249 5319 3260!5319 3260[5311 3291 5309 3344!5309 3344|5302 3441!5302 3441[5302 #D78.D6 5303 3454.5!5303 3454.5[#14B4.C6 #D82.A9 5298 3465!5298 3465[5295 3472
+ 5288 3484!5288 3484[5282 3496 5281 3505!5281 3505[#14A0.32 #DBA.AA 5282.5 3524.5!5282.5 3524.5[#14A1.57 #DC5.F 5280 3527.5!5280 3527.5|5280 3513!5280 3513[5280 3491 5290 3466!5290 3466[5297 3450 5297 3445!5297 3445[#14B1.AB #D70.51 5297
+ 3436.5!5297 3436.5[#14B6.48 #D51.CF 5301 3372!5301 3372|5301 3242!5301 3242[5301 3169 5289 3135!5289 3135[5267 3118 5256 3099!5256 3099[5250 3089 5251 3083!5251 3083[5252 3078 5256 3076!5256 3076[5259 3073 5263 3074!5263 3074[#1491.34
+ #C08.9C 5271.5 3088.5!5271.5 3088.5[#1495.B4 #C16.82 5271 3101!5271 3101[5273 3112 5289 3135"/>
                     <Edge cubics="!5301 3372(;5301,3329 5301,3285 5301,3242q5301 3372 5301 3242);"/>
                     <Edge cubics="!5301 3242(;5301,3206 5301,3169 5289,3135q5301 3242Q5301 3169q5289 3135);"/>
                     <Edge cubics="!5289 3135(;5276,3125 5264,3113 5256,3099q5289 3135Q5267 3118q5256 3099);"/>
@@ -168,11 +168,11 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="TC_TObject__AdditionalBubbles" color="#FF4F4F" autoNamed="false" visible="false">
+        <DOMLayer name="TC_TObject__AdditionalBubbles" color="#FF4F4F" current="true" isSelected="true" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Assets/CGesyerAssets/TC_TObject__AdditionalBubbles" centerPoint3DX="121.75" centerPoint3DY="438.05">
+                <DOMSymbolInstance libraryItemName="Assets/CGesyerAssets/TC_TObject__AdditionalBubbles" cacheAsBitmap="true" centerPoint3DX="121.75" centerPoint3DY="438.05">
                   <matrix>
                     <Matrix a="1.86956787109375" d="2.49072265625" tx="92.9" ty="380.85"/>
                   </matrix>
@@ -184,11 +184,11 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="TC_TObject__AdditionalBubbles" color="#00FFFF" autoNamed="false" visible="false">
+        <DOMLayer name="TC_TObject__AdditionalBubbles" color="#00FFFF" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Assets/CGesyerAssets/TC_TObject__AdditionalBubbles" centerPoint3DX="121.75" centerPoint3DY="439.55">
+                <DOMSymbolInstance libraryItemName="Assets/CGesyerAssets/TC_TObject__AdditionalBubbles" cacheAsBitmap="true" centerPoint3DX="121.75" centerPoint3DY="439.55">
                   <matrix>
                     <Matrix a="1.8541259765625" d="2.5009765625" tx="93.15" ty="382.05"/>
                   </matrix>
@@ -200,11 +200,11 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="TC_TObject__AdditionalBubbles" color="#9933CC" autoNamed="false" visible="false">
+        <DOMLayer name="TC_TObject__AdditionalBubbles" color="#9933CC" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Assets/CGesyerAssets/TC_TObject__AdditionalBubbles" centerPoint3DX="123.4" centerPoint3DY="653.6">
+                <DOMSymbolInstance libraryItemName="Assets/CGesyerAssets/TC_TObject__AdditionalBubbles" cacheAsBitmap="true" centerPoint3DX="123.4" centerPoint3DY="653.6">
                   <matrix>
                     <Matrix a="2.52276611328125" d="2.47483825683594" tx="84.5" ty="596.75"/>
                   </matrix>
@@ -216,11 +216,11 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="TC_TObject__AdditionalBubbles" color="#FF800A" autoNamed="false" visible="false">
+        <DOMLayer name="TC_TObject__AdditionalBubbles" color="#FF800A" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Assets/CGesyerAssets/TC_TObject__AdditionalBubbles" centerPoint3DX="122" centerPoint3DY="502.3">
+                <DOMSymbolInstance libraryItemName="Assets/CGesyerAssets/TC_TObject__AdditionalBubbles" cacheAsBitmap="true" centerPoint3DX="122" centerPoint3DY="502.3">
                   <matrix>
                     <Matrix a="2.50927734375" d="2.48251342773438" tx="83.25" ty="445.2"/>
                   </matrix>
@@ -232,11 +232,11 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="TC_TObject__AdditionalBubbles" color="#FF4FFF" autoNamed="false" visible="false">
+        <DOMLayer name="TC_TObject__AdditionalBubbles" color="#FF4FFF" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Assets/CGesyerAssets/TC_TObject__AdditionalBubbles" centerPoint3DX="121.6" centerPoint3DY="451">
+                <DOMSymbolInstance libraryItemName="Assets/CGesyerAssets/TC_TObject__AdditionalBubbles" cacheAsBitmap="true" centerPoint3DX="121.6" centerPoint3DY="451">
                   <matrix>
                     <Matrix a="2.47691345214844" d="2.5009765625" tx="83.35" ty="393.55"/>
                   </matrix>
@@ -248,11 +248,11 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="TC_TObject__additionalsodabubbles" color="#009999" autoNamed="false" visible="false">
+        <DOMLayer name="TC_TObject__additionalsodabubbles" color="#009999" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Assets/CGesyerAssets/TC_TObject__additionalsodabubbles" centerPoint3DX="122.6" centerPoint3DY="583.45">
+                <DOMSymbolInstance libraryItemName="Assets/CGesyerAssets/TC_TObject__additionalsodabubbles" cacheAsBitmap="true" centerPoint3DX="122.6" centerPoint3DY="583.45">
                   <matrix>
                     <Matrix a="2.28428649902344" d="2.505615234375" tx="122.6" ty="583.4"/>
                   </matrix>
@@ -264,11 +264,11 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="co2halffullbottle" color="#FF0000" autoNamed="false" visible="false">
+        <DOMLayer name="co2halffullbottle" color="#FF0000" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Assets/Bottle Assets copy/co2halffullbottle" centerPoint3DX="118.95" centerPoint3DY="754.85">
+                <DOMSymbolInstance libraryItemName="Assets/Bottle Assets copy/co2halffullbottle" cacheAsBitmap="true" centerPoint3DX="118.95" centerPoint3DY="754.85">
                   <matrix>
                     <Matrix a="2.31219482421875" d="2.59494018554688" tx="118.9" ty="754.8"/>
                   </matrix>
@@ -280,11 +280,11 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="TC_TObject__additionalsodabubbles" color="#669900" autoNamed="false" visible="false">
+        <DOMLayer name="TC_TObject__additionalsodabubbles" color="#669900" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Assets/CGesyerAssets/TC_TObject__additionalsodabubbles" selected="true" centerPoint3DX="120.85" centerPoint3DY="761.15">
+                <DOMSymbolInstance libraryItemName="Assets/CGesyerAssets/TC_TObject__additionalsodabubbles" cacheAsBitmap="true" centerPoint3DX="120.85" centerPoint3DY="761.15">
                   <matrix>
                     <Matrix a="2.28428649902344" d="2.505615234375" tx="120.8" ty="761.1"/>
                   </matrix>
@@ -296,11 +296,11 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="TC_TObject__geyser1" color="#FF4F4F" autoNamed="false" visible="false">
+        <DOMLayer name="TC_TObject__geyser1" color="#FF4F4F" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Assets/CGesyerAssets/TC_TObject__geyser1" centerPoint3DX="122.25" centerPoint3DY="387">
+                <DOMSymbolInstance libraryItemName="Assets/CGesyerAssets/TC_TObject__geyser1" cacheAsBitmap="true" centerPoint3DX="122.25" centerPoint3DY="387">
                   <matrix>
                     <Matrix a="1.981201171875" d="2.36601257324219" tx="122.2" ty="387"/>
                   </matrix>
@@ -312,7 +312,7 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="Layer_29" color="#009999">
+        <DOMLayer name="Layer_29" color="#009999" visible="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements/>
@@ -434,7 +434,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Assets/Bottle Assets copy/sodabottletint" centerPoint3DX="118.7" centerPoint3DY="597.15">
+                <DOMSymbolInstance libraryItemName="Assets/Bottle Assets copy/sodabottletint" cacheAsBitmap="true" centerPoint3DX="118.7" centerPoint3DY="597.15">
                   <matrix>
                     <Matrix a="2.194580078125" d="2.28607177734375" tx="118.55" ty="597"/>
                   </matrix>
@@ -450,7 +450,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Assets/Bottle Assets copy/sodabottle" selected="true" centerPoint3DX="120.6" centerPoint3DY="595.3">
+                <DOMSymbolInstance libraryItemName="Assets/Bottle Assets copy/sodabottle" centerPoint3DX="120.6" centerPoint3DY="595.3">
                   <matrix>
                     <Matrix a="2.194580078125" d="2.28607177734375" tx="120.45" ty="595.15"/>
                   </matrix>
@@ -466,7 +466,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Assets/MintAssets copy/TC_TObject__mintinhand" selected="true" centerPoint3DX="118.95" centerPoint3DY="869.15">
+                <DOMSymbolInstance libraryItemName="Assets/MintAssets copy/TC_TObject__mintinhand" centerPoint3DX="118.95" centerPoint3DY="869.15">
                   <matrix>
                     <Matrix a="2.5380859375" d="2.46611022949219" tx="118.9" ty="869.1"/>
                   </matrix>
@@ -478,11 +478,11 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="LongerGesyer" color="#669900" current="true" isSelected="true" autoNamed="false">
+        <DOMLayer name="LongerGesyer" color="#669900" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Assets/CGesyerAssets/LongerGesyer" selected="true">
+                <DOMSymbolInstance libraryItemName="Assets/CGesyerAssets/LongerGesyer" cacheAsBitmap="true">
                   <matrix>
                     <Matrix a="2.08383178710938" d="2.2974853515625" tx="125.65" ty="188.85"/>
                   </matrix>
@@ -523,13 +523,13 @@
                   </strokes>
                   <edges>
                     <Edge fillStyle0="1" edges="
-!3117 9721S1[3041 9760 2968 9738!2968 9738[2929 9729 2895 9709!2895 9709[2796 9652 2744 9506!2744 9506[2709 9385 2709 9163!2709 9163|2709 8118!2709 8118[2681 8049 2665 7938!2665 7938[2643 7713 2645 7533!2645 7533[2645 7516 2648 7494!2648
+!3117 9721[3041 9760 2968 9738!2968 9738[2929 9729 2895 9709!2895 9709[2796 9652 2744 9506!2744 9506[2709 9385 2709 9163!2709 9163|2709 8118!2709 8118[2681 8049 2665 7938!2665 7938[2643 7713 2645 7533!2645 7533[2645 7516 2648 7494!2648
  7494|1940 7469!1940 7469[1886 7464 1876 7444!1876 7444[1853 7410 1894 7378!1894 7378[1922 7361 1967 7361!1967 7361[2094 7356 2394 7370!2394 7370[2541 7380 2655 7383!2655 7383[2681 7050 2787 6537!2787 6537[2792 6517 2797 6500!2797 6500
 [2742 6492 2673 6475!2673 6475[2612 6460 2551 6453!2551 6453[2412 6448 2318 6448!2318 6448[2033 6446 1785 6436!1785 6436[1808 6463 1805 6544!1805 6544|1795 6650!1795 6650[1808 6695 1810 6732!1810 6732[1823 6823 1823 7015!1823 7015[1828
  7109 1846 7291!1846 7291[1866 7575 1787 7915!1787 7915[1737 8135 1610 8525!1610 8525|1358 9272!1358 9272[1346 9306 1338 9338!1338 9338[1394 9338 1440 9331!1440 9331|1445 9684!1445 9684|1092 9684!1092 9684[1638 10280 2381 10280!2381 10280
 [2409 10280 2437 10280!2437 10280[2677 10272 2895 10202!2895 10202[3018 10161 3135 10101!3135 10101|3135 9759!3135 9759[3120 9747 3117 9721"/>
                     <Edge strokeStyle="1" edges="
-!3135 10155S4[3018 10204 2895 10234!2895 10234[2703 10280 2495 10280!2495 10280[2468 10280 2437 10280"/>
+!3135 10155[3018 10204 2895 10234!2895 10234[2703 10280 2495 10280!2495 10280[2468 10280 2437 10280"/>
                     <Edge cubics="!3135 10155(;3057,10188 2977,10214 2895,10234q3135 10155Q3018 10204q2895 10234);"/>
                     <Edge cubics="!2895 10234(;2770,10264 2635,10280 2495,10280q2895 10234Q2703 10280q2495 10280);"/>
                     <Edge cubics="!1440 9331(;1440,9452 1440,9568 1445,9684q1440 9331 1445 9684);"/>
@@ -596,7 +596,7 @@
                   </fills>
                   <edges>
                     <Edge fillStyle0="1" edges="
-!1254 7363S1[1242 7412 1234 7459!1234 7459[1252 7410 1270 7363!1270 7363|1254 7363"/>
+!1254 7363[1242 7412 1234 7459!1234 7459[1252 7410 1270 7363!1270 7363|1254 7363"/>
                     <Edge cubics="!1254 7363(;1244,7395 1239,7425 1234,7459q1254 7363Q1242 7412q1234 7459);"/>
                     <Edge cubics="!1234 7459(;1244,7425 1259,7393 1270,7363q1234 7459Q1252 7410q1270 7363);"/>
                     <Edge cubics="!1270 7363(;1270,7363 1254,7363 1254,7363q1270 7363 1254 7363);"/>
@@ -626,7 +626,7 @@
                   </fills>
                   <edges>
                     <Edge fillStyle0="1" edges="
-!1513 5790S1[1513 5817 1526 5851!1526 5851[1526 5817 1528 5790!1528 5790|1513 5790"/>
+!1513 5790[1513 5817 1526 5851!1526 5851[1526 5817 1528 5790!1528 5790|1513 5790"/>
                     <Edge cubics="!1528 5790(;1528,5790 1513,5790 1513,5790q1528 5790 1513 5790);"/>
                     <Edge cubics="!1526 5851(;1526,5827 1526,5804 1528,5790q1526 5851Q1526 5817q1528 5790);"/>
                     <Edge cubics="!1513 5790(;1513,5804 1516,5827 1526,5851q1513 5790Q1513 5817q1526 5851);"/>
@@ -660,26 +660,24 @@
                   </strokes>
                   <edges>
                     <Edge fillStyle1="1" edges="
-!3135 5903S2[3134 5877 3125 5866!3125 5866[3115 5851 3072 5836!3072 5836|2978 5804!2978 5804[2960 5799 2947 5790!2947 5790[2942 5787 2940 5787!2940 5787[2935 5775 2935 5767!2935 5767[2935 5755 2942 5748!2942 5748[2968 5765 3051 5787!3051
+!3135 5903[3134 5877 3125 5866!3125 5866[3115 5851 3072 5836!3072 5836|2978 5804!2978 5804[2960 5799 2947 5790!2947 5790[2942 5787 2940 5787!2940 5787[2935 5775 2935 5767!2935 5767[2935 5755 2942 5748!2942 5748[2968 5765 3051 5787!3051
  5787[3110 5802 3135 5832!3135 5832|3135 5903"/>
                     <Edge strokeStyle="1" edges="
-!1660 6177S4|1511 5962!1511 5962|1531 5839!1531 5839|1665 5775!1665 5775|2681 5758!2681 5758|2947 5790"/>
-                    <Edge fillStyle1="1" edges="
-!3054 6164S2[3059 6157 3061 6150!3061 6150[3089 6098 3099 6071!3099 6071[3132 6005 3135 5931!3135 5931|3135 6074!3135 6074[3125 6109 3110 6135!3110 6135[3077 6187 3072 6211"/>
+!1660 6177|1511 5962!1511 5962|1531 5839!1531 5839|1665 5775!1665 5775|2681 5758!2681 5758|2947 5790"/>
                     <Edge fillStyle0="1" fillStyle1="2" edges="
-!3054 6164S3[3059 6162 3061 6162!3061 6162[3072 6182 3072 6206!3072 6206[3072 6209 3072 6211"/>
+!3054 6164[3059 6162 3061 6162!3061 6162[3072 6182 3072 6206!3072 6206[3072 6209 3072 6211"/>
+                    <Edge fillStyle1="1" edges="
+!3054 6164[3059 6157 3061 6150!3061 6150[3089 6098 3099 6071!3099 6071[3132 6005 3135 5931!3135 5931|3135 6074!3135 6074[3125 6109 3110 6135!3110 6135[3077 6187 3072 6211"/>
                     <Edge fillStyle1="2" edges="
-!3039 6256S2[3036 6256 3036 6258!3036 6258[3016 6234 2983 6238!2983 6238[2942 6248 2940 6278!2940 6278[2920 6279 2895 6280!2895 6280[2879 6280 2861 6280!2861 6280|2143 6278!2143 6278[1998 6275 1874 6268!1874 6268[1869 6266 1863 6266!1863
+!3039 6256[3036 6256 3036 6258!3036 6258[3016 6234 2983 6238!2983 6238[2942 6248 2940 6278!2940 6278[2920 6279 2895 6280!2895 6280[2879 6280 2861 6280!2861 6280|2143 6278!2143 6278[1998 6275 1874 6268!1874 6268[1869 6266 1863 6266!1863
  6266[1861 6266 1858 6266!1858 6266[1767 6258 1686 6243!1686 6243[1676 6241 1665 6238!1665 6238[1653 6219 1653 6201!1653 6201[1653 6184 1660 6177!1660 6177[1668 6167 1676 6167!1676 6167[1678 6164 1704 6164!1704 6164[1762 6172 1876 6184
-!1876 6184[1980 6192 2054 6192!2054 6192|2787 6192!2787 6192[2846 6192 2895 6189!2895 6189[2997 6183 3054 6164"/>
+!1876 6184[1980 6192 2054 6192!2054 6192|2787 6192!2787 6192[2846 6192 2895 6189!2895 6189[2997 6183 3054 6164!3072 6211[3072 6216 3069 6221"/>
                     <Edge fillStyle0="1" fillStyle1="2" edges="
-!3069 6221S3[3064 6236 3054 6246!3054 6246[3046 6248 3039 6256"/>
-                    <Edge fillStyle1="2" edges="
-!3072 6211S2[3072 6216 3069 6221"/>
+!3069 6221[3064 6236 3054 6246!3054 6246[3046 6248 3039 6256"/>
                     <Edge fillStyle1="1" edges="
-!3069 6221S2[3066 6236 3066 6271!3066 6271[3066 6288 3064 6300!3064 6300[3054 6278 3041 6266!3041 6266|3041 6263!3041 6263[3039 6258 3039 6256"/>
+!3069 6221[3066 6236 3066 6271!3066 6271[3066 6288 3064 6300!3064 6300[3054 6278 3041 6266!3041 6266|3041 6263!3041 6263[3039 6258 3039 6256"/>
                     <Edge strokeStyle="1" edges="
-!1686 7139S4|1686 6243"/>
+!1686 7139|1686 6243"/>
                     <Edge cubics="!1511 5962(;1511,5962 1531,5839 1531,5839q1511 5962 1531 5839);"/>
                     <Edge cubics="!1531 5839(;1531,5839 1665,5775 1665,5775q1531 5839 1665 5775);"/>
                     <Edge cubics="!1665 5775(;1665,5775 2681,5758 2681,5758q1665 5775 2681 5758);"/>
@@ -757,7 +755,7 @@
                   </fills>
                   <edges>
                     <Edge fillStyle0="1" edges="
-!2724 5770S1[2696 5770 2673 5770!2673 5770|2140 5775!2140 5775[2138 5785 2135 5787!2135 5787[2084 5898 1960 5915!1960 5915[1985 5933 2026 5935!2026 5935[2054 5935 2099 5935!2099 5935[2122 5938 2242 5980!2242 5980[2295 5992 2460 6007!2460
+!2724 5770[2696 5770 2673 5770!2673 5770|2140 5775!2140 5775[2138 5785 2135 5787!2135 5787[2084 5898 1960 5915!1960 5915[1985 5933 2026 5935!2026 5935[2054 5935 2099 5935!2099 5935[2122 5938 2242 5980!2242 5980[2295 5992 2460 6007!2460
  6007[2625 6014 2895 6068!2895 6068[2903 6069 2912 6071!2912 6071[2945 6076 2973 6088!2973 6088|3001 5846!3001 5846[2952 5821 2895 5804!2895 5804[2817 5780 2724 5770"/>
                     <Edge cubics="!2724 5770(;2706,5770 2688,5770 2673,5770q2724 5770Q2696 5770q2673 5770);"/>
                     <Edge cubics="!2135 5787(;2105,5854 2033,5906 1960,5915q2135 5787Q2084 5898q1960 5915);"/>

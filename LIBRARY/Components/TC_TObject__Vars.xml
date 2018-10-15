@@ -1,12 +1,15 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Components/TC_TObject__Vars" itemID="5b9844a8-00000cd3" linkageExportForAS="true" linkageClassName="TC_TObject__Vars" lastModified="1537744933">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Components/TC_TObject__Vars" itemID="5b9844a8-00000cd3" linkageExportForAS="true" linkageClassName="TC_TObject__Vars" lastModified="1539621761">
+  <persistentData>
+    <PD n="CreateJSToolkit_timelinedata" v="version&#xA;0.1&#xA;loop&#xA;true"/>
+  </persistentData>
   <timeline>
     <DOMTimeline name="TC_TObject__Vars">
       <layers>
-        <DOMLayer name="Svar1a" color="#669900" current="true" isSelected="true" autoNamed="false" visible="false">
+        <DOMLayer name="Svar1a" color="#669900" autoNamed="false" visible="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Assets/FullBottles/TC_TObject__SodaBottle_Plain" name="Svar1a">
+                <DOMSymbolInstance libraryItemName="Assets/FullBottles/TC_TObject__SodaBottle_Plain" name="Svar1a" selected="true">
                   <matrix>
                     <Matrix a="3.05401611328125" d="3.05401611328125" tx="106.75" ty="313.5"/>
                   </matrix>
@@ -18,11 +21,11 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="Svar1b" color="#FF0000" autoNamed="false">
+        <DOMLayer name="Svar1b" color="#FF0000" autoNamed="false" visible="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Assets/FullBottles/TC_TObject__FullSodaBottle_SugarFree" name="Svar1b">
+                <DOMSymbolInstance libraryItemName="Assets/FullBottles/TC_TObject__FullSodaBottle_SugarFree" name="Svar1b" selected="true">
                   <matrix>
                     <Matrix a="3.05401611328125" d="3.05401611328125" tx="106.75" ty="313.5"/>
                   </matrix>
@@ -38,7 +41,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Assets/FullBottles/TC_TObject__SodaBottle_Plain" name="Svar2a">
+                <DOMSymbolInstance libraryItemName="Assets/FullBottles/TC_TObject__SodaBottle_Plain" name="Svar2a" selected="true">
                   <matrix>
                     <Matrix a="3.06292724609375" d="3.06292724609375" tx="106.75" ty="314.4"/>
                   </matrix>
@@ -54,7 +57,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Assets/FullBottles/TC_TObject__FullSodaBottle_CaffeineFree" name="Svar2b">
+                <DOMSymbolInstance libraryItemName="Assets/FullBottles/TC_TObject__FullSodaBottle_CaffeineFree" name="Svar2b" selected="true">
                   <matrix>
                     <Matrix a="3.06292724609375" d="3.06292724609375" tx="106.75" ty="314.4"/>
                   </matrix>
@@ -66,11 +69,11 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="Svar3b" color="#FF4FFF" autoNamed="false" visible="false">
+        <DOMLayer name="Svar3a" color="#FF4FFF" autoNamed="false" visible="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Assets/TC_TObject__SmallerMint_Scene" name="Svar3b">
+                <DOMSymbolInstance libraryItemName="Assets/TC_TObject__SmallerMint_Scene" name="Svar3a" selected="true">
                   <matrix>
                     <Matrix a="1.42155456542969" d="1.42158508300781" tx="106.7" ty="313.55"/>
                   </matrix>
@@ -82,11 +85,11 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="Svar3a" color="#009999" autoNamed="false" visible="false">
+        <DOMLayer name="Svar3b" color="#009999" autoNamed="false" visible="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Assets/TC_TObject__LargerMint_Scene" name="Svar3a">
+                <DOMSymbolInstance libraryItemName="Assets/TC_TObject__LargerMint_Scene" name="Svar3b" selected="true">
                   <matrix>
                     <Matrix a="1.395751953125" d="1.395751953125" tx="106.75" ty="311.55"/>
                   </matrix>
@@ -98,7 +101,23 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="Svar4b" color="#9933CC" autoNamed="false" visible="false">
+        <DOMLayer name="Svar4a" color="#FF800A" current="true" isSelected="true" autoNamed="false" visible="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/TC_TObject__HIghCo2Combined" name="Svar4a" selected="true">
+                  <matrix>
+                    <Matrix a="2.32601928710938" d="2.32661437988281" tx="106.75" ty="313.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.2" y="0.25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Svar4b" color="#9933CC" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
@@ -108,22 +127,6 @@
                   </matrix>
                   <transformationPoint>
                     <Point x="-0.3" y="0.1"/>
-                  </transformationPoint>
-                </DOMSymbolInstance>
-              </elements>
-            </DOMFrame>
-          </frames>
-        </DOMLayer>
-        <DOMLayer name="Svar4a" color="#FF800A" autoNamed="false" visible="false">
-          <frames>
-            <DOMFrame index="0" keyMode="9728">
-              <elements>
-                <DOMSymbolInstance libraryItemName="Assets/TC_TObject__HIghCo2Combined" name="Svar4a">
-                  <matrix>
-                    <Matrix a="2.32601928710938" d="2.32661437988281" tx="106.75" ty="313.5"/>
-                  </matrix>
-                  <transformationPoint>
-                    <Point x="-0.2" y="0.25"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
               </elements>
