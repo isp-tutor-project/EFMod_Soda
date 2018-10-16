@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Scenes/TC_TScene__RQenumVars" itemID="5b9e9681-000008c6" linkageExportForAS="true" linkageClassName="TC_TScene__RQenumVars" lastModified="1539014047">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Scenes/TC_TScene__RQenumVars" itemID="5b9e9681-000008c6" linkageExportForAS="true" linkageClassName="TC_TScene__RQenumVars" lastModified="1539641149">
   <persistentData>
     <PD n="CreateJSToolkit_timelinedata" v="version&#xA;0.1&#xA;loop&#xA;true"/>
   </persistentData>
@@ -53,7 +53,7 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="Sicon2" color="#FF4FFF" current="true" isSelected="true" autoNamed="false">
+        <DOMLayer name="Sicon2" color="#FF4FFF" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
@@ -69,11 +69,11 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="Sicon1" color="#FF800A" autoNamed="false">
+        <DOMLayer name="Sicon1" color="#FF800A" current="true" isSelected="true" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Components/TC_TObject__Vars" name="Sicon1">
+                <DOMSymbolInstance libraryItemName="Components/TC_TObject__Vars" name="Sicon1" selected="true">
                   <matrix>
                     <Matrix a="0.688674926757813" d="0.688674926757813" tx="476.75" ty="437.55"/>
                   </matrix>

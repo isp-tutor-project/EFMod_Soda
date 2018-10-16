@@ -5,7 +5,7 @@
   <timeline>
     <DOMTimeline name="TC_TScene__TEDExpt">
       <layers>
-        <DOMLayer name="Layer_2" color="#9933CC">
+        <DOMLayer name="Layer_2" color="#9933CC" current="true" isSelected="true">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
@@ -17,7 +17,7 @@
                     <Point x="50.85" y="50.2"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Components/TC_TTEDExpt__TEDExpt" name="Sexpt1">
+                <DOMSymbolInstance libraryItemName="Components/TC_TTEDExpt__TEDExpt" name="Sexpt1" selected="true">
                   <matrix>
                     <Matrix a="0.844345092773438" d="0.844345092773438" tx="121.1" ty="359.8"/>
                   </matrix>
@@ -37,7 +37,7 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="Layer_3" color="#FF800A" current="true" isSelected="true">
+        <DOMLayer name="Layer_3" color="#FF800A">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>

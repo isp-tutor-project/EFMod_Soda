@@ -101,6 +101,7 @@
           <Include href="Assets/NewCO2Bottles/Carbonation.xml" loadImmediate="false" itemID="5a79f4fd-000002e7" lastModified="1529083471"/>
           <Include href="Assets/NewCO2Bottles/HighCO2Soda.xml" loadImmediate="false" itemID="5a79f36a-0000026d" lastModified="1517941464"/>
           <Include href="Assets/NewCO2Bottles/LowCo2.xml" loadImmediate="false" itemID="5a79f4be-0000028a" lastModified="1529083501"/>
+          <Include href="Assets/TC_TObject__ArrowHead.xml" loadImmediate="false" itemID="5bb9152b-00001b54" lastModified="1538856261"/>
           <Include href="Assets/TC_TObject__Blackarrow.xml" loadImmediate="false" itemID="5ba6aaff-000012b6" lastModified="1537649407"/>
           <Include href="Assets/TC_TObject__Chand.xml" loadImmediate="false" itemID="5ba6a502-00001239" lastModified="1537647874"/>
           <Include href="Assets/TC_TObject__HIghCo2Combined.xml" loadImmediate="false" itemID="5ba16a28-0000203e" lastModified="1537305128"/>
@@ -109,6 +110,7 @@
           <Include href="Assets/TC_TObject__NewRuler.xml" loadImmediate="false" itemID="5ba6ab0b-000012b7" lastModified="1537649419"/>
           <Include href="Assets/TC_TObject__S_arrowcm.xml" loadImmediate="false" itemID="5ba6aaed-000012b5" lastModified="1537649389"/>
           <Include href="Assets/TC_TObject__SmallerMint_Scene.xml" loadImmediate="false" itemID="5ba16a12-0000203b" lastModified="1537305106"/>
+          <Include href="Assets/TC_TVirtual__ExptRgn.xml" loadImmediate="false" itemID="5bba4384-00002307" lastModified="1538933636"/>
           <Include href="Assets/Textassets/TC_TObject__startinglevel.xml" loadImmediate="false" itemID="5ba6a522-0000123c" lastModified="1537647906"/>
           <Include href="Components/Bead Assets/TC_TObject__Shape Assets/TC_TObject__CallOutBar.xml" loadImmediate="false" itemID="5bb909bf-000019ae" lastModified="1538853311"/>
           <Include href="Components/Expt Assets/TC_TObject__Calllout1a.xml" loadImmediate="false" itemID="5ba92c61-00000d9d" lastModified="1538844965"/>
@@ -148,7 +150,7 @@
           <Include href="Components/TC_TObject__QuestionBorder.xml" loadImmediate="false" itemID="5bac1487-0000096f" lastModified="1538004103"/>
           <Include href="Components/TC_TObject__Topic.xml" itemID="5b9844a3-00000cd2" lastModified="1539624445"/>
           <Include href="Components/TC_TObject__Vars.xml" itemID="5b9844a8-00000cd3" lastModified="1539621761"/>
-          <Include href="Components/TC_TTEDExpt__TEDExpt.xml" itemID="5bbb9137-00002ec2" lastModified="1539019431"/>
+          <Include href="Components/TC_TTEDExpt__TEDExpt.xml" itemID="5bbb9137-00002ec2" lastModified="1539641205"/>
           <Include href="Exports/TL_Soda__Movie.xml" loadImmediate="false" itemID="5b984494-00000cd0" lastModified="1536705684"/>
           <Include href="Exports/TL_Soda__RQintro1.xml" loadImmediate="false" itemID="5b958865-00000fcb" lastModified="1536526437"/>
           <Include href="Exports/TL_Soda__RQintro2.xml" loadImmediate="false" itemID="5b958879-00000fd4" lastModified="1536526457"/>
@@ -159,7 +161,7 @@
           <Include href="Exports/TL_Soda__RQvariables.xml" loadImmediate="false" itemID="5b958870-00000fce" lastModified="1536526448"/>
           <Include href="Exports/TL_Soda__Topic.xml" loadImmediate="false" itemID="5b98448a-00000cce" lastModified="1536705674"/>
           <Include href="Exports/TL_Soda__Vars.xml" loadImmediate="false" itemID="5b984490-00000ccf" lastModified="1536705680"/>
-          <Include href="Scenes/TC_TScene__RQenumVars.xml" itemID="5b9e9681-000008c6" lastModified="1539014047"/>
+          <Include href="Scenes/TC_TScene__RQenumVars.xml" itemID="5b9e9681-000008c6" lastModified="1539641149"/>
           <Include href="Scenes/TC_TScene__RQintro1.xml" itemID="5ba50e3a-0000031f" lastModified="1537658870"/>
           <Include href="Scenes/TC_TScene__RQintro2.xml" itemID="5ba51687-0000149a" lastModified="1537658885"/>
           <Include href="Scenes/TC_TScene__RQintro3.xml" itemID="5ba6ad9c-000012c9" lastModified="1537658910"/>
@@ -174,11 +176,9 @@
           <Include href="Scenes/TC_TScene__TEDQuest4A.xml" itemID="5bb66a4a-00000614" lastModified="1538681426"/>
           <Include href="Scenes/TC_TScene__TEDQuest4B.xml" itemID="5bb66a2c-00000613" lastModified="1538681532"/>
           <Include href="Scenes/TC_TScene__Template.xml" loadImmediate="false" itemID="5b6f468c-000004bf" lastModified="1536516033"/>
-          <Include href="TC_TObject__ArrowHead.xml" loadImmediate="false" itemID="5bb9152b-00001b54" lastModified="1538856261"/>
-          <Include href="TC_TVirtual__ExptRgn.xml" loadImmediate="false" itemID="5bba4384-00002307" lastModified="1538933636"/>
      </symbols>
      <timelines>
-          <DOMTimeline name="Scene 1" currentFrame="3">
+          <DOMTimeline name="Scene 1">
                <layers>
                     <DOMLayer name="Actions" color="#00FFFF" locked="true" autoNamed="false" visible="false">
                          <frames>
